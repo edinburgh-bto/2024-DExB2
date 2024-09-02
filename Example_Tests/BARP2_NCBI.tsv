@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A1R3H7S3	SANT/Myb domain-containing protein OS=Corchorus capsularis OX=210143 GN=CCACVL1_21220 PE=4 SV=1	Corchorus capsularis	357	784	70.6	82.0	1.5e-101
+2	TR	A0A1R3JQT3	SANT/Myb domain-containing protein OS=Corchorus olitorius OX=93759 GN=COLO4_14794 PE=4 SV=1	Corchorus olitorius	357	779	70.1	81.5	8.4e-101
+3	TR	A0A067KHN5	MYB family protein OS=Jatropha curcas OX=180498 GN=JCGZ_09080 PE=4 SV=1	Jatropha curcas	357	776	69.2	82.9	2.4e-100
+4	TR	A0A7N2M6V8	Asymmetric leaves 1 OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	357	771	68.7	82.5	1.4e-99
+5	TR	A0A978UI48	Transcription factor AS1 OS=Ziziphus jujuba var. spinosa OX=714518 GN=FEM48_Zijuj11G0093900 PE=4 SV=1	Ziziphus jujuba var. spinosa	356	767	69.2	81.5	5.4e-99
+6	TR	A0A6P4ANS3	Transcription factor AS1 isoform X1 OS=Ziziphus jujuba OX=326968 GN=LOC107430642 PE=4 SV=1	Ziziphus jujuba	356	767	69.2	81.5	5.4e-99
+7	TR	A0A7N2M637	Asymmetric leaves 1 OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	357	766	68.2	82.0	7.9e-99
+8	TR	A0A1Q3BP19	Myb_DNA-bind_6 domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_12954 PE=4 SV=1	Cephalotus follicularis	357	765	68.7	82.9	1.1e-98
+9	TR	A0A6P5YTN1	Transcription factor AS1-like OS=Durio zibethinus OX=66656 GN=LOC111294547 PE=4 SV=1	Durio zibethinus	357	763	66.8	80.6	2.2e-98
+10	TR	A0A6P6ARU7	Transcription factor AS1-like OS=Durio zibethinus OX=66656 GN=LOC111311943 PE=4 SV=1	Durio zibethinus	357	759	68.2	81.0	9.1e-98
+11	TR	A0A5C7HPC8	Uncharacterized protein OS=Acer yangbiense OX=1000413 GN=EZV62_016444 PE=4 SV=1	Acer yangbiense	359	759	69.0	82.2	9.7e-98
+12	TR	A0A836J0M7	Myb-related protein OS=Salix suchowensis OX=1278906 GN=IMY05_006G0071600 PE=4 SV=1	Salix suchowensis	366	757	67.4	80.5	2.4e-97
+13	TR	A0A8J4VAF6	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_020351 PE=4 SV=1	Castanea mollissima	324	753	66.8	81.0	2.6e-97
+14	TR	A0A6A6KML4	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_010211 PE=4 SV=1	Hevea brasiliensis	355	755	68.7	82.5	3.4e-97
+15	TR	A0A6J1AQ77	Transcription factor AS1 OS=Herrania umbratica OX=108875 GN=LOC110420398 PE=4 SV=1	Herrania umbratica	357	755	67.8	80.6	3.7e-97
+16	TR	A0A5N5MCT2	Uncharacterized protein OS=Salix brachista OX=2182728 GN=DKX38_009372 PE=4 SV=1	Salix brachista	364	754	67.6	80.8	6.5e-97
+17	TR	A0A061ER46	Myb-like HTH transcriptional regulator family protein isoform 1 OS=Theobroma cacao OX=3641 GN=TCM_021932 PE=4 SV=1	Theobroma cacao	357	753	67.8	80.6	7.4e-97
+18	TR	A0A8K0MK80	Asymmetric leaves 1 OS=Rhamnella rubrinervis OX=2594499 GN=FNV43_RR09909 PE=4 SV=1	Rhamnella rubrinervis	358	752	67.9	81.6	1.1e-96
+19	TR	A0A2I4DYF3	Transcription factor AS1 OS=Juglans regia OX=51240 GN=LOC108984614 PE=4 SV=1	Juglans regia	356	750	67.8	82.0	2e-96
+20	TR	A0A6P5Z1E2	Transcription factor AS1-like OS=Durio zibethinus OX=66656 GN=LOC111296509 PE=4 SV=1	Durio zibethinus	357	750	67.3	81.5	2.1e-96
+21	TR	A0A8T1PMS7	Asymmetric leaves 1 OS=Carya illinoinensis OX=32201 GN=CIPAW_09G192900 PE=4 SV=1	Carya illinoinensis	356	748	68.2	82.0	4.1e-96
+22	TR	F6HLC3	Transcription factor AS1 OS=Vitis vinifera OX=29760 GN=VIT_08s0007g00410 PE=4 SV=1	Vitis vinifera	358	745	67.5	81.1	1.2e-95
+23	TR	B9SYB2	Asymmetric leaves1 and rough sheath, putative OS=Ricinus communis OX=3988 GN=RCOM_0760730 PE=4 SV=1	Ricinus communis	359	743	68.1	81.7	2.6e-95
+24	TR	A0A4U5QGP2	Transcription factor AS1 OS=Populus alba OX=43335 GN=D5086_0000091540 PE=4 SV=1	Populus alba	365	742	65.8	78.5	4.4e-95
+25	TR	A0A8T2YLX5	Uncharacterized protein OS=Populus deltoides OX=3696 GN=H0E87_013104 PE=4 SV=1	Populus deltoides	369	740	64.6	77.1	1e-94
+26	TR	A0A8X7ZMB6	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_022926 PE=4 SV=1	Populus tomentosa	365	739	65.3	78.5	1.3e-94
+27	TR	A0A8X8CND2	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_025114 PE=4 SV=1	Populus tomentosa	367	739	64.7	77.8	1.3e-94
+28	TR	A0A6A1WFW2	Transcription factor AS1 OS=Morella rubra OX=262757 GN=CJ030_MR2G023221 PE=4 SV=1	Morella rubra	358	737	66.4	80.1	2e-94
+29	TR	A0A2H5P6G2	Uncharacterized protein OS=Citrus unshiu OX=55188 GN=CUMW_108240 PE=4 SV=1	Citrus unshiu	350	736	68.7	82.9	2.2e-94
+30	TR	V4STM5	Uncharacterized protein OS=Citrus clementina OX=85681 GN=CICLE_v10012089mg PE=4 SV=1	Citrus clementina	350	736	68.7	82.9	2.2e-94
+31	TR	A0A6P5NFB2	Transcription factor AS1 OS=Arachis duranensis OX=130453 GN=LOC107484708 PE=4 SV=1	Arachis duranensis	360	734	67.3	80.6	6.1e-94
+32	TR	A0A1U8A6B1	Transcription factor AS1-like OS=Nelumbo nucifera OX=4432 GN=LOC104597193 PE=4 SV=1	Nelumbo nucifera	357	730	64.9	80.1	2.2e-93
+33	TR	A0A6J1J530	Transcription factor AS1-like OS=Cucurbita maxima OX=3661 GN=LOC111481437 PE=4 SV=1	Cucurbita maxima	210	716	66.0	80.7	2.4e-93
+34	TR	A0A2C9VAP1	Uncharacterized protein OS=Manihot esculenta OX=3983 GN=MANES_09G092900 PE=4 SV=1	Manihot esculenta	356	729	66.4	81.5	3.1e-93
+35	TR	A0A067EJR4	Uncharacterized protein OS=Citrus sinensis OX=2711 GN=CISIN_1g018768mg PE=4 SV=1	Citrus sinensis	350	728	68.2	82.5	3.6e-93
+36	TR	A0A6A6LSR0	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_014257 PE=4 SV=1	Hevea brasiliensis	356	727	66.8	82.0	6.2e-93
+37	TR	A0A6J1CVZ3	Transcription factor AS1 OS=Momordica charantia OX=3673 GN=LOC111015078 PE=4 SV=1	Momordica charantia	210	713	65.1	81.1	6.8e-93
+38	TR	A0A1U8APA9	Transcription factor AS1-like OS=Nelumbo nucifera OX=4432 GN=LOC104602458 PE=4 SV=1	Nelumbo nucifera	356	726	65.9	78.2	8.8e-93
+39	TR	A0A834Z1A3	Uncharacterized protein OS=Tetracentron sinense OX=13715 GN=HHK36_016402 PE=4 SV=1	Tetracentron sinense	355	722	65.9	80.1	3.4e-92
+40	TR	A0A445DGM0	Transcription factor OS=Arachis hypogaea OX=3818 GN=Ahy_A04g019786 PE=4 SV=1	Arachis hypogaea	359	720	67.3	80.1	7.8e-92
+41	TR	Q0ZGS9	Myb transcription factor OS=Medicago truncatula OX=3880 GN=PHAN PE=2 SV=1	Medicago truncatula	359	719	66.8	78.7	1.1e-91
+42	TR	A0A5D3DN74	Transcription factor AS1 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold352G001650 PE=4 SV=1	Cucumis melo var. makuwa	210	705	65.1	80.2	1.1e-91
+43	TR	A0A1S3B5G1	Transcription factor AS1 OS=Cucumis melo OX=3656 GN=LOC103486384 PE=4 SV=1	Cucumis melo	210	705	65.1	80.2	1.1e-91
+44	TR	A0A7J7DX25	Transcription factor AS1 OS=Tripterygium wilfordii OX=458696 GN=HS088_TW03G01280 PE=4 SV=1	Tripterygium wilfordii	361	717	66.5	79.1	2.4e-91
+45	TR	A0A5J4ZCR8	Transcription factor AS1 OS=Nyssa sinensis OX=561372 GN=F0562_016716 PE=4 SV=1	Nyssa sinensis	357	715	67.5	81.6	4.2e-91
+46	TR	A0A1S2XP73	Transcription factor AS1 OS=Cicer arietinum OX=3827 GN=LOC101507474 PE=4 SV=1	Cicer arietinum	355	714	67.8	78.2	5.6e-91
+47	TR	A0A8B8L7C0	Transcription factor AS1-like isoform X2 OS=Abrus precatorius OX=3816 GN=LOC113861786 PE=4 SV=1	Abrus precatorius	356	714	66.5	78.8	5.8e-91
+48	TR	A0A2H5PZQ7	Transcription factor AS1 OS=Citrus unshiu OX=55188 GN=CUMW_182610 PE=4 SV=1	Citrus unshiu	201	699	66.3	82.0	6.8e-91
+49	TR	A0A067H3I3	Transcription factor AS1 OS=Citrus sinensis OX=2711 GN=CISIN_1g028954mg PE=4 SV=1	Citrus sinensis	201	699	66.3	82.0	6.8e-91
+50	TR	A0A1S3TE25	Transcription factor AS1 OS=Vigna radiata var. radiata OX=3916 GN=LOC106754520 PE=4 SV=1	Vigna radiata var. radiata	354	711	65.6	78.8	1.5e-90
+51	TR	K7MT37	MYB/HD-like transcription factor OS=Glycine max OX=3847 GN=100819082 PE=2 SV=1	Glycine max	357	710	66.2	78.9	2.4e-90
+52	TR	A0A0B2Q1T6	Transcription factor AS1 OS=Glycine soja OX=3848 GN=D0Y65_048860 PE=4 SV=1	Glycine soja	357	710	66.2	78.9	2.4e-90
+53	TR	A0A5N6RJA1	Uncharacterized protein OS=Carpinus fangiana OX=176857 GN=FH972_017373 PE=4 SV=1	Carpinus fangiana	363	710	66.4	78.5	2.9e-90
+54	TR	A0A2P5DS61	Protein rough sheath 2/ASYMMETRIC LEAVES OS=Trema orientale OX=63057 GN=TorRG33x02_243200 PE=4 SV=1	Trema orientale	368	710	67.6	82.4	3.4e-90
+55	TR	A0A314YXL4	Transcription factor AS1 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_03410 PE=4 SV=1	Prunus yedoensis var. nudiflora	356	708	66.8	80.1	4.7e-90
+56	TR	A0A445JWD3	Transcription factor AS1 OS=Glycine soja OX=3848 GN=D0Y65_017739 PE=4 SV=1	Glycine soja	361	708	66.2	78.9	5.4e-90
+57	TR	A0A0K2CTB2	MYB/HD-like transcription factor (Fragment) OS=Glycine max OX=3847 GN=732551 PE=2 SV=1	Glycine max	361	708	66.2	78.9	5.4e-90
+58	TR	A0A0S3RVD1	Uncharacterized protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.04G184800 PE=4 SV=1	Vigna angularis var. angularis	358	707	65.1	78.3	7e-90
+59	TR	A0A0L9U5G4	Transcription factor OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0041860 PE=4 SV=1	Phaseolus angularis	358	707	65.1	78.3	7e-90
+60	TR	A0A0A0LAJ9	Transcription factor AS1 OS=Cucumis sativus OX=3659 GN=Csa_3G734210 PE=4 SV=1	Cucumis sativus	210	693	64.6	79.2	7.5e-90
+61	TR	A0A6J1I2B9	Transcription factor AS1-like OS=Cucurbita maxima OX=3661 GN=LOC111470250 PE=4 SV=1	Cucurbita maxima	210	693	64.2	79.7	7.5e-90
+62	TR	A0A8B8L5A2	Transcription factor AS1-like isoform X1 OS=Abrus precatorius OX=3816 GN=LOC113861786 PE=4 SV=1	Abrus precatorius	464	714	66.5	78.8	1.4e-89
+63	TR	A0A1J6I9E6	Transcription factor as1 OS=Nicotiana attenuata OX=49451 GN=AS1_2 PE=4 SV=1	Nicotiana attenuata	361	704	64.2	77.8	2.2e-89
+64	TR	A0A7J8YE71	Asymmetric leaves 1 OS=Gossypium aridum OX=34290 GN=Goari_021381 PE=4 SV=1	Gossypium aridum	323	699	65.1	79.7	3.8e-89
+65	TR	A0A6A3AC33	Transcription factor AS1 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110503pilonHSYRG00744 PE=4 SV=1	Hibiscus syriacus	357	702	65.6	78.8	3.9e-89
+66	TR	A0A8J6DA71	Asymmetric leaves 1 OS=Gossypium anomalum OX=47600 GN=CXB51_002851 PE=4 SV=1	Gossypium anomalum	356	701	65.1	80.2	5.3e-89
+67	TR	V7B638	Uncharacterized protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_008G102300g PE=4 SV=1	Phaseolus vulgaris	356	700	65.1	79.2	7.6e-89
+68	TR	A0A6P5TDH6	Transcription factor AS1 OS=Prunus avium OX=42229 GN=LOC110766213 PE=4 SV=1	Prunus avium	356	700	65.9	79.6	7.6e-89
+69	TR	A0A6A5N9A7	Transcription factor MYB-HB-like family OS=Lupinus albus OX=3870 GN=Lal_00012954 PE=4 SV=1	Lupinus albus	373	701	65.0	78.5	9e-89
+70	TR	A0A7J9HXY4	Asymmetric leaves 1 OS=Gossypium harknessii OX=34285 GN=Gohar_020539 PE=4 SV=1	Gossypium harknessii	356	699	65.1	79.7	1.1e-88
+71	TR	A0A7J9ARC3	Asymmetric leaves 1 OS=Gossypium laxum OX=34288 GN=Golax_002385 PE=4 SV=1	Gossypium laxum	356	699	65.1	79.7	1.1e-88
+72	TR	A0A7J8VUS5	Asymmetric leaves 1 OS=Gossypium klotzschianum OX=34286 GN=Goklo_002793 PE=4 SV=1	Gossypium klotzschianum	356	699	65.1	79.7	1.1e-88
+73	TR	A0A7J8N5N8	Uncharacterized protein OS=Gossypium lobatum OX=34289 GN=Golob_002583 PE=4 SV=1	Gossypium lobatum	356	699	65.1	79.7	1.1e-88
+74	TR	A0A7J8SYQ9	Asymmetric leaves 1 OS=Gossypium davidsonii OX=34287 GN=Godav_002734 PE=4 SV=1	Gossypium davidsonii	356	699	65.1	79.7	1.1e-88
+75	TR	A0A7J9MMI6	Uncharacterized protein OS=Gossypium schwendimanii OX=34291 GN=Goshw_010526 PE=4 SV=1	Gossypium schwendimanii	356	699	65.1	79.7	1.1e-88
+76	TR	A0A7J9F8Z1	Asymmetric leaves 1 OS=Gossypium trilobum OX=34281 GN=Gotri_002646 PE=4 SV=1	Gossypium trilobum	356	699	65.1	79.7	1.1e-88
+77	TR	A0A7J9K7J7	Transcription factor AS1 OS=Gossypium armourianum OX=34283 GN=Goarm_002210 PE=4 SV=1	Gossypium armourianum	356	699	65.1	79.7	1.1e-88
+78	TR	A0A7J9CQH7	Uncharacterized protein OS=Gossypium gossypioides OX=34282 GN=Gogos_002148 PE=4 SV=1	Gossypium gossypioides	356	699	65.1	79.7	1.1e-88
+79	TR	A0A0B0PHF6	Transcription factor AS1-like protein OS=Gossypium arboreum OX=29729 GN=F383_30231 PE=4 SV=1	Gossypium arboreum	356	699	65.1	79.7	1.1e-88
+80	TR	A0A0D2V3W9	Transcription factor AS1 OS=Gossypium raimondii OX=29730 GN=B456_012G104100 PE=4 SV=1	Gossypium raimondii	356	699	65.1	79.7	1.1e-88
+81	TR	A0A5D2VF93	Transcription factor AS1 OS=Gossypium mustelinum OX=34275 GN=E1A91_D04G142500v1 PE=4 SV=1	Gossypium mustelinum	356	699	65.1	79.7	1.1e-88
+82	TR	A0A5D2ZMZ5	Transcription factor AS1 OS=Gossypium mustelinum OX=34275 GN=E1A91_A04G109100v1 PE=4 SV=1	Gossypium mustelinum	356	699	65.1	79.7	1.1e-88
+83	TR	A0A1U7WVW6	Transcription factor AS1 OS=Nicotiana sylvestris OX=4096 GN=LOC104228117 PE=4 SV=1	Nicotiana sylvestris	361	699	63.7	77.8	1.3e-88
+84	TR	A0A1S4D1H0	Transcription factor AS1-like OS=Nicotiana tabacum OX=4097 GN=LOC107824977 PE=4 SV=1	Nicotiana tabacum	361	699	63.7	77.8	1.3e-88
+85	TR	A0A5E4F663	PREDICTED: mRNAion factor OS=Prunus dulcis OX=3755 GN=ALMOND_2B003573 PE=4 SV=1	Prunus dulcis	356	698	65.4	79.6	1.5e-88
+86	TR	A0A6J5V9R3	Uncharacterized protein OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS40061 PE=4 SV=1	Prunus armeniaca	356	698	65.4	79.6	1.5e-88
+87	TR	A0A1U8NMB5	Transcription factor AS1-like OS=Gossypium hirsutum OX=3635 GN=LOC107948901 PE=4 SV=1	Gossypium hirsutum	356	698	65.1	79.7	1.5e-88
+88	TR	M5WNZ5	Uncharacterized protein OS=Prunus persica OX=3760 GN=PRUPE_6G255800 PE=4 SV=1	Prunus persica	356	698	65.4	79.6	1.5e-88
+89	TR	A0A2P5APT8	Protein rough sheath 2/ASYMMETRIC LEAVES OS=Parasponia andersonii OX=3476 GN=PanWU01x14_311600 PE=4 SV=1	Parasponia andersonii	361	698	67.6	80.7	1.8e-88
+90	TR	A0A835LKT9	Uncharacterized protein OS=Coptis chinensis OX=261450 GN=IFM89_036586 PE=4 SV=1	Coptis chinensis	357	697	63.7	80.2	2.2e-88
+91	TR	V9LXP3	Asymmetric leaves 1 OS=Nicotiana tabacum OX=4097 GN=AS1 PE=2 SV=1	Nicotiana tabacum	363	696	63.1	76.6	3.8e-88
+92	TR	A0A2K1ZZ34	MYB family protein OS=Populus trichocarpa OX=3694 GN=POPTR_006G085900 PE=4 SV=1	Populus trichocarpa	364	696	62.8	76.1	3.9e-88
+93	TR	A0A1U8IQS8	Transcription factor AS1-like OS=Gossypium hirsutum OX=3635 GN=LOC107899312 PE=4 SV=1	Gossypium hirsutum	356	695	65.1	79.2	4.3e-88
+94	TR	A0A6A2XRS1	Transcription factor AS1 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00116939pilonHSYRG00231 PE=4 SV=1	Hibiscus syriacus	357	695	65.1	78.3	4.5e-88
+95	TR	A0A3Q7HZZ1	Phantastica OS=Solanum lycopersicum OX=4081 GN=543604 PE=4 SV=1	Solanum lycopersicum	360	695	62.7	76.9	4.9e-88
+96	TR	A0A200Q654	SANT/Myb domain OS=Macleaya cordata OX=56857 GN=BVC80_1707g26 PE=4 SV=1	Macleaya cordata	362	695	67.6	77.8	5.2e-88
+97	TR	A0A2Z6PA09	Uncharacterized protein OS=Trifolium subterraneum OX=3900 GN=TSUD_176980 PE=4 SV=1	Trifolium subterraneum	363	695	66.0	78.3	5.4e-88
+98	TR	A0A4P1R4B4	Uncharacterized protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_10404 PE=4 SV=1	Lupinus angustifolius	358	694	64.0	78.0	6.5e-88
+99	TR	A0A5N5FP38	Transcription factor AS1-like OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_037743 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	354	693	64.9	79.6	8.2e-88
+100	TR	B9T4X8	Asymmetric leaves1 and rough sheath, putative OS=Ricinus communis OX=3988 GN=RCOM_0283740 PE=4 SV=1	Ricinus communis	349	690	66.0	81.3	2e-87
+101	TR	A0A392M8X8	Transcription factor AS1-like OS=Trifolium medium OX=97028 GN=A2U01_0004391 PE=4 SV=1	Trifolium medium	363	689	65.6	77.8	4.3e-87
+102	TR	A0A7J7CT55	Transcription factor AS1 OS=Tripterygium wilfordii OX=458696 GN=HS088_TW13G00046 PE=4 SV=1	Tripterygium wilfordii	362	688	63.0	77.2	6e-87
+103	TR	A0A2K3P5U9	Transcription factor AS1-like protein OS=Trifolium pratense OX=57577 GN=L195_g007264 PE=4 SV=1	Trifolium pratense	363	688	65.1	77.8	6.1e-87
+104	TR	A0A7J7GKS2	Uncharacterized protein OS=Camellia sinensis OX=4442 GN=HYC85_022002 PE=4 SV=1	Camellia sinensis	379	689	63.4	76.5	7.1e-87
+105	TR	A0A059A787	Uncharacterized protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_K03130 PE=4 SV=1	Eucalyptus grandis	356	686	61.8	79.7	1e-86
+106	TR	A0A4S4EYE8	Uncharacterized protein OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_000273 PE=4 SV=1	Camellia sinensis var. sinensis	438	693	63.0	75.9	1e-86
+107	TR	A0A2G3BK45	Transcription factor AS1 OS=Capsicum chinense OX=80379 GN=BC332_23339 PE=4 SV=1	Capsicum chinense	361	686	61.8	76.4	1.2e-86
+108	TR	A0A5N5H7M9	Transcription factor AS1 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_024314 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	353	683	64.5	78.7	2.6e-86
+109	TR	A0A8B8Q608	Transcription factor AS1 OS=Rhodamnia argentea OX=178133 GN=LOC115749729 PE=4 SV=1	Rhodamnia argentea	356	682	60.8	78.5	4e-86
+110	TR	A0A1U8EEX5	Transcription factor AS1 OS=Capsicum annuum OX=4072 GN=T459_22944 PE=4 SV=1	Capsicum annuum	361	682	61.3	76.4	4.7e-86
+111	TR	A0A498K3X5	MYB domain class transcription factor OS=Malus domestica OX=3750 GN=DVH24_026761 PE=4 SV=1	Malus domestica	353	681	64.5	78.2	5.2e-86
+112	TR	M1AH77	Phantastica OS=Solanum tuberosum OX=4113 GN=102603115 PE=4 SV=1	Solanum tuberosum	361	680	61.3	75.5	9.4e-86
+113	TR	A0A540MVL4	Uncharacterized protein OS=Malus baccata OX=106549 GN=C1H46_011575 PE=4 SV=1	Malus baccata	353	679	64.0	78.7	1e-85
+114	TR	A0A834WJM0	Transcription factor AS1 OS=Senna tora OX=362788 GN=G2W53_016829 PE=4 SV=1	Senna tora	350	678	63.4	77.5	1.3e-85
+115	TR	A0A6A2ZXL7	Transcription factor AS1 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110656pilonHSYRG00206 PE=4 SV=1	Hibiscus syriacus	347	677	64.9	76.3	1.7e-85
+116	TR	A0A2G2VY18	Transcription factor AS1 OS=Capsicum baccatum OX=33114 GN=CQW23_21438 PE=4 SV=1	Capsicum baccatum	361	678	61.3	75.9	1.9e-85
+117	TR	A0A498IEZ0	MYB domain class transcription factor OS=Malus domestica OX=3750 GN=DVH24_004431 PE=4 SV=1	Malus domestica	385	680	63.5	78.7	1.9e-85
+118	TR	A0A2P6RA07	Putative transcription factor MYB-HB-like family OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr3g0466491 PE=4 SV=1	Rosa chinensis	359	677	64.3	78.4	2.5e-85
+119	TR	S5MM67	AS1 OS=Aquilegia coerulea OX=218851 GN=AS1 PE=2 SV=1	Aquilegia coerulea	358	676	61.0	77.9	3.4e-85
+120	TR	A0A835DJI0	Asymmetric leaves 1 OS=Tetracentron sinense OX=13715 GN=HHK36_011009 PE=4 SV=1	Tetracentron sinense	357	672	61.1	76.3	1.3e-84
+121	TR	A0A151U4M7	Transcription factor AS1 OS=Cajanus cajan OX=3821 GN=KK1_006951 PE=4 SV=1	Cajanus cajan	360	671	65.3	77.8	2.1e-84
+122	TR	A0A6A3BYL7	Protein rough sheath 2 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00018999pilonHSYRG00006 PE=4 SV=1	Hibiscus syriacus	354	669	65.8	77.7	3.5e-84
+123	TR	A0A218WZY5	Transcription factor AS1-like OS=Punica granatum OX=22663 GN=LOC116211651 PE=4 SV=1	Punica granatum	213	655	61.9	75.3	5e-84
+124	TR	A0A7J0F4U6	Myb-like HTH transcriptional regulator family protein OS=Actinidia rufa OX=165716 GN=Acr_08g0016450 PE=4 SV=1	Actinidia rufa	358	663	62.1	75.2	3.2e-83
+125	TR	A0A6A2Z4V2	Transcription factor AS1 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00111027pilonHSYRG00771 PE=4 SV=1	Hibiscus syriacus	352	662	62.1	73.9	3.8e-83
+126	TR	A0A2R6R890	Transcription factor like OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc08585 PE=4 SV=1	Actinidia chinensis var. chinensis	358	661	61.7	74.8	6.4e-83
+127	TR	A0A2R6QKF1	Transcription factor like OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc16850 PE=4 SV=1	Actinidia chinensis var. chinensis	360	661	62.5	75.9	6.8e-83
+128	TR	A0A540NAV4	Uncharacterized protein OS=Malus baccata OX=106549 GN=C1H46_006142 PE=4 SV=1	Malus baccata	354	659	62.6	77.3	1.1e-82
+129	TR	A0A6P4CFF8	Transcription factor AS1 OS=Arachis duranensis OX=130453 GN=LOC107474870 PE=4 SV=1	Arachis duranensis	358	655	62.9	73.7	5.1e-82
+130	TR	A0A7J0FUC3	Myb-like HTH transcriptional regulator family protein OS=Actinidia rufa OX=165716 GN=Acr_15g0008890 PE=4 SV=1	Actinidia rufa	360	655	62.0	75.0	5.5e-82
+131	TR	A0A445ECK0	Transcription factor OS=Arachis hypogaea OX=3818 GN=Ahy_A02g007336 PE=4 SV=1	Arachis hypogaea	382	655	62.9	73.7	1.1e-81
+132	TR	A0A445AJ22	Transcription factor OS=Arachis hypogaea OX=3818 GN=Ahy_B02g060695 PE=4 SV=1	Arachis hypogaea	358	652	62.4	73.7	1.5e-81
+133	TR	A0A2Z7B6F1	Myb-like HTH transcriptional regulator family protein isoform 1 OS=Dorcoceras hygrometricum OX=472368 GN=F511_39584 PE=4 SV=1	Dorcoceras hygrometricum	360	647	61.2	77.6	8.8e-81
+134	TR	A0A4Y7L3K0	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_002954 PE=4 SV=1	Papaver somniferum	375	643	60.3	73.2	5.5e-80
+135	TR	A0A6I9T3V8	Transcription factor AS1 OS=Sesamum indicum OX=4182 GN=LOC105161607 PE=4 SV=1	Sesamum indicum	361	638	59.1	74.9	2.1e-79
+136	TR	A0A8S0PX57	Transcription factor AS1 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A043927 PE=4 SV=1	Olea europaea subsp. europaea	361	636	61.5	75.1	4.2e-79
+137	TR	A0A162AFT2	Asymmetric leaves 1 OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_009227 PE=4 SV=1	Daucus carota subsp. sativus	352	632	61.0	77.0	1.3e-78
+138	TR	A0A8T0CH64	Uncharacterized protein OS=Corymbia citriodora subsp. variegata OX=360336 GN=BT93_L3602 PE=4 SV=1	Corymbia citriodora subsp. variegata	207	618	60.6	73.2	1.7e-78
+139	TR	A0A4Y7LEK7	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_046710 PE=4 SV=1	Papaver somniferum	374	632	59.6	73.1	2.5e-78
+140	TR	A0A059AXU1	Uncharacterized protein OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_H01113 PE=4 SV=1	Eucalyptus grandis	207	615	59.6	73.2	4.9e-78
+141	TR	A0A8S0UWX4	Transcription factor AS1 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A025875 PE=4 SV=1	Olea europaea subsp. europaea	361	624	60.2	76.4	2.7e-77
+142	TR	A0A7J7NXE9	Asymmetric leaves 1 OS=Kingdonia uniflora OX=39325 GN=GIB67_011772 PE=4 SV=1	Kingdonia uniflora	347	622	59.0	75.9	3.6e-77
+143	TR	A0A8S0RYA5	Transcription factor AS1 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A080440 PE=4 SV=1	Olea europaea subsp. europaea	361	622	60.2	76.4	5.4e-77
+144	TR	A0A8B8JVE1	Transcription factor AS1-like OS=Abrus precatorius OX=3816 GN=LOC113849640 PE=4 SV=1	Abrus precatorius	350	616	59.8	74.3	3.1e-76
+145	TR	A0A6D2KGX5	Transcription factor AS1 OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS39492 PE=4 SV=1	Microthlaspi erraticum	379	617	57.8	74.3	5.2e-76
+146	TR	A0A0J8E3F9	Uncharacterized protein OS=Beta vulgaris subsp. vulgaris OX=3555 GN=BVRB_5g125270 PE=4 SV=1	Beta vulgaris subsp. vulgaris	369	611	58.0	72.3	3.1e-75
+147	TR	A0A164YJS4	Asymmetric leaves 1 OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_017860 PE=4 SV=1	Daucus carota subsp. sativus	360	610	56.8	74.6	3.4e-75
+148	TR	A0A218VVX9	Transcription factor AS1 OS=Punica granatum OX=22663 GN=CDL15_Pgr020602 PE=4 SV=1	Punica granatum	354	608	56.7	73.9	5.7e-75
+149	TR	A0A8B8Q835	Transcription factor AS1-like OS=Rhodamnia argentea OX=178133 GN=LOC115750209 PE=4 SV=1	Rhodamnia argentea	207	594	58.7	70.9	7.5e-75
+150	TR	A0A6J0JZP8	Transcription factor AS1-like OS=Raphanus sativus OX=3726 GN=LOC108813218 PE=4 SV=1	Raphanus sativus	367	608	59.6	74.2	8.4e-75
+151	TR	Q4VPE5	Phantastica transcription factor b OS=Glycine max OX=3847 GN=PHANb PE=2 SV=1	Glycine max	357	607	59.0	74.5	8.8e-75
+152	TR	A0A0B2STX3	Transcription factor AS1 OS=Glycine soja OX=3848 GN=D0Y65_006504 PE=4 SV=1	Glycine soja	357	607	59.0	74.5	8.8e-75
+153	TR	I1N1S3	PHAN4 OS=Glycine max OX=3847 GN=100809813 PE=2 SV=1	Glycine max	352	602	60.8	74.5	4.3e-74
+154	TR	A0A0B2SI54	Transcription factor AS1 OS=Glycine soja OX=3848 GN=D0Y65_048566 PE=4 SV=1	Glycine soja	352	602	60.8	74.5	4.3e-74
+155	TR	A0A6J0MUT3	Transcription factor AS1 OS=Raphanus sativus OX=3726 GN=LOC108847471 PE=4 SV=1	Raphanus sativus	365	602	58.9	74.6	6.3e-74
+156	TR	V4NZJ1	Transcription factor AS1 OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10016830mg PE=4 SV=1	Eutrema salsugineum	366	602	59.9	75.0	6.5e-74
+157	TR	A0A200R1B0	SANT/Myb domain OS=Macleaya cordata OX=56857 GN=BVC80_399g20 PE=4 SV=1	Macleaya cordata	354	598	60.4	73.9	1.8e-73
+158	TR	A0A6P6SVZ3	Transcription factor AS1-like OS=Coffea arabica OX=13443 GN=LOC113695191 PE=4 SV=1	Coffea arabica	215	583	55.6	69.6	4.6e-73
+159	TR	A0A1S3VEN1	Transcription factor AS1 OS=Vigna radiata var. radiata OX=3916 GN=LOC106774359 PE=4 SV=1	Vigna radiata var. radiata	359	592	57.7	75.1	1.7e-72
+160	TR	V7AL48	Uncharacterized protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_010G009800g PE=4 SV=1	Phaseolus vulgaris	352	591	59.0	73.6	2e-72
+161	TR	D7LJW1	Uncharacterized protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_902907 PE=4 SV=1	Arabidopsis lyrata subsp. lyrata	368	592	58.3	75.4	2.2e-72
+162	TR	D7LJV5	Uncharacterized protein OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_321463 PE=4 SV=1	Arabidopsis lyrata subsp. lyrata	368	592	58.3	75.4	2.2e-72
+163	TR	A0A494G8W5	Transcription factor AS1 OS=Solanum lycopersicum OX=4081 PE=4 SV=1	Solanum lycopersicum	264	580	57.3	74.4	6.3e-72
+164	TR	A0A8M8VAY3	Transcription factor AS1-like OS=Sesamum indicum OX=4182 GN=LOC105174712 PE=4 SV=1	Sesamum indicum	200	574	57.8	73.0	6.5e-72
+165	TR	A0A8S0SE23	Transcription factor AS1 OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A095490 PE=4 SV=1	Olea europaea subsp. europaea	358	587	57.5	74.8	9.4e-72
+166	TR	A0A6A4KUM7	Uncharacterized protein (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_20306 PE=4 SV=1	Rhododendron williamsianum	340	583	57.2	71.6	2.2e-71
+167	TR	A0A834H6J9	Uncharacterized protein OS=Rhododendron simsii OX=118357 GN=RHSIM_Rhsim05G0193400 PE=4 SV=1	Rhododendron simsii	342	582	57.2	71.2	3.4e-71
+168	TR	A0A565BME9	Uncharacterized protein OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS12972 PE=4 SV=1	Arabis nemorensis	382	585	58.1	74.0	3.7e-71
+169	TR	A0A6I9R7Z8	transcription factor AS1 OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105045660 PE=4 SV=1	Elaeis guineensis var. tenera	341	581	60.5	73.5	4.6e-71
+170	TR	A0A4Y7KTS0	Uncharacterized protein OS=Papaver somniferum OX=3469 GN=C5167_000057 PE=4 SV=1	Papaver somniferum	349	581	59.8	71.8	5.8e-71
+171	TR	A0A8X7RKP5	Uncharacterized protein OS=Brassica carinata OX=52824 GN=Bca52824_049351 PE=4 SV=1	Brassica carinata	357	581	57.6	72.4	7.3e-71
+172	TR	A0A8S9LG33	Uncharacterized protein OS=Brassica cretica OX=69181 GN=F2Q70_00024910 PE=4 SV=1	Brassica cretica	357	581	57.6	72.4	7.3e-71
+173	TR	A0A0D3BR58	Uncharacterized protein OS=Brassica oleracea var. oleracea OX=109376 GN=106342198 PE=4 SV=1	Brassica oleracea var. oleracea	357	581	57.6	72.4	7.3e-71
+174	TR	R0FXB6	Uncharacterized protein OS=Capsella rubella OX=81985 GN=CARUB_v10023471mg PE=4 SV=1	Capsella rubella	368	581	57.8	74.4	1e-70
+175	TR	A0A164WHI5	Remorin C-terminal domain-containing protein OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_020848 PE=4 SV=1	Daucus carota subsp. sativus	204	566	56.6	75.0	1.2e-70
+176	SP	O80931	Transcription factor AS1 OS=Arabidopsis thaliana OX=3702 GN=AS1 PE=1 SV=1	Arabidopsis thaliana	367	580	57.3	74.4	1.4e-70
+177	TR	A0A2G9H3V4	Transcription factor, Myb superfamily OS=Handroanthus impetiginosus OX=429701 GN=CDL12_15445 PE=4 SV=1	Handroanthus impetiginosus	351	578	57.4	72.7	1.8e-70
+178	TR	A0A068UEJ0	Transcription factor AS1 OS=Coffea canephora OX=49390 GN=GSCOC_T00023518001 PE=4 SV=1	Coffea canephora	210	565	55.1	70.1	2.1e-70
+179	TR	A0A6P6SHC3	LOW QUALITY PROTEIN: transcription factor AS1-like OS=Coffea arabica OX=13443 GN=LOC113691553 PE=4 SV=1	Coffea arabica	210	563	55.1	69.6	4.2e-70
+180	TR	A0A8K0I4T6	Transcription factor AS1 OS=Cocos nucifera OX=13894 GN=COCNU_04G001820 PE=4 SV=1	Cocos nucifera	341	574	59.0	74.0	5.3e-70
+181	TR	A0A8X7WBF4	Uncharacterized protein OS=Brassica carinata OX=52824 GN=Bca52824_009267 PE=4 SV=1	Brassica carinata	366	576	57.7	73.2	5.4e-70
+182	TR	A0A2G9GCM7	Transcription factor, Myb superfamily OS=Handroanthus impetiginosus OX=429701 GN=CDL12_24438 PE=4 SV=1	Handroanthus impetiginosus	353	574	56.9	72.7	7.4e-70
+183	TR	A0A8B7CNB6	Transcription factor AS1-like OS=Phoenix dactylifera OX=42345 GN=LOC103716486 PE=4 SV=1	Phoenix dactylifera	342	573	60.5	73.5	7.6e-70
+184	TR	A0A078F7T3	(rape) hypothetical protein OS=Brassica napus OX=3708 GN=BnaA03g17330D PE=4 SV=1	Brassica napus	347	572	58.3	74.4	1.3e-69
+185	TR	A0A0S3SX34	Uncharacterized protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.09G069600 PE=4 SV=1	Vigna angularis var. angularis	359	572	56.7	74.3	1.8e-69
+186	TR	A0A0L9VTK2	Transcription factor OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0201670 PE=4 SV=1	Phaseolus angularis	359	572	56.7	74.3	1.8e-69
+187	TR	A0A843WBU2	Uncharacterized protein OS=Colocasia esculenta OX=4460 GN=Taro_033217 PE=4 SV=1	Colocasia esculenta	395	573	58.2	72.1	3.4e-69
+188	TR	A0A0K9S226	Uncharacterized protein OS=Spinacia oleracea OX=3562 GN=SOVF_008020 PE=4 SV=1	Spinacia oleracea	369	569	54.6	68.7	6.6e-69
+189	TR	A0A8X7RWK1	Uncharacterized protein OS=Brassica carinata OX=52824 GN=Bca52824_043073 PE=4 SV=1	Brassica carinata	346	566	57.3	73.5	9.7e-69
+190	TR	A0A0D3B5G2	Uncharacterized protein OS=Brassica oleracea var. oleracea OX=109376 GN=106335520 PE=4 SV=1	Brassica oleracea var. oleracea	346	566	57.3	73.5	9.7e-69
+191	TR	A0A8X7WNS0	Uncharacterized protein OS=Brassica carinata OX=52824 GN=Bca52824_003765 PE=4 SV=1	Brassica carinata	357	566	57.0	73.4	1.3e-68
+192	TR	A0A803NF57	Uncharacterized protein OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	343	562	55.2	68.8	3.6e-68
+193	TR	A0A4V4H2Y7	Uncharacterized protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb09t03130 PE=4 SV=1	Musa balbisiana	342	560	59.3	70.1	7e-68
+194	TR	A0A803N6K1	Uncharacterized protein OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	369	562	55.2	68.8	7.5e-68
+195	TR	A0A804KFF5	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_221790.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	342	559	58.8	69.6	9.9e-68
+196	TR	A0A444FZ61	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00007626 PE=4 SV=1	Ensete ventricosum	343	558	58.4	70.8	1.4e-67
+197	TR	A0A830C7B9	Transcription factor as1 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_001158000 PE=4 SV=1	Phtheirospermum japonicum	321	556	55.6	69.8	1.5e-67
+198	TR	A0A830D4M1	Transcription factor as1 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_002622900 PE=4 SV=1	Phtheirospermum japonicum	197	533	52.6	67.1	9.9e-66
+199	TR	A0A6J0PNT5	Transcription factor AS1 OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105052226 PE=4 SV=1	Elaeis guineensis var. tenera	342	544	59.7	73.8	1.8e-65
+200	TR	A0A5J4ZP33	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_016319 PE=4 SV=1	Nyssa sinensis	331	542	53.8	64.6	2.6e-65
+201	TR	A0A803N5Z4	Uncharacterized protein OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	341	537	52.5	67.3	2e-64
+202	TR	A0A444DRG3	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00036264 PE=4 SV=1	Ensete ventricosum	342	535	58.8	70.6	4e-64
+203	TR	A0A7J6X2Q0	Transcription factor as1 (Fragment) OS=Thalictrum thalictroides OX=46969 GN=FRX31_006802 PE=4 SV=1	Thalictrum thalictroides	315	531	61.2	77.6	7.5e-64
+204	TR	A0A022QD42	Uncharacterized protein OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a009461mg PE=4 SV=1	Erythranthe guttata	341	532	55.5	65.9	1.1e-63
+205	TR	A0A4S8K070	Uncharacterized protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb05t30760 PE=4 SV=1	Musa balbisiana	344	532	58.8	72.2	1.2e-63
+206	TR	A0A804JAN8	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_283320.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	344	532	58.8	72.2	1.2e-63
+207	TR	A0A8K0IS66	Transcription factor AS1 OS=Cocos nucifera OX=13894 GN=COCNU_12G007830 PE=4 SV=1	Cocos nucifera	337	529	59.7	72.8	2.8e-63
+208	TR	A0A833QH66	Transcription factor AS1-like protein OS=Carex littledalei OX=544730 GN=FCM35_KLT12359 PE=4 SV=1	Carex littledalei	357	529	55.4	68.3	4.9e-63
+209	TR	V7AP49	Uncharacterized protein OS=Phaseolus vulgaris OX=3885 GN=PHAVU_010G009900g PE=4 SV=1	Phaseolus vulgaris	348	527	51.3	65.2	7.6e-63
+210	TR	A0A2P5W8G5	Uncharacterized protein OS=Gossypium barbadense OX=3634 GN=GOBAR_AA33317 PE=4 SV=1	Gossypium barbadense	310	523	62.9	79.9	1e-62
+211	TR	A0A484MMU6	Transcription factor AS1 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS31162 PE=4 SV=1	Cuscuta campestris	197	512	54.2	67.0	1.5e-62
+212	TR	A0A484MS41	Transcription factor AS1 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS32702 PE=4 SV=1	Cuscuta campestris	198	512	53.7	66.5	1.6e-62
+213	TR	A0A8J5LXR4	Transcription factor AS1 OS=Zingiber officinale OX=94328 GN=ZIOFF_000181 PE=4 SV=1	Zingiber officinale	340	524	57.1	68.3	1.7e-62
+214	TR	A0A328D2K7	Transcription factor AS1 OS=Cuscuta australis OX=267555 GN=DM860_002843 PE=4 SV=1	Cuscuta australis	197	510	54.2	66.5	3e-62
+215	TR	A0A8J5KN34	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_059870 PE=4 SV=1	Zingiber officinale	348	522	53.8	72.3	4.3e-62
+216	TR	A0A7N0TU05	Asymmetric leaves 1 OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1	Kalanchoe fedtschenkoi	363	521	52.6	70.8	9.2e-62
+217	TR	A0A7N0TU44	Asymmetric leaves 1 OS=Kalanchoe fedtschenkoi OX=63787 PE=4 SV=1	Kalanchoe fedtschenkoi	368	521	52.6	70.8	1.1e-61
+218	TR	A0A444C7V2	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00056588 PE=4 SV=1	Ensete ventricosum	343	519	53.4	69.9	1.1e-61
+219	TR	A0A8J5I0V1	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_004731 PE=4 SV=1	Zingiber officinale	339	518	57.7	69.2	1.3e-61
+220	TR	A0A444EBF4	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00028896 PE=4 SV=1	Ensete ventricosum	332	516	57.3	70.8	2.2e-61
+221	TR	A0A804JUA2	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_44510.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	332	516	57.0	69.9	2.2e-61
+222	TR	A0A2Z7BSD0	Myb-like HTH transcriptional regulator family protein isoform 1 OS=Dorcoceras hygrometricum OX=472368 GN=F511_04340 PE=4 SV=1	Dorcoceras hygrometricum	191	503	52.5	69.8	2.9e-61
+223	TR	A0A8J5KSH0	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_055743 PE=4 SV=1	Zingiber officinale	348	516	52.8	72.3	3.4e-61
+224	TR	A0A151RAZ3	Transcription factor AS1 OS=Cajanus cajan OX=3821 GN=KK1_039134 PE=4 SV=1	Cajanus cajan	352	515	52.8	68.5	5.4e-61
+225	TR	A0A8J5FQJ9	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_047238 PE=4 SV=1	Zingiber officinale	372	513	55.6	66.2	1.9e-60
+226	TR	A0A1S3VBT0	Transcription factor AS1 OS=Vigna radiata var. radiata OX=3916 GN=LOC106773607 PE=4 SV=1	Vigna radiata var. radiata	350	511	50.2	62.2	2e-60
+227	TR	A0A804KPW7	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_247640.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	343	509	52.4	68.9	3.4e-60
+228	TR	A0A8J5FRL2	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_050421 PE=4 SV=1	Zingiber officinale	383	510	55.6	65.7	6.9e-60
+229	TR	A0A199UFC9	Transcription factor AS1 OS=Ananas comosus OX=4615 GN=ACMD2_15580 PE=4 SV=1	Ananas comosus	351	503	55.8	70.0	3.3e-59
+230	TR	A0A7I8KM87	Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_06008780 PE=4 SV=1	Spirodela intermedia	341	501	53.5	67.7	5.1e-59
+231	TR	A0A0S3SWQ5	Uncharacterized protein OS=Vigna angularis var. angularis OX=157739 GN=Vigan.09G069500 PE=4 SV=1	Vigna angularis var. angularis	351	497	49.6	62.4	2.7e-58
+232	TR	A0A0L9VUG5	Transcription factor OS=Phaseolus angularis OX=3914 GN=HKW66_Vig0201680 PE=4 SV=1	Phaseolus angularis	351	497	49.6	62.4	2.7e-58
+233	TR	A0A8X8YTW9	Myb proto-oncogene protein, plant OS=Salvia splendens OX=180675 GN=SASPL_102586 PE=4 SV=1	Salvia splendens	349	494	52.7	67.6	7.1e-58
+234	TR	A0A8X9AC40	Myb proto-oncogene protein, plant OS=Salvia splendens OX=180675 GN=SASPL_105999 PE=4 SV=1	Salvia splendens	349	494	52.4	66.0	7.1e-58
+235	TR	A0A2I0ALH3	Transcription factor AS1 OS=Apostasia shenzhenica OX=1088818 GN=AS1 PE=4 SV=1	Apostasia shenzhenica	182	478	53.9	68.1	1.3e-57
+236	TR	A0A0D9Y0M5	Uncharacterized protein OS=Leersia perrieri OX=77586 PE=4 SV=1	Leersia perrieri	338	491	53.3	66.0	1.5e-57
+237	TR	S8E6K1	Uncharacterized protein OS=Genlisea aurea OX=192259 GN=M569_03306 PE=4 SV=1	Genlisea aurea	198	478	52.2	68.5	2.2e-57
+238	TR	A0A453JXB0	Transcription factor AS1 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=4 SV=1	Aegilops tauschii subsp. strangulata	361	489	50.8	68.1	5.5e-57
+239	TR	B7XBB5	Myb transcription factor OS=Triticum aestivum OX=4565 GN=WRS2 PE=2 SV=1	Triticum aestivum	361	489	50.8	68.1	5.5e-57
+240	TR	A0A3B6LHD0	Uncharacterized protein OS=Triticum aestivum OX=4565 PE=4 SV=1	Triticum aestivum	363	489	51.3	68.4	5.8e-57
+241	TR	A0A151RAN4	Transcription factor AS1 OS=Cajanus cajan OX=3821 GN=KK1_039138 PE=4 SV=1	Cajanus cajan	343	486	54.5	69.2	9.6e-57
+242	TR	A0A8J5V693	Uncharacterized protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0009g495 PE=4 SV=1	Zizania palustris	361	486	50.2	65.2	1.5e-56
+243	TR	A0A8T3BU01	Uncharacterized protein OS=Dendrobium nobile OX=94219 GN=KFK09_006598 PE=4 SV=1	Dendrobium nobile	320	478	55.4	69.2	8.2e-56
+244	TR	A0A8R7QCG3	Transcription factor AS1 OS=Triticum urartu OX=4572 PE=4 SV=1	Triticum urartu	364	481	50.8	67.9	9.3e-56
+245	TR	I1IH97	Uncharacterized protein OS=Brachypodium distachyon OX=15368 GN=100838645 PE=4 SV=1	Brachypodium distachyon	354	480	53.7	71.3	1e-55
+246	TR	A0A2I0VZQ5	Transcription factor AS1 OS=Dendrobium catenatum OX=906689 GN=AS1 PE=4 SV=1	Dendrobium catenatum	320	474	55.4	68.7	3.3e-55
+247	TR	A0A8J5WRB2	Uncharacterized protein OS=Zizania palustris OX=103762 GN=GUJ93_ZPchr0012g21560 PE=4 SV=1	Zizania palustris	360	477	47.7	63.1	3.3e-55
+248	TR	A0A6G1BHU4	Uncharacterized protein OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_002345 PE=4 SV=1	Oryza meyeriana var. granulata	339	474	50.2	66.0	5.4e-55
+249	TR	F2E9L4	Predicted protein OS=Hordeum vulgare subsp. vulgare OX=112509 PE=2 SV=1	Hordeum vulgare subsp. vulgare	362	475	51.5	68.6	7e-55
+250	SP	Q9S7B2	Protein rough sheath 2 OS=Zea mays OX=4577 GN=RS2 PE=1 SV=1	Zea mays	370	472	46.4	63.5	2.4e-54
+251	TR	A0A3B6KEE6	Uncharacterized protein OS=Triticum aestivum OX=4565 PE=4 SV=1	Triticum aestivum	343	466	51.3	67.5	9.5e-54
+252	SP	Q94IB1	Protein rough sheath 2 homolog OS=Oryza sativa subsp. japonica OX=39947 GN=RS2 PE=2 SV=1	Oryza sativa subsp. japonica	342	456	51.3	67.9	2.9e-52
+253	TR	A0A8T0UHV7	Asymmetric leaves 1 OS=Panicum virgatum OX=38727 GN=PVAP13_3NG317732 PE=4 SV=1	Panicum virgatum	365	454	46.7	64.5	1e-51
+254	TR	A0A0E0RJ01	Uncharacterized protein OS=Oryza rufipogon OX=4529 PE=4 SV=1	Oryza rufipogon	342	452	50.8	67.4	1.2e-51
+255	TR	A0A0E0MNU6	Uncharacterized protein OS=Oryza punctata OX=4537 PE=4 SV=1	Oryza punctata	331	451	50.5	65.6	1.2e-51
+256	TR	A0A3L6T241	Protein rough sheath 2 OS=Panicum miliaceum OX=4540 GN=C2845_PM05G14140 PE=4 SV=1	Panicum miliaceum	375	449	45.9	63.4	7.4e-51
+257	TR	A0A3L6RDW8	Protein rough sheath 2 OS=Panicum miliaceum OX=4540 GN=C2845_PM06G31810 PE=4 SV=1	Panicum miliaceum	366	448	47.4	66.1	8.3e-51
+258	TR	A0A4U6VLT7	Asymmetric leaves 1 OS=Setaria viridis OX=4556 GN=SEVIR_3G340600v2 PE=4 SV=1	Setaria viridis	367	448	45.7	61.4	8.5e-51
+259	TR	C5YQ95	Asymmetric leaves 1 OS=Sorghum bicolor OX=4558 GN=SORBI_3008G137500 PE=4 SV=1	Sorghum bicolor	381	448	44.5	61.1	1.2e-50
+260	TR	A0A2T7EI87	Uncharacterized protein OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_3G444800 PE=4 SV=1	Panicum hallii var. hallii	376	447	46.1	63.2	1.5e-50
+261	TR	A0A835U3Z7	Asymmetric leaves 1 OS=Vanilla planifolia OX=51239 GN=HPP92_028579 PE=4 SV=1	Vanilla planifolia	322	442	47.4	63.8	2.2e-50
+262	TR	A0A811RIF5	Uncharacterized protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS53039 PE=4 SV=1	Miscanthus lutarioriparius	374	444	44.5	61.0	4e-50
+263	TR	A0A8T0V723	Asymmetric leaves 1 OS=Panicum virgatum OX=38727 GN=PVAP13_3KG499601 PE=4 SV=1	Panicum virgatum	377	444	44.2	61.1	4.3e-50
+264	TR	A0A835RB46	Transcription factor AS1 OS=Vanilla planifolia OX=51239 GN=HPP92_006615 PE=4 SV=1	Vanilla planifolia	163	424	73.0	84.7	1.1e-49
+265	TR	A0A811RBI6	Uncharacterized protein OS=Miscanthus lutarioriparius OX=422564 GN=NCGR_LOCUS50664 PE=4 SV=1	Miscanthus lutarioriparius	380	438	43.0	58.8	3.6e-49
+266	TR	A0A835CJH6	Transcription factor AS1 OS=Senna tora OX=362788 GN=G2W53_002391 PE=4 SV=1	Senna tora	314	433	49.5	62.5	3.9e-49
+267	TR	A0A5J9SHS7	Uncharacterized protein (Fragment) OS=Eragrostis curvula OX=38414 GN=EJB05_55831 PE=4 SV=1	Eragrostis curvula	376	436	45.2	63.0	6.5e-49
+268	TR	A0A2I0A8U1	Transcription factor AS1 OS=Apostasia shenzhenica OX=1088818 GN=AS1 PE=4 SV=1	Apostasia shenzhenica	315	429	49.5	64.4	1.6e-48
+269	TR	A0A2I0VUX3	Transcription factor AS1 OS=Dendrobium catenatum OX=906689 GN=AS1 PE=4 SV=1	Dendrobium catenatum	153	415	51.1	61.4	1.9e-48
+270	TR	A0A8T3CDA2	Uncharacterized protein OS=Dendrobium nobile OX=94219 GN=KFK09_001041 PE=4 SV=1	Dendrobium nobile	216	415	51.1	61.4	1.3e-47
+271	TR	A0A835FWY8	Asymmetric leaves 1 OS=Digitaria exilis OX=1010633 GN=HU200_003400 PE=4 SV=1	Digitaria exilis	381	426	44.7	60.0	2.2e-47
+272	TR	A0A835AP03	Asymmetric leaves 1 OS=Digitaria exilis OX=1010633 GN=HU200_052729 PE=4 SV=1	Digitaria exilis	383	426	44.4	58.8	2.3e-47
+273	TR	A0A5A7RJ66	MYB-related transcription factor OS=Striga asiatica OX=4170 GN=STAS_35072 PE=4 SV=1	Striga asiatica	415	428	52.4	65.4	2.4e-47
+274	TR	A0A8T3CGN6	Uncharacterized protein OS=Dendrobium nobile OX=94219 GN=KFK09_001035 PE=4 SV=1	Dendrobium nobile	188	408	50.0	62.0	6.2e-47
+275	TR	A0A151SVZ5	Transcription factor AS1 OS=Cajanus cajan OX=3821 GN=KK1_014392 PE=4 SV=1	Cajanus cajan	149	402	57.6	77.3	1.5e-46
+276	TR	A0A453JXM8	Uncharacterized protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=4 SV=1	Aegilops tauschii subsp. strangulata	154	401	55.2	72.7	2.5e-46
+277	TR	A0A453JX17	Uncharacterized protein OS=Aegilops tauschii subsp. strangulata OX=200361 PE=4 SV=1	Aegilops tauschii subsp. strangulata	329	410	52.2	69.4	1.6e-45
+278	TR	A0A7I8K294	Uncharacterized protein OS=Spirodela intermedia OX=51605 GN=SI8410_01001693 PE=4 SV=1	Spirodela intermedia	341	405	47.6	65.8	1.2e-44
+279	TR	A0A5P1EPA3	Uncharacterized protein OS=Asparagus officinalis OX=4686 GN=A4U43_C05F3450 PE=4 SV=1	Asparagus officinalis	303	402	48.9	65.8	1.3e-44
+280	TR	U5CVC8	Asymmetric leaves 1 OS=Amborella trichopoda OX=13333 GN=AS1 PE=2 SV=1	Amborella trichopoda	394	397	44.5	58.4	5.8e-43
+281	TR	A0A0E0EN03	Uncharacterized protein OS=Oryza meridionalis OX=40149 PE=4 SV=1	Oryza meridionalis	320	388	47.6	62.0	2.4e-42
+282	TR	A0A0E0BUB4	Uncharacterized protein OS=Oryza glumipatula OX=40148 PE=4 SV=1	Oryza glumipatula	320	385	46.5	61.0	6.6e-42
+283	TR	A0A0D3HVX5	Uncharacterized protein OS=Oryza barthii OX=65489 PE=4 SV=1	Oryza barthii	320	385	46.5	61.0	6.6e-42
+284	TR	A0A0E0G815	Uncharacterized protein OS=Oryza nivara OX=4536 PE=4 SV=1	Oryza nivara	323	385	46.5	61.0	7.1e-42
+285	TR	W9RU55	Transcription factor AS1 OS=Morus notabilis OX=981085 GN=L484_009150 PE=4 SV=1	Morus notabilis	386	383	44.7	58.4	5.7e-41
+286	TR	A0A6P6TA11	Protein rough sheath 2 homolog OS=Coffea arabica OX=13443 GN=LOC113699223 PE=4 SV=1	Coffea arabica	391	380	45.9	65.0	1.8e-40
+287	TR	A0A803N6J9	Uncharacterized protein OS=Chenopodium quinoa OX=63459 PE=4 SV=1	Chenopodium quinoa	173	362	58.3	73.2	3.5e-40
+288	TR	A0A7J6WC20	Myb family transcription factor OS=Thalictrum thalictroides OX=46969 GN=FRX31_015542 PE=4 SV=1	Thalictrum thalictroides	125	357	67.3	83.7	4.6e-40
+289	TR	A0A834Z019	Uncharacterized protein OS=Tetracentron sinense OX=13715 GN=HHK36_015024 PE=4 SV=1	Tetracentron sinense	633	387	46.0	63.6	5.3e-40
+290	TR	A0A2P5F6W9	Octamer-binding transcription factor OS=Trema orientale OX=63057 GN=TorRG33x02_107840 PE=4 SV=1	Trema orientale	391	376	46.3	66.1	6.8e-40
+291	TR	A0A068U2N0	Asymmetric leaves 1 OS=Coffea canephora OX=49390 GN=GSCOC_T00040299001 PE=4 SV=1	Coffea canephora	390	375	47.0	65.0	9.3e-40
+292	TR	A0A6J1IZB3	Protein rough sheath 2 homolog OS=Cucurbita maxima OX=3661 GN=LOC111482044 PE=4 SV=1	Cucurbita maxima	380	371	43.0	60.2	3e-39
+293	TR	A0A6A1VH84	Transcription factor AS1 OS=Morella rubra OX=262757 GN=CJ030_MR6G021642 PE=4 SV=1	Morella rubra	385	370	45.7	61.3	4.6e-39
+294	TR	A0A7J6E5Y7	Transcription factor AS1 OS=Cannabis sativa OX=3483 GN=G4B88_028471 PE=4 SV=1	Cannabis sativa	203	356	42.9	59.2	6.6e-39
+295	TR	A0A7J6HIA3	Uncharacterized protein OS=Cannabis sativa OX=3483 GN=F8388_015328 PE=4 SV=1	Cannabis sativa	203	356	42.9	59.2	6.6e-39
+296	TR	A0A2P5AMX0	Octamer-binding transcription factor OS=Parasponia andersonii OX=3476 GN=PanWU01x14_316530 PE=4 SV=1	Parasponia andersonii	391	366	45.8	61.6	2e-38
+297	TR	A0A5N6QYS7	Uncharacterized protein OS=Carpinus fangiana OX=176857 GN=FH972_007950 PE=4 SV=1	Carpinus fangiana	372	363	44.0	58.1	3.8e-38
+298	TR	A0A061EHB7	Myb-like HTH transcriptional regulator family protein OS=Theobroma cacao OX=3641 GN=TCM_019507 PE=4 SV=1	Theobroma cacao	362	361	43.2	54.8	6.1e-38
+299	TR	A0A2I4E7P3	Protein rough sheath 2 homolog OS=Juglans regia OX=51240 GN=LOC108987033 PE=4 SV=1	Juglans regia	379	362	42.9	59.2	6.1e-38
+300	TR	A0A834ZI46	Uncharacterized protein OS=Tetracentron sinense OX=13715 GN=HHK36_006992 PE=4 SV=1	Tetracentron sinense	457	366	41.5	62.2	6.4e-38
+301	TR	A0A1U7X1R3	Protein rough sheath 2 homolog OS=Nicotiana sylvestris OX=4096 GN=LOC104233147 PE=4 SV=1	Nicotiana sylvestris	377	361	43.3	58.8	8.2e-38
+302	TR	A0A1S3XQD9	Protein rough sheath 2 homolog OS=Nicotiana tabacum OX=4097 GN=LOC107767574 PE=4 SV=1	Nicotiana tabacum	377	361	43.3	58.8	8.2e-38
+303	TR	A0A8T1QZS4	Asymmetric leaves 1 OS=Carya illinoinensis OX=32201 GN=CIPAW_03G059300 PE=4 SV=1	Carya illinoinensis	377	361	41.8	58.2	8.2e-38
+304	TR	A0A843W245	Uncharacterized protein OS=Colocasia esculenta OX=4460 GN=Taro_034161 PE=4 SV=1	Colocasia esculenta	345	358	41.8	58.7	1.2e-37
+305	TR	A0A1R3JIK9	Transcription factor AS1 OS=Corchorus olitorius OX=93759 GN=COLO4_16194 PE=4 SV=1	Corchorus olitorius	272	353	40.1	54.1	1.2e-37
+306	TR	A0A2J6M183	Uncharacterized protein OS=Lactuca sativa OX=4236 GN=LSAT_4X153581 PE=4 SV=1	Lactuca sativa	388	359	43.1	60.1	2e-37
+307	TR	B9N208	MYB family protein OS=Populus trichocarpa OX=3694 GN=POPTR_017G112300 PE=4 SV=1	Populus trichocarpa	363	357	46.9	59.4	2.4e-37
+308	TR	A0A2P6S380	Putative transcription factor MYB-HB-like family OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr2g0163191 PE=4 SV=1	Rosa chinensis	363	357	43.5	61.9	2.4e-37
+309	TR	A0A1U8AQM1	Protein rough sheath 2 homolog OS=Nelumbo nucifera OX=4432 GN=LOC104603034 PE=4 SV=1	Nelumbo nucifera	394	358	41.3	62.8	3.2e-37
+310	TR	A0A103XKJ8	Homeodomain-like protein OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_005637 PE=4 SV=1	Cynara cardunculus var. scolymus	388	356	39.2	58.8	5.5e-37
+311	TR	A0A5J5C2Q8	Uncharacterized protein OS=Nyssa sinensis OX=561372 GN=F0562_004250 PE=4 SV=1	Nyssa sinensis	354	353	44.9	62.6	7.8e-37
+312	TR	V4STI9	Asymmetric leaves 1 OS=Citrus clementina OX=85681 GN=CICLE_v10011915mg PE=4 SV=1	Citrus clementina	393	355	43.3	60.7	8.5e-37
+313	TR	F6GVQ6	Transcription factor AS1 OS=Vitis vinifera OX=29760 GN=VIT_14s0083g00120 PE=4 SV=1	Vitis vinifera	384	354	45.7	60.2	1e-36
+314	TR	A0A7J6E4P9	Uncharacterized protein OS=Cannabis sativa OX=3483 GN=G4B88_028467 PE=4 SV=1	Cannabis sativa	394	353	41.7	59.8	1.7e-36
+315	TR	A0A7J6GK20	Uncharacterized protein OS=Cannabis sativa OX=3483 GN=F8388_015327 PE=4 SV=1	Cannabis sativa	394	353	41.7	59.8	1.7e-36
+316	TR	A0A8X7XWZ0	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_055239 PE=4 SV=1	Populus tomentosa	365	351	46.3	58.9	1.9e-36
+317	TR	A0A8X8C838	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_054040 PE=4 SV=1	Populus tomentosa	365	350	46.3	58.3	2.7e-36
+318	TR	A0A4U5PVQ8	Uncharacterized protein OS=Populus alba OX=43335 GN=D5086_0000183310 PE=4 SV=1	Populus alba	372	350	46.3	58.3	3.1e-36
+319	TR	A0A8T2WTS9	Uncharacterized protein OS=Populus deltoides OX=3696 GN=H0E87_027977 PE=4 SV=1	Populus deltoides	362	349	46.3	57.7	3.5e-36
+320	TR	A0A835J6J3	Uncharacterized protein OS=Salix dunnii OX=1413687 GN=SADUNF_Sadunf17G0106100 PE=4 SV=1	Salix dunnii	363	349	44.3	56.8	3.6e-36
+321	TR	A0A8S0SQD4	Rough sheath 2 homolog OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A080354 PE=4 SV=1	Olea europaea subsp. europaea	381	349	42.4	58.1	5.1e-36
+322	TR	A0A6J1KCH4	Protein rough sheath 2 homolog OS=Cucurbita maxima OX=3661 GN=LOC111492624 PE=4 SV=1	Cucurbita maxima	384	349	42.7	60.0	5.4e-36
+323	TR	W9RG66	Transcription factor AS1 OS=Morus notabilis OX=981085 GN=L484_009152 PE=4 SV=1	Morus notabilis	359	346	42.6	56.3	9.2e-36
+324	TR	A0A1R3IC11	SANT domain-containing protein OS=Corchorus capsularis OX=210143 GN=CCACVL1_13158 PE=4 SV=1	Corchorus capsularis	384	347	40.6	54.8	1.1e-35
+325	TR	A0A5C7HM32	Uncharacterized protein OS=Acer yangbiense OX=1000413 GN=EZV62_015654 PE=4 SV=1	Acer yangbiense	446	350	41.9	58.6	1.1e-35
+326	TR	A0A314LB43	Transcription factor as1 OS=Nicotiana attenuata OX=49451 GN=AS1_0 PE=4 SV=1	Nicotiana attenuata	365	345	44.1	61.5	1.5e-35
+327	TR	A0A836AVH5	Protein rough sheath OS=Salix suchowensis OX=1278906 GN=IMY05_017G0089000 PE=4 SV=1	Salix suchowensis	375	344	43.6	55.4	2.5e-35
+328	TR	A0A2Z7BNE8	Uncharacterized protein OS=Dorcoceras hygrometricum OX=472368 GN=F511_29141 PE=4 SV=1	Dorcoceras hygrometricum	360	343	42.0	55.6	2.6e-35
+329	TR	A0A6P6AZ60	Protein rough sheath 2 homolog OS=Durio zibethinus OX=66656 GN=LOC111313645 PE=4 SV=1	Durio zibethinus	367	343	43.1	57.4	3e-35
+330	TR	A0A0A0L7E6	Uncharacterized protein OS=Cucumis sativus OX=3659 GN=Csa_3G264750 PE=4 SV=1	Cucumis sativus	354	342	42.0	61.9	3.2e-35
+331	TR	A0A498HFI3	MYB domain class transcription factor OS=Malus domestica OX=3750 GN=DVH24_028372 PE=4 SV=1	Malus domestica	373	343	37.8	57.7	3.3e-35
+332	TR	A0A8T1QRS8	Asymmetric leaves 1 OS=Carya illinoinensis OX=32201 GN=CIPAW_04G040200 PE=4 SV=1	Carya illinoinensis	346	341	40.5	59.5	3.9e-35
+333	TR	A0A6P6A5C2	Protein rough sheath 2 homolog OS=Durio zibethinus OX=66656 GN=LOC111306295 PE=4 SV=1	Durio zibethinus	366	341	40.7	54.7	5.7e-35
+334	TR	A0A540KAT6	Uncharacterized protein OS=Malus baccata OX=106549 GN=C1H46_043149 PE=4 SV=1	Malus baccata	373	339	37.4	57.4	1.3e-34
+335	TR	A0A5N5G4Z3	Rough sheath 2-like protein OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_018478 PE=4 SV=1	Pyrus ussuriensis x Pyrus communis	373	339	37.8	57.7	1.3e-34
+336	TR	A0A8S0T5Y4	Rough sheath 2 homolog OS=Olea europaea subsp. europaea OX=158383 GN=OLEA9_A109032 PE=4 SV=1	Olea europaea subsp. europaea	211	328	56.9	73.4	1.3e-34
+337	TR	A0A5N5JGM5	Uncharacterized protein OS=Salix brachista OX=2182728 GN=DKX38_027221 PE=4 SV=1	Salix brachista	375	339	45.1	57.1	1.3e-34
+338	TR	A0A2U1P316	MYB-related transcription factor OS=Artemisia annua OX=35608 GN=CTI12_AA187860 PE=4 SV=1	Artemisia annua	362	338	42.4	57.1	1.5e-34
+339	TR	A0A1S3CEX4	LOW QUALITY PROTEIN: transcription factor AS1-like OS=Cucumis melo OX=3656 GN=LOC103500142 PE=4 SV=1	Cucumis melo	354	337	43.8	60.7	1.8e-34
+340	TR	A0A8T1QR78	Asymmetric leaves 1 OS=Carya illinoinensis OX=32201 GN=CIPAW_04G040200 PE=4 SV=1	Carya illinoinensis	354	337	41.3	59.8	1.8e-34
+341	TR	A0A5D3CNU9	Transcription factor AS1-like OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold90G00170 PE=4 SV=1	Cucumis melo var. makuwa	354	337	43.8	60.7	1.8e-34
+342	TR	A0A5N6NH60	Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_20485 PE=4 SV=1	Mikania micrantha	382	333	41.1	53.6	1.1e-33
+343	TR	A0A8J4QWI4	Uncharacterized protein OS=Castanea mollissima OX=60419 GN=CMV_014829 PE=4 SV=1	Castanea mollissima	122	314	54.1	71.6	1.3e-33
+344	TR	A0A251TY51	Putative myb-like HTH transcriptional regulator family protein OS=Helianthus annuus OX=4232 GN=ATPHAN PE=4 SV=1	Helianthus annuus	444	334	41.0	58.5	2.2e-33
+345	TR	A0A1Q3C6C6	Myb_DNA-bind_6 domain-containing protein OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_19116 PE=4 SV=1	Cephalotus follicularis	356	328	41.1	55.0	3.8e-33
+346	TR	B9S5C8	Asymmetric leaves1 and rough sheath, putative OS=Ricinus communis OX=3988 GN=RCOM_1568280 PE=4 SV=1	Ricinus communis	344	327	44.0	61.3	4.2e-33
+347	TR	A0A2G9GUG9	Transcription factor, Myb superfamily OS=Handroanthus impetiginosus OX=429701 GN=CDL12_18536 PE=4 SV=1	Handroanthus impetiginosus	374	327	38.4	57.6	7.4e-33
+348	TR	A0A7N2KX56	Asymmetric leaves 1 OS=Quercus lobata OX=97700 PE=4 SV=1	Quercus lobata	393	326	38.7	58.6	1.4e-32
+349	TR	A0A1S3XTJ3	Protein rough sheath 2 homolog OS=Nicotiana tabacum OX=4097 GN=LOC107768394 PE=4 SV=1	Nicotiana tabacum	379	324	41.3	59.8	2.2e-32
+350	TR	A0A6I9U8H2	Protein rough sheath 2 homolog OS=Sesamum indicum OX=4182 GN=LOC105176174 PE=4 SV=1	Sesamum indicum	384	323	43.6	58.6	3.4e-32
+351	TR	A0A200R095	SANT/Myb domain OS=Macleaya cordata OX=56857 GN=BVC80_8813g13 PE=4 SV=1	Macleaya cordata	393	323	40.7	55.2	3.9e-32
+352	TR	A0A6I9RAF2	Protein rough sheath 2 homolog OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105046527 PE=4 SV=1	Elaeis guineensis var. tenera	325	319	38.5	62.6	4.3e-32
+353	TR	A0A8B7C3X3	Protein rough sheath 2 homolog OS=Phoenix dactylifera OX=42345 GN=LOC103708186 PE=4 SV=1	Phoenix dactylifera	324	316	39.8	60.2	1.2e-31
+354	TR	A0A1U8A8K9	Protein rough sheath 2 homolog OS=Nelumbo nucifera OX=4432 GN=LOC104601371 PE=4 SV=1	Nelumbo nucifera	386	315	39.0	56.4	5e-31
+355	TR	A0A2G2XGD2	Transcription factor AS1 OS=Capsicum baccatum OX=33114 GN=CQW23_05023 PE=4 SV=1	Capsicum baccatum	207	303	41.5	58.5	6.5e-31
+356	TR	A0A8X8A073	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_017320 PE=4 SV=1	Populus tomentosa	361	312	41.9	54.1	9e-31
+357	TR	A0A8K0N2K2	Protein rough sheath 2 OS=Cocos nucifera OX=13894 GN=COCNU_06G008320 PE=4 SV=1	Cocos nucifera	325	309	34.2	58.2	1.3e-30
+358	TR	A0A830BIQ7	Protein rough sheath 2 OS=Phtheirospermum japonicum OX=374723 GN=PHJA_000673600 PE=4 SV=1	Phtheirospermum japonicum	374	310	38.3	52.9	2.2e-30
+359	TR	A0A8T2Z1J0	Uncharacterized protein OS=Populus deltoides OX=3696 GN=H0E87_008693 PE=4 SV=1	Populus deltoides	361	308	43.3	59.9	3.4e-30
+360	TR	A0A4S8IHB3	Uncharacterized protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb09t18490 PE=4 SV=1	Musa balbisiana	330	306	36.4	55.0	3.8e-30
+361	TR	A0A0K9P1H9	Myb domain protein 94 OS=Zostera marina OX=29655 GN=ZOSMA_48G00010 PE=4 SV=1	Zostera marina	410	309	37.0	55.5	5.4e-30
+362	TR	A0A8J5FTM1	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_048622 PE=4 SV=1	Zingiber officinale	327	304	37.8	53.9	7.1e-30
+363	TR	A0A8J5FL46	Uncharacterized protein OS=Zingiber officinale OX=94328 GN=ZIOFF_051805 PE=4 SV=1	Zingiber officinale	327	304	37.8	53.9	7.1e-30
+364	TR	A0A804KKZ2	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_237500.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	330	303	39.3	61.3	1.1e-29
+365	TR	A0A444BU68	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00062040 PE=4 SV=1	Ensete ventricosum	330	301	40.5	60.7	2.1e-29
+366	TR	A0A2G3AA88	Uncharacterized protein OS=Capsicum annuum OX=4072 GN=T459_06285 PE=4 SV=1	Capsicum annuum	373	301	38.6	56.1	4.4e-29
+367	TR	A0A8X8XEZ8	Myb proto-oncogene protein, plant OS=Salvia splendens OX=180675 GN=SASPL_125114 PE=4 SV=1	Salvia splendens	290	296	44.7	62.4	5e-29
+368	TR	B9H3Q2	MYB family protein OS=Populus trichocarpa OX=3694 GN=POPTR_004G102600 PE=4 SV=1	Populus trichocarpa	361	299	40.7	53.5	7e-29
+369	TR	A0A8X8W0Z0	Myb proto-oncogene protein, plant OS=Salvia splendens OX=180675 GN=SASPL_154797 PE=4 SV=1	Salvia splendens	302	293	36.8	54.4	1.8e-28
+370	TR	S8C6X3	Uncharacterized protein OS=Genlisea aurea OX=192259 GN=M569_12272 PE=4 SV=1	Genlisea aurea	372	293	37.9	50.7	6.1e-28
+371	TR	A0A2U1PYP7	MYB-related transcription factor OS=Artemisia annua OX=35608 GN=CTI12_AA096960 PE=4 SV=1	Artemisia annua	327	290	42.6	56.8	7.9e-28
+372	TR	A0A2G3D7M1	E3 ubiquitin-protein ligase RHF2A OS=Capsicum chinense OX=80379 GN=BC332_05312 PE=4 SV=1	Capsicum chinense	318	284	45.0	65.1	5e-27
+373	TR	A0A4U5QAW1	Uncharacterized protein OS=Populus alba OX=43335 GN=D5086_0000112850 PE=4 SV=1	Populus alba	361	285	41.4	58.0	7.4e-27
+374	TR	A0A484K6A6	Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS1100 PE=4 SV=1	Cuscuta campestris	308	263	45.1	64.8	4.7e-24
+375	TR	A0A328DTZ9	Uncharacterized protein OS=Cuscuta australis OX=267555 GN=DM860_001080 PE=4 SV=1	Cuscuta australis	307	260	44.3	65.6	1.3e-23
+376	TR	A0A484M6G1	Uncharacterized protein OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS26208 PE=4 SV=1	Cuscuta campestris	307	260	44.3	65.6	1.3e-23
+377	TR	A0A1J7H4D7	Uncharacterized protein OS=Lupinus angustifolius OX=3871 GN=TanjilG_14422 PE=4 SV=1	Lupinus angustifolius	77	229	58.4	76.6	2e-21
+378	TR	A0A5N6NEB6	Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_23812 PE=4 SV=1	Mikania micrantha	132	228	54.9	74.4	1.3e-20
+379	TR	A0A5N6L8K6	Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_45677 PE=4 SV=1	Mikania micrantha	132	227	54.9	74.4	1.8e-20
+380	TR	A0A2G3BK46	Uncharacterized protein OS=Capsicum chinense OX=80379 GN=BC332_23338 PE=4 SV=1	Capsicum chinense	104	215	42.0	59.0	5.2e-19
+381	TR	A0A0K9NKC0	Uncharacterized protein OS=Zostera marina OX=29655 GN=ZOSMA_88G00270 PE=4 SV=1	Zostera marina	116	211	42.1	56.2	2.8e-18
+382	TR	D8QT95	Asymmetric leaves 1 OS=Selaginella moellendorffii OX=88036 GN=ARP-1 PE=2 SV=1	Selaginella moellendorffii	397	224	39.3	64.3	4.8e-18
+383	TR	D8R2H7	Uncharacterized protein ARP-2 OS=Selaginella moellendorffii OX=88036 GN=ARP-2 PE=4 SV=1	Selaginella moellendorffii	399	224	39.3	64.3	4.9e-18
+384	TR	A0A2G3BK61	Transcription factor AS1 OS=Capsicum chinense OX=80379 GN=BC332_23360 PE=4 SV=1	Capsicum chinense	68	204	56.1	75.8	8.5e-18
+385	TR	A0A151SW09	Transcription factor AS1 OS=Cajanus cajan OX=3821 GN=KK1_014395 PE=4 SV=1	Cajanus cajan	233	214	56.0	76.0	1.5e-17
+386	TR	A0A6A6MQ76	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_027681 PE=4 SV=1	Hevea brasiliensis	88	201	60.6	74.2	4e-17
+387	TR	A0A7J6V2I9	Transcription factor as1 (Fragment) OS=Thalictrum thalictroides OX=46969 GN=FRX31_031168 PE=4 SV=1	Thalictrum thalictroides	82	198	69.1	85.5	9.6e-17
+388	TR	A0A2G2VX88	Transcription factor AS1 OS=Capsicum baccatum OX=33114 GN=CQW23_21165 PE=4 SV=1	Capsicum baccatum	68	195	53.0	74.2	1.8e-16
+389	TR	W9RDT1	GTD-binding domain-containing protein OS=Morus notabilis OX=981085 GN=L484_009151 PE=4 SV=1	Morus notabilis	81	195	53.4	68.5	2.6e-16
+390	TR	A0A2G2YR23	Uncharacterized protein OS=Capsicum annuum OX=4072 GN=T459_22978 PE=4 SV=1	Capsicum annuum	68	191	54.5	72.7	7.2e-16
+391	TR	A0A2R6X2H1	Uncharacterized protein OS=Marchantia polymorpha OX=3197 GN=MARPO_0040s0004 PE=4 SV=1	Marchantia polymorpha	510	209	26.7	52.5	8.1e-16
+392	TR	A0A2G2YR87	Uncharacterized protein OS=Capsicum annuum OX=4072 GN=T459_22970 PE=4 SV=1	Capsicum annuum	58	186	60.3	77.6	3.1e-15
+393	TR	A0A0L9TQI2	Uncharacterized protein OS=Phaseolus angularis OX=3914 GN=LR48_Vigan01g222800 PE=4 SV=1	Phaseolus angularis	321	201	44.2	53.3	3.9e-15
+394	TR	A0A176WKP6	Uncharacterized protein OS=Marchantia polymorpha subsp. ruderalis OX=1480154 GN=AXG93_673s1010 PE=4 SV=1	Marchantia polymorpha subsp. ruderalis	508	201	26.1	53.8	9.4e-15
+395	TR	A0A388K9B8	Uncharacterized protein OS=Chara braunii OX=69332 GN=CBR_g66784 PE=4 SV=1	Chara braunii	760	195	38.4	64.0	6.7e-14
+396	TR	A0A8X7XR25	Uncharacterized protein OS=Populus tomentosa OX=118781 GN=POTOM_060284 PE=4 SV=1	Populus tomentosa	247	185	47.3	68.9	2.8e-13
+397	TR	A0A7J7HMR7	Uncharacterized protein OS=Camellia sinensis OX=4442 GN=HYC85_006613 PE=4 SV=1	Camellia sinensis	223	182	58.8	70.6	5.2e-13
+398	TR	A0A2G2YRB6	Uncharacterized protein OS=Capsicum annuum OX=4072 GN=T459_22946 PE=4 SV=1	Capsicum annuum	143	173	33.2	44.4	2.1e-12
+399	TR	A0A1E5UMZ3	Oberon coiled-coil region domain-containing protein OS=Dichanthelium oligosanthes OX=888268 GN=BAE44_0024728 PE=4 SV=1	Dichanthelium oligosanthes	71	158	53.4	77.6	5.6e-11
+400	TR	A0A5N6PWV0	Uncharacterized protein OS=Mikania micrantha OX=192012 GN=E3N88_04795 PE=4 SV=1	Mikania micrantha	269	168	50.0	62.5	9e-11
+401	TR	A0A444CSE8	Uncharacterized protein OS=Ensete ventricosum OX=4639 GN=GW17_00049104 PE=4 SV=1	Ensete ventricosum	180	154	41.1	57.9	2.4e-09
+402	TR	A0A4V6T4I5	Histone-lysine N-methyltransferase OS=Musa balbisiana OX=52838 GN=C4D60_Mb01t26120 PE=4 SV=1	Musa balbisiana	484	150	38.5	59.4	5e-08
+403	TR	J4H212	Nucleoplasmin-like domain-containing protein OS=Fibroporia radiculosa OX=599839 GN=FIBRA_02759 PE=4 SV=1	Fibroporia radiculosa	663	150	28.1	44.3	5.5e-08
+404	TR	A0A843X8B7	Uncharacterized protein OS=Colocasia esculenta OX=4460 GN=Taro_048508 PE=4 SV=1	Colocasia esculenta	309	144	52.2	82.6	2.2e-07
+405	TR	A0A4Y9YCI5	Uncharacterized protein OS=Rhodofomes roseus OX=34475 GN=EVJ58_g5481 PE=4 SV=1	Rhodofomes roseus	673	141	27.1	44.3	8.3e-07
+406	TR	A0A6A6MN41	Uncharacterized protein OS=Hevea brasiliensis OX=3981 GN=GH714_013199 PE=4 SV=1	Hevea brasiliensis	240	137	32.3	45.4	1.2e-06
+407	TR	A0A7K6BHA7	MA7D3 protein (Fragment) OS=Upupa epops OX=57439 GN=Map7d3 PE=3 SV=1	Upupa epops	289	135	29.7	45.4	3.1e-06
+408	TR	A0A804J7A5	Myb-like domain-containing protein OS=Musa acuminata subsp. malaccensis OX=214687 PE=4 SV=1	Musa acuminata subsp. malaccensis	735	131	26.7	45.7	1.7e-05
+409	TR	A0A804J7A6	(wild Malaysian banana) hypothetical protein OS=Musa acuminata subsp. malaccensis OX=214687 GN=GSMUA_274280.1 PE=4 SV=1	Musa acuminata subsp. malaccensis	741	131	26.7	45.7	1.7e-05
+410	TR	A0A4S8JXX2	Myb-like domain-containing protein OS=Musa balbisiana OX=52838 GN=C4D60_Mb05t21850 PE=4 SV=1	Musa balbisiana	827	131	26.7	45.7	1.7e-05
+411	TR	A0A7L3N8Y9	MA7D3 protein (Fragment) OS=Oreotrochilus melanogaster OX=689266 GN=Map7d3 PE=3 SV=1	Oreotrochilus melanogaster	291	129	28.1	45.2	2e-05
+412	TR	A0A7K6PCH1	MA7D3 protein (Fragment) OS=Ifrita kowaldi OX=461245 GN=Map7d3 PE=3 SV=1	Ifrita kowaldi	292	129	29.0	44.2	2e-05
+413	TR	A0A7K5HI09	RBP2A protein (Fragment) OS=Crotophaga sulcirostris OX=33598 GN=Pf13 PE=3 SV=1	Crotophaga sulcirostris	270	128	30.9	43.3	2.4e-05
+414	TR	A0A7K6BWI4	MA7D3 protein (Fragment) OS=Ptilonorhynchus violaceus OX=28724 GN=Map7d3 PE=3 SV=1	Ptilonorhynchus violaceus	293	128	29.4	45.0	2.7e-05
+415	TR	A0A091I053	Ensconsin (Fragment) OS=Calypte anna OX=9244 GN=N300_04752 PE=3 SV=1	Calypte anna	554	129	28.1	45.2	2.9e-05
+416	TR	A0A7W9Q8W6	Cell division septum initiation protein DivIVA OS=Streptomyces zagrosensis OX=1042984 GN=FHS42_002855 PE=4 SV=1	Streptomyces zagrosensis	1344	129	31.0	49.2	3.4e-05
+417	TR	A0A0P7UTW3	Zinc finger protein 821-like OS=Scleropages formosus OX=113540 GN=Z043_108134 PE=4 SV=1	Scleropages formosus	326	127	28.2	48.5	4e-05
+418	TR	Q4QCZ9	Flagellum transition zone component OS=Leishmania major OX=5664 GN=LMJF_20_0410 PE=4 SV=1	Leishmania major	1346	128	26.9	41.7	4.5e-05
+419	TR	A0A091K001	Ensconsin (Fragment) OS=Colius striatus OX=57412 GN=N325_06463 PE=3 SV=1	Colius striatus	580	127	28.3	42.6	5.3e-05
+420	TR	B5RU73	DEHA2F00110p OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=DEHA2F00110g PE=4 SV=1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	1384	127	29.1	48.9	6.1e-05
+421	TR	B5RT49	DEHA2C00099p OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=DEHA2C00099g PE=4 SV=1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	1398	127	29.1	48.9	6.1e-05
+422	TR	S9Y2X4	Golgin subfamily A member 4 isoform 1 OS=Camelus ferus OX=419612 GN=CB1_001091004 PE=4 SV=1	Camelus ferus	1540	127	32.2	55.7	6.2e-05
+423	TR	A0A6I9I0W6	Golgin subfamily A member 4 isoform X5 OS=Vicugna pacos OX=30538 GN=GOLGA4 PE=4 SV=1	Vicugna pacos	2250	127	32.2	55.7	6.4e-05
+424	TR	A0A6J3BAC4	Golgin subfamily A member 4 isoform X4 OS=Vicugna pacos OX=30538 GN=GOLGA4 PE=4 SV=1	Vicugna pacos	2252	127	32.2	55.7	6.4e-05
+425	TR	A0A6J0AG75	Golgin subfamily A member 4 isoform X3 OS=Vicugna pacos OX=30538 GN=GOLGA4 PE=4 SV=1	Vicugna pacos	2257	127	32.2	55.7	6.4e-05
+426	TR	A0A6J0AF04	Golgin subfamily A member 4 isoform X2 OS=Vicugna pacos OX=30538 GN=GOLGA4 PE=4 SV=1	Vicugna pacos	2283	127	32.2	55.7	6.4e-05
+427	TR	A0A6J0ACZ6	Golgin subfamily A member 4 isoform X1 OS=Vicugna pacos OX=30538 GN=GOLGA4 PE=4 SV=1	Vicugna pacos	2285	127	32.2	55.7	6.4e-05
+428	TR	A0A5N4D050	Golgin subfamily A member 4 OS=Camelus dromedarius OX=9838 GN=Cadr_000020112 PE=4 SV=1	Camelus dromedarius	2306	127	32.2	55.7	6.4e-05
+429	TR	A0A7L1D1H1	MA7D3 protein (Fragment) OS=Serilophus lunatus OX=239386 GN=Map7d3 PE=3 SV=1	Serilophus lunatus	288	125	28.6	43.3	6.6e-05
+430	TR	A0A7K4T5X0	MA7D3 protein (Fragment) OS=Burhinus bistriatus OX=240201 GN=Map7d3 PE=3 SV=1	Burhinus bistriatus	292	124	28.2	42.7	9e-05
+431	TR	A0A3P8SCD7	MAP7 domain containing 3 OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	829	125	30.7	40.5	0.0001
+432	TR	A0A3P8SC64	MAP7 domain containing 3 OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	830	125	30.7	40.5	0.0001
+433	TR	A0A3P8SC44	MAP7 domain containing 3 OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	836	125	30.7	40.5	0.0001
+434	TR	A0A3P8SCL7	MAP7 domain containing 3 OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	838	125	30.7	40.5	0.0001
+435	TR	A0A3P8SCJ1	MAP7 domain containing 3 OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	844	125	30.7	40.5	0.0001
+436	TR	Q6BJT8	DEHA2G00110p OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=DEHA2G00110g PE=4 SV=2	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	1458	125	29.0	49.2	0.00011
+437	TR	A0A7L3B412	RBP2A protein (Fragment) OS=Syrrhaptes paradoxus OX=302527 GN=Pf13 PE=3 SV=1	Syrrhaptes paradoxus	275	123	30.7	45.8	0.00011
+438	TR	A0A850WTW5	RBP2A protein (Fragment) OS=Piaya cayana OX=33601 GN=Pf13 PE=3 SV=1	Piaya cayana	275	123	29.4	43.3	0.00011
+439	TR	A0A7L2AQE0	MA7D3 protein (Fragment) OS=Heliornis fulica OX=54369 GN=Map7d3 PE=3 SV=1	Heliornis fulica	293	123	28.9	43.1	0.00012
+440	TR	A0A6P6RJ11	MAP7 domain-containing protein 1-like isoform X4 OS=Carassius auratus OX=7957 GN=LOC113119930 PE=3 SV=1	Carassius auratus	735	124	27.4	39.0	0.00014
+441	TR	A0A6P6RJM8	MAP7 domain-containing protein 1-like isoform X3 OS=Carassius auratus OX=7957 GN=LOC113119930 PE=3 SV=1	Carassius auratus	742	124	27.4	39.0	0.00014
+442	TR	A0A6P6RID1	MAP7 domain-containing protein 1-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113119930 PE=3 SV=1	Carassius auratus	770	124	27.4	39.0	0.00014
+443	TR	A0A6P6RJM3	MAP7 domain-containing protein 1-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113119930 PE=3 SV=1	Carassius auratus	777	124	27.4	39.0	0.00014
+444	TR	A0A3Q1DEL8	MAP7 domain-containing protein 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	838	124	30.7	40.0	0.00014
+445	TR	A0A3Q1BN61	MAP7 domain-containing protein 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	839	124	30.7	40.0	0.00014
+446	TR	A0A3Q1C682	MAP7 domain-containing protein 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	847	124	30.7	40.0	0.00014
+447	TR	A0A3Q1BSB8	MAP7 domain-containing protein 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	848	124	30.7	40.0	0.00014
+448	TR	A0A3Q1BNA2	MAP7 domain-containing protein 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	853	124	30.7	40.0	0.00014
+449	TR	A0A7L4JQR7	RBP2A protein (Fragment) OS=Ceuthmochares aereus OX=1961834 GN=Pf13 PE=3 SV=1	Ceuthmochares aereus	275	122	29.7	44.1	0.00015
+450	TR	A0A7K6YLP7	MA7D3 protein (Fragment) OS=Alca torda OX=28689 GN=Map7d3 PE=3 SV=1	Alca torda	293	122	29.6	44.4	0.00017
+451	TR	A0A093IU19	Ensconsin (Fragment) OS=Dryobates pubescens OX=118200 GN=N307_05352 PE=3 SV=1	Dryobates pubescens	573	123	29.5	44.0	0.00017
+452	TR	A0A9J7XCZ2	MAP7 domain containing 1b OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	712	123	28.0	41.3	0.00018
+453	TR	A0A8C1E1U4	MAP7 domain containing 1b OS=Cyprinus carpio OX=7962 PE=3 SV=2	Cyprinus carpio	735	123	28.0	41.3	0.00018
+454	TR	A0A7J6C6R3	MAP7 domain-containing protein 1-like OS=Onychostoma macrolepis OX=369639 GN=G5714_015862 PE=3 SV=1	Onychostoma macrolepis	748	123	28.5	43.0	0.00018
+455	TR	A0A9J7XIB5	MAP7 domain containing 1b OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	770	123	28.0	41.3	0.00019
+456	TR	A0A9J7X498	MAP7 domain containing 1b OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	771	123	28.0	41.3	0.00019
+457	TR	A0A2K3KJU3	Uncharacterized protein (Fragment) OS=Trifolium pratense OX=57577 GN=L195_g055157 PE=4 SV=1	Trifolium pratense	163	118	34.1	57.3	0.0002
+458	TR	A0A7K6J6T6	MA7D3 protein (Fragment) OS=Machaerirhynchus nigripectus OX=1160894 GN=Map7d3_1 PE=3 SV=1	Machaerirhynchus nigripectus	293	121	28.4	43.6	0.00022
+459	TR	A0A7J6C115	Thyroid hormone receptor-associated protein 3 OS=Onychostoma macrolepis OX=369639 GN=G5714_018947 PE=3 SV=1	Onychostoma macrolepis	1610	122	28.4	41.3	0.00028
+460	TR	A0A5P1EP13	Uncharacterized protein OS=Asparagus officinalis OX=4686 GN=A4U43_C05F3440 PE=4 SV=1	Asparagus officinalis	90	112	56.4	74.4	0.00036
+461	TR	A0A0M9VPX2	Num1-nuclear migration protein OS=Malassezia pachydermatis OX=77020 GN=Malapachy_1163 PE=4 SV=1	Malassezia pachydermatis	2436	121	28.0	43.1	0.00038
+462	TR	A0A7K4ZC17	RBP2A protein (Fragment) OS=Centropus unirufus OX=1118519 GN=Pf13 PE=3 SV=1	Centropus unirufus	275	119	28.9	42.8	0.00038
+463	TR	A0A0D2AG43	Chromatin assembly factor 1 subunit A OS=Exophiala oligosperma OX=215243 GN=PV06_08892 PE=4 SV=1	Exophiala oligosperma	604	120	27.8	43.9	0.00043
+464	TR	A0A9J7Y4L6	MAP7 domain containing 1a OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	749	120	27.1	43.5	0.00045
+465	TR	A0A8C1JCE5	MAP7 domain containing 1a OS=Cyprinus carpio OX=7962 PE=3 SV=1	Cyprinus carpio	783	120	27.1	43.5	0.00045
+466	TR	A0A9J8BPB6	MAP7 domain containing 1a OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	789	120	27.1	43.5	0.00046
+467	TR	A0A5F4WDA5	MAP7 domain containing 1 OS=Callithrix jacchus OX=9483 GN=MAP7D1 PE=3 SV=2	Callithrix jacchus	834	120	27.2	41.0	0.00046
+468	TR	A0A7N4P8G0	Dynactin subunit 1 OS=Sarcophilus harrisii OX=9305 GN=DCTN1 PE=3 SV=1	Sarcophilus harrisii	1241	120	25.3	43.8	0.00049
+469	TR	A0A3N6F3Q2	Large Ala/Glu-rich protein OS=Streptomyces sp. ADI96-02 OX=1522760 GN=EES43_20660 PE=4 SV=1	Streptomyces sp. ADI96-02	1287	120	34.0	52.4	0.00049
+470	TR	A0A7K8KXV7	RBP2A protein (Fragment) OS=Ardeotis kori OX=89386 GN=Pf13_0 PE=3 SV=1	Ardeotis kori	275	118	30.3	44.8	0.00052
+471	TR	A0A5F8GUZ1	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=1	Monodelphis domestica	3124	120	31.9	63.9	0.00052
+472	TR	A0A5F8G5V7	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=1	Monodelphis domestica	3472	120	31.9	63.9	0.00052
+473	TR	F7BVB6	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=3	Monodelphis domestica	3499	120	31.9	63.9	0.00052
+474	TR	A0A5F8H1Z2	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=1	Monodelphis domestica	3523	120	31.9	63.9	0.00052
+475	TR	A0A5F8HJQ9	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=1	Monodelphis domestica	3530	120	31.9	63.9	0.00052
+476	TR	A0A5F8HE34	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Monodelphis domestica OX=13616 PE=4 SV=1	Monodelphis domestica	3647	120	31.9	63.9	0.00052
+477	TR	A0A7K6VSC4	MA7D3 protein (Fragment) OS=Notiomystis cincta OX=366454 GN=Map7d3 PE=3 SV=1	Notiomystis cincta	286	118	27.0	43.0	0.00054
+478	TR	A0A7K8C8B8	MA7D3 protein (Fragment) OS=Rhagologus leucostigma OX=156170 GN=Map7d3 PE=3 SV=1	Rhagologus leucostigma	293	118	26.2	40.9	0.00055
+479	TR	A0A091SJ35	Ensconsin (Fragment) OS=Pelecanus crispus OX=36300 GN=N334_13897 PE=3 SV=1	Pelecanus crispus	576	119	30.3	44.8	0.00057
+480	TR	A0A5N5Q3E1	MAP7 domain-containing protein 1 OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00000360 PE=3 SV=1	Pangasianodon hypophthalmus	729	119	26.9	46.3	0.0006
+481	TR	A0A3N0XTE3	MAP7 domain-containing protein 1 (Fragment) OS=Anabarilius grahami OX=495550 GN=DPX16_13757 PE=3 SV=1	Anabarilius grahami	915	119	28.5	42.5	0.00063
+482	TR	A0A2T6DL18	Response regulatory domain-containing protein OS=Opitutaceae bacterium EW11 OX=2161865 GN=DB347_21995 PE=4 SV=1	Opitutaceae bacterium EW11	1106	119	33.0	52.4	0.00065
+483	TR	K9DA63	Protein TolA OS=Massilia timonae CCUG 45783 OX=883126 GN=HMPREF9710_04440 PE=4 SV=1	Massilia timonae CCUG 45783	406	118	26.1	44.9	0.00068
+484	TR	A0A060S9Z2	Uncharacterized protein OS=Pycnoporus cinnabarinus OX=5643 GN=BN946_scf185042.g110 PE=3 SV=1	Pycnoporus cinnabarinus	415	118	28.5	46.3	0.00068
+485	TR	A0A7K8JKV9	RBP2A protein (Fragment) OS=Lophotis ruficrista OX=172689 GN=Pf13 PE=3 SV=1	Lophotis ruficrista	275	117	30.3	44.8	0.0007
+486	TR	A0A7K8ACE9	MA7D3 protein (Fragment) OS=Cnemophilus loriae OX=254448 GN=Map7d3 PE=3 SV=1	Cnemophilus loriae	293	117	27.6	42.4	0.00075
+487	TR	A0A7L1JFF6	MA7D3 protein (Fragment) OS=Rynchops niger OX=227184 GN=Map7d3 PE=3 SV=1	Rynchops niger	293	117	27.5	43.4	0.00075
+488	TR	A0A7K5MJX3	MA7D3 protein (Fragment) OS=Cardinalis cardinalis OX=98964 GN=Map7d3 PE=3 SV=1	Cardinalis cardinalis	293	117	26.9	41.3	0.00075
+489	TR	A0A093QDN4	Ensconsin (Fragment) OS=Manacus vitellinus OX=328815 GN=N305_10002 PE=3 SV=1	Manacus vitellinus	556	118	29.6	43.9	0.00076
+490	TR	A0A444DKK8	Myb-like domain-containing protein (Fragment) OS=Ensete ventricosum OX=4639 GN=GW17_00038480 PE=4 SV=1	Ensete ventricosum	709	118	26.3	46.9	0.00081
+491	TR	A0A6P6R1Y9	MAP7 domain-containing protein 1-like isoform X6 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	727	118	27.1	43.5	0.00081
+492	TR	A0A6P6R247	MAP7 domain-containing protein 1-like isoform X5 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	733	118	27.1	43.5	0.00081
+493	TR	A0A6P6R3N3	MAP7 domain-containing protein 1-like isoform X4 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	740	118	27.1	43.5	0.00081
+494	TR	A0A4W6CA07	MAP7 domain-containing protein 1-like OS=Lates calcarifer OX=8187 GN=LOC108899463 PE=3 SV=1	Lates calcarifer	759	118	29.7	47.7	0.00082
+495	TR	A0A6P6R1H6	MAP7 domain-containing protein 1-like isoform X3 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	768	118	27.1	43.5	0.00082
+496	TR	A0A6P6R2Q9	MAP7 domain-containing protein 1-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	774	118	27.1	43.5	0.00082
+497	TR	A0A6P6R243	MAP7 domain-containing protein 1-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113115998 PE=3 SV=1	Carassius auratus	775	118	27.1	43.5	0.00082
+498	TR	A0A1M8A545	Uncharacterized protein OS=Malassezia sympodialis (strain ATCC 42132) OX=1230383 GN=MSYG_1942 PE=4 SV=1	Malassezia sympodialis (strain ATCC 42132)	781	118	24.0	43.4	0.00082
+499	TR	A0A4W6C875	MAP7 domain-containing protein 1-like OS=Lates calcarifer OX=8187 GN=LOC108899463 PE=3 SV=1	Lates calcarifer	787	118	29.7	47.7	0.00082
+500	TR	A0A4W6C1K5	MAP7 domain-containing protein 1-like OS=Lates calcarifer OX=8187 GN=LOC108899463 PE=3 SV=1	Lates calcarifer	794	118	29.7	47.7	0.00083
+501	TR	A0A6F9CQZ7	MAP7 domain-containing protein 1 OS=Coregonus sp. 'balchen' OX=861768 GN=CSTEINMANNI_LOCUS4562622 PE=3 SV=1	Coregonus sp. 'balchen'	864	118	27.6	45.3	0.00084
+502	TR	B5RSN5	DEHA2A00110p OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=DEHA2A00110g PE=4 SV=1	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968)	1408	118	28.4	48.6	0.00089
+503	TR	A0A2H3C6X1	MI domain-containing protein OS=Armillaria solidipes OX=1076256 GN=ARMSODRAFT_951626 PE=3 SV=1	Armillaria solidipes	1524	118	27.8	42.1	0.0009
+504	TR	A0A1C7HHJ6	Protein TolA OS=Burkholderiales bacterium YL45 OX=1834205 GN=A4V04_11555 PE=4 SV=1	Burkholderiales bacterium YL45	413	117	34.3	51.9	0.00092
+505	TR	A0A444UGK1	Zinc finger protein 821 OS=Acipenser ruthenus OX=7906 GN=EOD39_4860 PE=4 SV=1	Acipenser ruthenus	429	117	27.6	44.8	0.00093
+506	TR	A0A7K6KP48	MA7D3 protein (Fragment) OS=Oreocharis arfaki OX=979223 GN=Map7d3 PE=3 SV=1	Oreocharis arfaki	293	116	28.4	43.1	0.001
+507	TR	A0A7K9SPQ7	MA7D3 protein (Fragment) OS=Galbula dea OX=1109041 GN=Map7d3 PE=3 SV=1	Galbula dea	293	116	28.9	41.7	0.001
+508	TR	A0A7K9FZN0	MA7D3 protein (Fragment) OS=Stercorarius parasiticus OX=54059 GN=Map7d3 PE=3 SV=1	Stercorarius parasiticus	293	116	29.1	44.4	0.001
+509	TR	A0A091G605	Ensconsin (Fragment) OS=Cuculus canorus OX=55661 GN=N303_12815 PE=3 SV=1	Cuculus canorus	595	117	25.7	41.4	0.001
+510	TR	A0A5A9N2E5	MAP7 domain-containing protein 1 OS=Triplophysa tibetana OX=1572043 GN=E1301_Tti014172 PE=3 SV=1	Triplophysa tibetana	821	117	25.7	43.9	0.0011
+511	TR	A0A7H8NDE1	Polarized growth protein Scy OS=Streptomyces buecherae OX=2763006 GN=HUT08_26325 PE=4 SV=1	Streptomyces buecherae	1344	117	29.4	46.0	0.0012
+512	TR	A0A6P6M507	Trichohyalin-like OS=Carassius auratus OX=7957 GN=LOC113064655 PE=3 SV=1	Carassius auratus	1933	117	33.3	52.7	0.0012
+513	TR	A0A443P421	Transcription factor AS1 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_01438600 PE=4 SV=1	Cinnamomum micranthum f. kanehirae	270	115	33.3	48.0	0.0013
+514	TR	A0A7K5Y4F0	RBP2A protein (Fragment) OS=Pterocles burchelli OX=2585816 GN=Pf13 PE=3 SV=1	Pterocles burchelli	275	115	31.2	43.5	0.0013
+515	TR	A0A7K5LKE7	MA7D3 protein (Fragment) OS=Vireo altiloquus OX=34956 GN=Map7d3 PE=3 SV=1	Vireo altiloquus	293	115	27.6	42.9	0.0014
+516	TR	A0A7K8I3X7	MA7D3 protein (Fragment) OS=Aleadryas rufinucha OX=461220 GN=Map7d3 PE=3 SV=1	Aleadryas rufinucha	293	115	26.1	38.6	0.0014
+517	TR	A0A7K7YM08	MA7D3 protein (Fragment) OS=Thryothorus ludovicianus OX=74200 GN=Map7d3 PE=3 SV=1	Thryothorus ludovicianus	293	115	27.2	41.9	0.0014
+518	TR	A0A914MDL9	Uncharacterized protein OS=Meloidogyne incognita OX=6306 PE=4 SV=1	Meloidogyne incognita	539	116	30.5	56.8	0.0014
+519	TR	A0A6P3VT61	MAP7 domain-containing protein 1a isoform X4 OS=Clupea harengus OX=7950 GN=map7d1a PE=3 SV=1	Clupea harengus	774	116	28.7	45.6	0.0015
+520	TR	A0A6P8GBR1	MAP7 domain-containing protein 1a isoform X3 OS=Clupea harengus OX=7950 GN=map7d1a PE=3 SV=1	Clupea harengus	781	116	28.7	45.6	0.0015
+521	TR	A0A6P3VT57	MAP7 domain-containing protein 1a isoform X2 OS=Clupea harengus OX=7950 GN=map7d1a PE=3 SV=1	Clupea harengus	809	116	28.7	45.6	0.0015
+522	TR	A0A6P8G970	MAP7 domain-containing protein 1a isoform X1 OS=Clupea harengus OX=7950 GN=map7d1a PE=3 SV=1	Clupea harengus	816	116	28.7	45.6	0.0015
+523	TR	A0A2J6Q7A5	Stress response protein NST1 OS=Hyaloscypha hepaticicola OX=2082293 GN=NA56DRAFT_598460 PE=3 SV=1	Hyaloscypha hepaticicola	1204	116	36.7	56.7	0.0016
+524	TR	A0A4X2LM79	Dynactin subunit 1 OS=Vombatus ursinus OX=29139 GN=DCTN1 PE=3 SV=1	Vombatus ursinus	1256	116	26.0	44.3	0.0016
+525	TR	A0A6G0J9X5	Caskin-1 CASK-interacting protein 1 OS=Larimichthys crocea OX=215358 GN=D5F01_LYC00532 PE=4 SV=1	Larimichthys crocea	1262	116	26.0	43.2	0.0016
+526	TR	K7F271	Centrosomal protein 164 OS=Pelodiscus sinensis OX=13735 GN=CEP164 PE=4 SV=1	Pelodiscus sinensis	1364	116	34.9	54.7	0.0016
+527	TR	A0A834BRT2	Apoptotic chromatin condensation inducer in the nucleus OS=Oryzias melastigma OX=30732 GN=FQA47_019399 PE=4 SV=1	Oryzias melastigma	1684	116	27.9	43.3	0.0016
+528	TR	A0A671G8T2	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2135	116	29.7	53.4	0.0017
+529	TR	A0A3Q0E498	Golgin subfamily A member 4 isoform X4 OS=Carlito syrichta OX=1868482 GN=GOLGA4 PE=4 SV=1	Carlito syrichta	2221	116	30.4	55.7	0.0017
+530	TR	A0A3Q0E2J1	Golgin subfamily A member 4 isoform X3 OS=Carlito syrichta OX=1868482 GN=GOLGA4 PE=4 SV=1	Carlito syrichta	2234	116	30.4	55.7	0.0017
+531	TR	A0A671G3M7	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2240	116	29.7	53.4	0.0017
+532	TR	A0A1U7TSR3	Golgin subfamily A member 4 isoform X2 OS=Carlito syrichta OX=1868482 GN=GOLGA4 PE=4 SV=1	Carlito syrichta	2243	116	30.4	55.7	0.0017
+533	TR	A0A671G3H8	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2249	116	29.7	53.4	0.0017
+534	TR	A0A671GB68	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2252	116	29.7	53.4	0.0017
+535	TR	A0A3Q0E626	Golgin subfamily A member 4 isoform X1 OS=Carlito syrichta OX=1868482 GN=GOLGA4 PE=4 SV=1	Carlito syrichta	2274	116	30.4	55.7	0.0017
+536	TR	A0A671GB43	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2280	116	29.7	53.4	0.0017
+537	TR	A0A671G3R3	Golgin A4 OS=Rhinolophus ferrumequinum OX=59479 GN=GOLGA4 PE=4 SV=1	Rhinolophus ferrumequinum	2282	116	29.7	53.4	0.0017
+538	TR	A0A915LHD9	Uncharacterized protein OS=Meloidogyne javanica OX=6303 PE=4 SV=1	Meloidogyne javanica	426	115	30.5	56.8	0.0017
+539	TR	M7AQ96	Ensconsin OS=Chelonia mydas OX=8469 GN=UY3_15445 PE=3 SV=1	Chelonia mydas	527	115	26.7	42.9	0.0018
+540	TR	A0A7K9W0Q5	MA7D3 protein (Fragment) OS=Rhipidura dahli OX=667186 GN=Map7d3 PE=3 SV=1	Rhipidura dahli	292	114	26.6	45.4	0.0018
+541	TR	A0A7K9CMZ8	MA7D3 protein (Fragment) OS=Psilopogon haemacephalus OX=2585815 GN=Map7d3 PE=3 SV=1	Psilopogon haemacephalus	293	114	26.5	42.2	0.0018
+542	TR	A0A7K6NFJ3	MA7D3 protein (Fragment) OS=Pedionomus torquatus OX=227192 GN=Map7d3 PE=3 SV=1	Pedionomus torquatus	293	114	26.2	38.5	0.0018
+543	TR	A0A7K5APU0	MA7D3 protein (Fragment) OS=Furnarius figulus OX=463165 GN=Map7d3 PE=3 SV=1	Furnarius figulus	293	114	28.0	42.7	0.0018
+544	TR	A0A7L4NDS7	MA7D3 protein (Fragment) OS=Ceyx cyanopectus OX=390723 GN=Map7d3 PE=3 SV=1	Ceyx cyanopectus	293	114	25.9	42.8	0.0018
+545	TR	A0A7K5DP57	MA7D3 protein (Fragment) OS=Pachyramphus minor OX=369605 GN=Map7d3 PE=3 SV=1	Pachyramphus minor	293	114	29.1	43.9	0.0018
+546	TR	A0A3P8XQC3	MAP7 domain-containing protein 1 OS=Esox lucius OX=8010 PE=3 SV=2	Esox lucius	684	115	26.1	45.6	0.0019
+547	TR	A0A6P6LG46	MAP7 domain-containing protein 1-like isoform X6 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	723	115	27.5	43.0	0.002
+548	TR	A0A6P6LG00	MAP7 domain-containing protein 1-like isoform X5 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	733	115	27.5	43.0	0.002
+549	TR	A0A6P6LFY7	MAP7 domain-containing protein 1-like isoform X4 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	740	115	27.5	43.0	0.002
+550	TR	A0A3P8ZNF4	MAP7 domain-containing protein 1 OS=Esox lucius OX=8010 PE=3 SV=1	Esox lucius	754	115	26.1	45.6	0.002
+551	TR	A0A6P6LJ16	MAP7 domain-containing protein 1-like isoform X3 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	768	115	27.5	43.0	0.002
+552	TR	A0A6P6LJA0	MAP7 domain-containing protein 1-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	774	115	27.5	43.0	0.002
+553	TR	A0A6P6LFZ8	MAP7 domain-containing protein 1-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113059321 PE=3 SV=1	Carassius auratus	775	115	27.5	43.0	0.002
+554	TR	A0A3P8ZNT7	MAP7 domain-containing protein 1 OS=Esox lucius OX=8010 PE=3 SV=1	Esox lucius	782	115	26.1	45.6	0.002
+555	TR	A0A3P8XSS5	MAP7 domain-containing protein 1 OS=Esox lucius OX=8010 PE=3 SV=1	Esox lucius	789	115	26.1	45.6	0.002
+556	TR	A0A4Z1KUY5	Uncharacterized protein OS=Botrytis porri OX=87229 GN=BPOR_0168g00030 PE=3 SV=1	Botrytis porri	910	115	29.4	38.5	0.0021
+557	TR	A0A2M8LVQ1	Large Ala/Glu-rich protein OS=Streptomyces carminius OX=2665496 GN=CUT44_19745 PE=4 SV=1	Streptomyces carminius	1129	115	31.1	51.5	0.0021
+558	TR	A0A4S4M757	RING-type domain-containing protein OS=Bondarzewia mesenterica OX=1095465 GN=EW146_g400 PE=4 SV=1	Bondarzewia mesenterica	1390	115	30.3	47.9	0.0022
+559	TR	A0A919B467	Large Ala/Glu-rich protein OS=Streptomyces mashuensis OX=33904 GN=GCM10010218_35360 PE=4 SV=1	Streptomyces mashuensis	1683	115	31.2	50.5	0.0022
+560	TR	A0A667YV74	Si:ch211-220f16.2 OS=Myripristis murdjan OX=586833 PE=4 SV=1	Myripristis murdjan	1768	115	28.8	53.4	0.0022
+561	TR	A0A7K4XXC3	RBP2A protein (Fragment) OS=Regulus satrapa OX=13245 GN=Pf13 PE=3 SV=1	Regulus satrapa	275	113	28.0	45.0	0.0023
+562	TR	A0A6P8FPB4	Zinc finger protein 821 isoform X3 OS=Clupea harengus OX=7950 GN=LOC105906477 PE=4 SV=1	Clupea harengus	462	114	28.5	46.3	0.0023
+563	TR	A0A6P8F9R4	Zinc finger protein 821 isoform X2 OS=Clupea harengus OX=7950 GN=LOC105906477 PE=4 SV=1	Clupea harengus	483	114	28.5	46.3	0.0024
+564	TR	A0A6P8FNS6	Zinc finger protein 821 isoform X1 OS=Clupea harengus OX=7950 GN=LOC105906477 PE=4 SV=1	Clupea harengus	491	114	28.5	46.3	0.0024
+565	TR	A0A7K8TU10	MA7D3 protein (Fragment) OS=Oceanites oceanicus OX=79653 GN=Map7d3 PE=3 SV=1	Oceanites oceanicus	293	113	28.3	40.8	0.0025
+566	TR	A0A7K9ZX42	MA7D3 protein (Fragment) OS=Dicrurus megarhynchus OX=450177 GN=Map7d3 PE=3 SV=1	Dicrurus megarhynchus	293	113	27.1	40.4	0.0025
+567	TR	A0A851L8C6	MA7D3 protein (Fragment) OS=Corythaeola cristata OX=103954 GN=Map7d3 PE=3 SV=1	Corythaeola cristata	293	113	25.3	42.4	0.0025
+568	TR	A0A7K9E652	MA7D3 protein (Fragment) OS=Baryphthengus martii OX=176943 GN=Map7d3 PE=3 SV=1	Baryphthengus martii	293	113	27.6	41.5	0.0025
+569	TR	A0A093EZD9	Ensconsin (Fragment) OS=Gavia stellata OX=37040 GN=N328_00992 PE=3 SV=1	Gavia stellata	576	114	27.6	41.9	0.0025
+570	TR	A0A091WMH8	Ensconsin (Fragment) OS=Opisthocomus hoazin OX=30419 GN=N306_08660 PE=3 SV=1	Opisthocomus hoazin	576	114	29.2	43.6	0.0025
+571	TR	A0A498NMK9	Trichohyalin-like isoform X1 OS=Labeo rohita OX=84645 GN=ROHU_004490 PE=3 SV=1	Labeo rohita	693	114	27.9	44.2	0.0026
+572	TR	A0A9J8CF02	MAP7 domain containing 1a OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	730	114	27.5	42.5	0.0027
+573	TR	A0A8C0YLV7	MAP7 domain containing 1a OS=Cyprinus carpio OX=7962 PE=3 SV=2	Cyprinus carpio	756	114	27.5	42.5	0.0027
+574	TR	A0A8C4HFN9	MAP7 domain containing 1b OS=Dicentrarchus labrax OX=13489 PE=3 SV=2	Dicentrarchus labrax	766	114	27.2	40.8	0.0027
+575	TR	A0A8C0YK67	MAP7 domain containing 1a OS=Cyprinus carpio OX=7962 PE=3 SV=2	Cyprinus carpio	770	114	27.5	42.5	0.0027
+576	TR	A0A8C1A5T0	MAP7 domain containing 1a OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	784	114	27.5	42.5	0.0027
+577	TR	A0A8C0YKJ7	MAP7 domain containing 1a OS=Cyprinus carpio OX=7962 PE=3 SV=2	Cyprinus carpio	791	114	27.5	42.5	0.0027
+578	TR	A0A8P4KAR0	MAP7 domain containing 1b OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	800	114	27.2	40.8	0.0027
+579	TR	A0A8P4K3Q3	MAP7 domain containing 1b OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	801	114	27.2	40.8	0.0027
+580	TR	A0A6P7YMB7	MAP7 domain-containing protein 3 isoform X4 OS=Microcaecilia unicolor OX=1415580 GN=MAP7D3 PE=3 SV=1	Microcaecilia unicolor	805	114	25.6	41.0	0.0027
+581	TR	A0A6P7YRP6	MAP7 domain-containing protein 3 isoform X3 OS=Microcaecilia unicolor OX=1415580 GN=MAP7D3 PE=3 SV=1	Microcaecilia unicolor	839	114	25.6	41.0	0.0027
+582	TR	A0A6P7YRW3	MAP7 domain-containing protein 3 isoform X2 OS=Microcaecilia unicolor OX=1415580 GN=MAP7D3 PE=3 SV=1	Microcaecilia unicolor	840	114	25.6	41.0	0.0027
+583	TR	A0A6V7UQL7	RING-type domain-containing protein OS=Meloidogyne enterolobii OX=390850 GN=MENT_LOCUS16067 PE=4 SV=1	Meloidogyne enterolobii	842	114	30.5	56.8	0.0027
+584	TR	A0A6P7YLN3	MAP7 domain-containing protein 3 isoform X1 OS=Microcaecilia unicolor OX=1415580 GN=MAP7D3 PE=3 SV=1	Microcaecilia unicolor	847	114	25.6	41.0	0.0027
+585	TR	A0A2U1L4H3	DnaJ domain-containing protein OS=Artemisia annua OX=35608 GN=CTI12_AA531090 PE=4 SV=1	Artemisia annua	910	114	31.3	52.2	0.0028
+586	TR	A0A1C6NV93	Chromosome segregation ATPase OS=Streptomyces sp. WMMB 714 OX=1286822 GN=H181DRAFT_02866 PE=4 SV=1	Streptomyces sp. WMMB 714	1114	114	32.0	49.5	0.0028
+587	TR	A0A4D9E4R2	Gap junction gamma-2 protein OS=Platysternon megacephalum OX=55544 GN=DR999_PMT15745 PE=4 SV=1	Platysternon megacephalum	1274	114	33.7	55.8	0.0029
+588	TR	A0A3S9ZBI5	Polarized growth protein Scy OS=Streptomyces griseoviridis OX=45398 GN=DDJ31_26620 PE=4 SV=1	Streptomyces griseoviridis	1283	114	29.9	45.3	0.0029
+589	TR	A0A498MG96	Thyroid hormone receptor-associated 3-like protein OS=Labeo rohita OX=84645 GN=ROHU_007364 PE=3 SV=1	Labeo rohita	1439	114	28.1	41.5	0.0029
+590	TR	A0A498LR21	Thyroid hormone receptor-associated 3-like protein OS=Labeo rohita OX=84645 GN=ROHU_035241 PE=3 SV=1	Labeo rohita	1488	114	28.1	41.5	0.0029
+591	TR	A0A553L340	PAS domain-containing protein OS=Aliiglaciecola sp. M165 OX=2593649 GN=FM019_10725 PE=4 SV=1	Aliiglaciecola sp. M165	1796	114	29.5	47.4	0.003
+592	TR	A0A091HH29	Zinc finger protein 821 OS=Calypte anna OX=9244 GN=N300_09111 PE=4 SV=1	Calypte anna	410	113	29.2	47.9	0.003
+593	TR	A0A2K6G3Y2	Golgin A4 OS=Propithecus coquereli OX=379532 GN=GOLGA4 PE=4 SV=1	Propithecus coquereli	2157	114	31.9	56.4	0.003
+594	TR	A0A2K6G3X9	Golgin A4 OS=Propithecus coquereli OX=379532 GN=GOLGA4 PE=4 SV=1	Propithecus coquereli	2170	114	31.9	56.4	0.003
+595	TR	W5K6X0	Ninein OS=Astyanax mexicanus OX=7994 PE=4 SV=2	Astyanax mexicanus	2395	114	31.0	52.9	0.003
+596	TR	A0A3N2Q483	SWI5-dependent HO expression protein 3 OS=Sodiomyces alkalinus F11 OX=1314773 GN=SODALDRAFT_122598 PE=4 SV=1	Sodiomyces alkalinus F11	423	113	29.1	48.6	0.0031
+597	TR	A0A6J0BBP2	Beta-mannosyltransferase 1-like OS=Neodiprion lecontei OX=441921 GN=LOC107218354 PE=4 SV=1	Neodiprion lecontei	214	111	28.0	49.6	0.0031
+598	TR	A0A444TWE8	Zinc finger protein 821 OS=Acipenser ruthenus OX=7906 GN=EOD39_3079 PE=4 SV=1	Acipenser ruthenus	488	113	26.6	46.2	0.0032
+599	TR	A0A2G8SQ26	Uncharacterized protein OS=Ganoderma sinense ZZ0214-1 OX=1077348 GN=GSI_01537 PE=3 SV=1	Ganoderma sinense ZZ0214-1	489	113	27.9	44.3	0.0032
+600	TR	A5E3I0	Chromatin assembly factor 1 subunit A OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=LELG_04167 PE=4 SV=1	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239)	531	113	31.9	55.3	0.0033
+601	TR	A0A7L1P1V0	MA7D3 protein (Fragment) OS=Rhinopomastus cyanomelas OX=113115 GN=Map7d3 PE=3 SV=1	Rhinopomastus cyanomelas	291	112	28.9	45.3	0.0033
+602	TR	A0A7K5IHW2	MA7D3 protein (Fragment) OS=Toxostoma redivivum OX=99882 GN=Map7d3 PE=3 SV=1	Toxostoma redivivum	293	112	26.9	40.8	0.0033
+603	TR	A0A852MKC4	MA7D3 protein (Fragment) OS=Pteruthius melanotis OX=357074 GN=Map7d3 PE=3 SV=1	Pteruthius melanotis	293	112	28.0	41.7	0.0033
+604	TR	A0A087V672	Ensconsin (Fragment) OS=Balearica regulorum gibbericeps OX=100784 GN=N312_06039 PE=3 SV=1	Balearica regulorum gibbericeps	567	113	25.3	41.9	0.0034
+605	TR	A0A091MVX4	Ensconsin (Fragment) OS=Acanthisitta chloris OX=57068 GN=N310_01267 PE=3 SV=1	Acanthisitta chloris	573	113	24.9	41.5	0.0034
+606	TR	A0A8M3AJX7	MAP7 domain containing 1 isoform X4 OS=Danio rerio OX=7955 GN=map7d1b PE=3 SV=1	Danio rerio	699	113	28.1	42.1	0.0035
+607	TR	A8WG76	MAP7 domain containing 1 OS=Danio rerio OX=7955 GN=map7d1b PE=2 SV=1	Danio rerio	728	113	28.1	42.1	0.0036
+608	TR	A0A8M2BL37	MAP7 domain containing 1 isoform X3 OS=Danio rerio OX=7955 GN=map7d1b PE=3 SV=1	Danio rerio	735	113	28.1	42.1	0.0036
+609	TR	A0A8M2BL12	MAP7 domain containing 1 isoform X2 OS=Danio rerio OX=7955 GN=map7d1b PE=3 SV=1	Danio rerio	763	113	28.1	42.1	0.0036
+610	TR	A0A8M2BL29	MAP7 domain containing 1 isoform X1 OS=Danio rerio OX=7955 GN=map7d1b PE=3 SV=1	Danio rerio	770	113	28.1	42.1	0.0036
+611	TR	A0A8C5N366	MAP7 domain containing 3 OS=Leptobrachium leishanense OX=445787 GN=MAP7D3 PE=3 SV=1	Leptobrachium leishanense	864	113	28.4	43.7	0.0037
+612	TR	A0A2J6TKG6	Stress response protein NST1 OS=Hyaloscypha bicolor E OX=1095630 GN=K444DRAFT_651146 PE=3 SV=1	Hyaloscypha bicolor E	1191	113	35.6	56.7	0.0039
+613	TR	A0A7N4NP18	Dynactin subunit 1 OS=Sarcophilus harrisii OX=9305 GN=DCTN1 PE=3 SV=1	Sarcophilus harrisii	1259	113	24.7	42.2	0.0039
+614	TR	A0A2H3DCQ5	MI domain-containing protein OS=Armillaria gallica OX=47427 GN=ARMGADRAFT_972299 PE=3 SV=1	Armillaria gallica	1535	113	28.0	42.5	0.004
+615	TR	A0A8X8X396	Homeobox-DDT domain protein RLT2 OS=Salvia splendens OX=180675 GN=SASPL_132475 PE=4 SV=1	Salvia splendens	1769	113	25.9	44.9	0.004
+616	TR	A0A284QNC9	MI domain-containing protein OS=Armillaria ostoyae OX=47428 GN=ARMOST_01225 PE=3 SV=1	Armillaria ostoyae	1843	113	29.5	43.3	0.004
+617	TR	A0A7K5XLR5	MA7D3 protein (Fragment) OS=Dromas ardeola OX=458190 GN=Map7d3 PE=3 SV=1	Dromas ardeola	293	111	24.9	41.9	0.0045
+618	TR	A0A7K6WRR0	MA7D3 protein (Fragment) OS=Steatornis caripensis OX=48435 GN=Map7d3 PE=3 SV=1	Steatornis caripensis	293	111	25.9	42.5	0.0045
+619	TR	A0A7K4YW75	MA7D3 protein (Fragment) OS=Bucorvus abyssinicus OX=153643 GN=Map7d3 PE=3 SV=1	Bucorvus abyssinicus	293	111	25.9	42.3	0.0045
+620	TR	A0A368VP40	Cell wall synthesis protein Wag31 OS=Halopolyspora algeriensis OX=1500506 GN=DFQ14_107153 PE=3 SV=1	Halopolyspora algeriensis	293	111	26.1	44.9	0.0045
+621	TR	A0A671S5T7	MAP7 domain-containing protein 1-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107704979 PE=3 SV=1	Sinocyclocheilus anshuiensis	728	112	27.5	42.0	0.0048
+622	TR	A0A672L865	MAP7 domain-containing protein 1-like OS=Sinocyclocheilus grahami OX=75366 GN=LOC107588516 PE=3 SV=1	Sinocyclocheilus grahami	734	112	27.1	43.0	0.0048
+623	TR	A0A3B3H8S8	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	738	112	27.4	38.2	0.0048
+624	TR	A0A3Q3EVC2	MAP7 domain-containing protein 1-like OS=Labrus bergylta OX=56723 PE=3 SV=1	Labrus bergylta	787	112	27.0	48.3	0.0049
+625	TR	A0A3B3HUZ7	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	796	112	27.4	38.2	0.0049
+626	TR	A0A3B3I515	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	805	112	27.4	38.2	0.0049
+627	TR	A0A3B3HVS9	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	807	112	27.4	38.2	0.0049
+628	TR	A0A3Q3EVE3	MAP7 domain-containing protein 1-like OS=Labrus bergylta OX=56723 PE=3 SV=1	Labrus bergylta	815	112	27.0	48.3	0.0049
+629	TR	A0A3B3IL59	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	818	112	27.4	38.2	0.0049
+630	TR	A0A3Q3EV67	MAP7 domain-containing protein 1-like OS=Labrus bergylta OX=56723 PE=3 SV=1	Labrus bergylta	822	112	27.0	48.3	0.0049
+631	TR	A0A3B3HWV5	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	841	112	27.4	38.2	0.0049
+632	TR	A0A3B3IKL4	Ensconsin OS=Oryzias latipes OX=8090 GN=LOC101167801 PE=3 SV=1	Oryzias latipes	846	112	27.4	38.2	0.0049
+633	TR	A0A674IND0	Centrosomal protein 164 OS=Terrapene carolina triunguis OX=2587831 GN=CEP164 PE=4 SV=1	Terrapene carolina triunguis	991	112	33.7	54.7	0.0051
+634	TR	A0A1Y2G4T9	Uncharacterized protein OS=Leucosporidium creatinivorum OX=106004 GN=BCR35DRAFT_299859 PE=4 SV=1	Leucosporidium creatinivorum	1063	112	29.1	44.2	0.0051
+635	TR	A0A8T4IM31	Large Ala/Glu-rich protein OS=Streptomyces daliensis OX=299421 GN=KDA82_09420 PE=4 SV=1	Streptomyces daliensis	1139	112	30.2	50.9	0.0052
+636	TR	A0A0M8MZU2	Zinc finger protein 830 OS=Escovopsis weberi OX=150374 GN=ESCO_001515 PE=4 SV=1	Escovopsis weberi	370	111	26.6	41.8	0.0052
+637	TR	A0A8C3PB56	Centrosomal protein 164 OS=Chrysemys picta bellii OX=8478 GN=CEP164 PE=4 SV=1	Chrysemys picta bellii	1252	112	33.7	54.7	0.0052
+638	TR	G3WXJ9	Dynactin subunit 1 OS=Sarcophilus harrisii OX=9305 GN=DCTN1 PE=3 SV=2	Sarcophilus harrisii	1253	112	24.7	42.2	0.0052
+639	TR	A0A8C4YS49	Centrosomal protein 164 OS=Gopherus evgoodei OX=1825980 GN=CEP164 PE=4 SV=1	Gopherus evgoodei	1277	112	32.6	55.8	0.0052
+640	TR	A0A8C3I796	Centrosomal protein 164 OS=Chrysemys picta bellii OX=8478 GN=CEP164 PE=4 SV=1	Chrysemys picta bellii	1374	112	33.7	54.7	0.0053
+641	TR	A0A8C4YS09	Centrosomal protein 164 OS=Gopherus evgoodei OX=1825980 GN=CEP164 PE=4 SV=1	Gopherus evgoodei	1423	112	32.6	55.8	0.0053
+642	TR	A0A8C4YQJ4	Centrosomal protein 164 OS=Gopherus evgoodei OX=1825980 GN=CEP164 PE=4 SV=1	Gopherus evgoodei	1424	112	32.6	55.8	0.0053
+643	TR	A0A452GK87	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	1459	112	32.6	55.8	0.0053
+644	TR	A0A5C3R2A9	RING-type domain-containing protein OS=Pterula gracilis OX=1884261 GN=BDV98DRAFT_600050 PE=4 SV=1	Pterula gracilis	1464	112	27.5	41.8	0.0053
+645	TR	A0A8C4YPK6	Centrosomal protein 164 OS=Gopherus evgoodei OX=1825980 GN=CEP164 PE=4 SV=1	Gopherus evgoodei	1475	112	32.6	55.8	0.0053
+646	TR	A0A0L0V145	Chromatin-remodeling ATPase INO80 OS=Puccinia striiformis f. sp. tritici PST-78 OX=1165861 GN=PSTG_13586 PE=3 SV=1	Puccinia striiformis f. sp. tritici PST-78	1690	112	23.5	42.5	0.0054
+647	TR	A0A8C3I7B4	Centrosomal protein 164 OS=Chrysemys picta bellii OX=8478 GN=CEP164 PE=4 SV=1	Chrysemys picta bellii	1811	112	33.7	54.7	0.0054
+648	TR	D9Y886	Protein TolA OS=Burkholderiales bacterium 1_1_47 OX=469610 GN=tolA PE=4 SV=1	Burkholderiales bacterium 1_1_47	399	111	32.0	53.0	0.0054
+649	TR	A0A673CLP5	AIG1-type G domain-containing protein OS=Sphaeramia orbicularis OX=375764 PE=3 SV=1	Sphaeramia orbicularis	1901	112	30.9	47.3	0.0054
+650	TR	A0A452GK92	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	1920	112	32.6	55.8	0.0054
+651	TR	A0A452GK63	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	1926	112	32.6	55.8	0.0054
+652	TR	A0A8C3I776	Centrosomal protein 164 OS=Chrysemys picta bellii OX=8478 GN=CEP164 PE=4 SV=1	Chrysemys picta bellii	1958	112	33.7	54.7	0.0054
+653	TR	A0A452GKE6	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	1991	112	32.6	55.8	0.0054
+654	TR	A0A452GK98	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	1996	112	32.6	55.8	0.0054
+655	TR	A0A6J0YU78	Golgin subfamily A member 4-like isoform X3 OS=Odocoileus virginianus texanus OX=9880 GN=LOC110147500 PE=4 SV=1	Odocoileus virginianus texanus	2004	112	32.2	52.2	0.0054
+656	TR	A0A452GKH3	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	2007	112	32.6	55.8	0.0054
+657	TR	A0A452GKE0	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	2020	112	32.6	55.8	0.0054
+658	TR	A0A6J0YS52	Golgin subfamily A member 4-like isoform X2 OS=Odocoileus virginianus texanus OX=9880 GN=LOC110147500 PE=4 SV=1	Odocoileus virginianus texanus	2030	112	32.2	52.2	0.0054
+659	TR	A0A8H8MP27	Eukaryotic translation initiation factor 4G OS=Ceratobasidium sp. AG-Ba OX=170446 GN=RhiJN_26042 PE=3 SV=1	Ceratobasidium sp. AG-Ba	2031	112	26.2	43.9	0.0054
+660	TR	A0A6J0YSN1	Golgin subfamily A member 4-like isoform X1 OS=Odocoileus virginianus texanus OX=9880 GN=LOC110147500 PE=4 SV=1	Odocoileus virginianus texanus	2032	112	32.2	52.2	0.0054
+661	TR	A0A452GK19	Centrosomal protein 164 OS=Gopherus agassizii OX=38772 PE=4 SV=1	Gopherus agassizii	2072	112	32.6	55.8	0.0054
+662	TR	A0A5N3XWK2	GRIP domain-containing protein OS=Muntiacus reevesi OX=9886 GN=FD755_009691 PE=4 SV=1	Muntiacus reevesi	2227	112	32.2	52.2	0.0055
+663	TR	A0A556TQF7	Mitogen-activated protein kinase kinase kinase 5 OS=Bagarius yarrelli OX=175774 GN=Baya_4528 PE=3 SV=1	Bagarius yarrelli	2798	112	26.7	44.6	0.0055
+664	TR	A0A4P9X3U0	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Caulochytrium protostelioides OX=1555241 GN=CXG81DRAFT_20247 PE=4 SV=1	Caulochytrium protostelioides	4035	112	25.9	45.4	0.0056
+665	TR	A0A3B1IFM7	Zinc finger protein 821 OS=Astyanax mexicanus OX=7994 GN=ZNF821 PE=4 SV=1	Astyanax mexicanus	443	111	24.0	42.9	0.0056
+666	TR	W5LCZ9	Zinc finger protein 821 OS=Astyanax mexicanus OX=7994 GN=ZNF821 PE=4 SV=2	Astyanax mexicanus	449	111	24.0	42.9	0.0057
+667	TR	A0A7K5RTL6	MA7D3 protein (Fragment) OS=Lanius ludovicianus OX=28713 GN=Map7d3 PE=3 SV=1	Lanius ludovicianus	293	110	25.7	38.6	0.0061
+668	TR	A0A7K8IEM4	MA7D3 protein (Fragment) OS=Chaetorhynchus papuensis OX=254446 GN=Map7d3 PE=3 SV=1	Chaetorhynchus papuensis	293	110	25.7	38.6	0.0061
+669	TR	A0A7L2SI79	MA7D3 protein (Fragment) OS=Mystacornis crossleyi OX=98133 GN=Map7d3 PE=3 SV=1	Mystacornis crossleyi	293	110	26.3	41.5	0.0061
+670	TR	A0A851F6V8	MA7D3 protein (Fragment) OS=Pitta sordida OX=9163 GN=Map7d3 PE=3 SV=1	Pitta sordida	293	110	24.9	41.6	0.0061
+671	TR	A0A7L4CGG8	MA7D3 protein (Fragment) OS=Nyctiprogne leucopyga OX=382315 GN=Map7d3 PE=3 SV=1	Nyctiprogne leucopyga	293	110	29.1	44.8	0.0061
+672	TR	A0A7L3M134	MA7D3 protein (Fragment) OS=Turnix velox OX=2529409 GN=Map7d3 PE=3 SV=1	Turnix velox	293	110	26.9	39.9	0.0061
+673	TR	A0A7K5UUX0	MA7D3 protein (Fragment) OS=Platysteira castanea OX=1160851 GN=Map7d3 PE=3 SV=1	Platysteira castanea	293	110	25.7	38.2	0.0061
+674	TR	A0A8C6UV75	AIG1-type G domain-containing protein OS=Neogobius melanostomus OX=47308 PE=3 SV=1	Neogobius melanostomus	563	111	27.7	57.4	0.0061
+675	TR	A0A7L0RD87	MA7D3 protein (Fragment) OS=Glaucidium brasilianum OX=78217 GN=Map7d3 PE=3 SV=1	Glaucidium brasilianum	295	110	28.1	41.7	0.0061
+676	TR	A0A094NHM1	Ensconsin (Fragment) OS=Antrostomus carolinensis OX=279965 GN=N321_02698 PE=3 SV=1	Antrostomus carolinensis	574	111	29.1	44.8	0.0061
+677	TR	A0A4Q4UR93	Calponin-homology (CH) domain-containing protein OS=Monosporascus sp. MC13-8B OX=2211646 GN=DL766_007868 PE=4 SV=1	Monosporascus sp. MC13-8B	682	111	30.0	53.3	0.0064
+678	TR	A0A409WPS9	HMG box domain-containing protein OS=Psilocybe cyanescens OX=93625 GN=CVT25_001548 PE=4 SV=1	Psilocybe cyanescens	316	110	30.2	46.7	0.0064
+679	TR	A0A0D2NPP7	Uncharacterized protein OS=Hypholoma sublateritium (strain FD-334 SS-4) OX=945553 GN=HYPSUDRAFT_915560 PE=4 SV=1	Hypholoma sublateritium (strain FD-334 SS-4)	725	111	29.8	41.7	0.0064
+680	TR	A0A6I9Q7C3	Coiled-coil domain-containing protein 34-like OS=Notothenia coriiceps OX=8208 GN=LOC104968277 PE=4 SV=1	Notothenia coriiceps	326	110	30.6	52.3	0.0065
+681	TR	A0A8S4BUR2	(Atlantic silverside) hypothetical protein OS=Menidia menidia OX=238744 GN=MMEN_LOCUS19353 PE=3 SV=1	Menidia menidia	780	111	27.2	48.5	0.0065
+682	TR	A0A674N9K3	MAP7 domain-containing protein 2 OS=Takifugu rubripes OX=31033 GN=LOC101067565 PE=3 SV=1	Takifugu rubripes	801	111	27.2	40.8	0.0066
+683	TR	A0A674PIT5	MAP7 domain-containing protein 2 OS=Takifugu rubripes OX=31033 GN=LOC101067565 PE=3 SV=1	Takifugu rubripes	802	111	27.2	40.8	0.0066
+684	TR	A0A8M1FNX6	Ensconsin OS=Ursus maritimus OX=29073 GN=MAP7 PE=3 SV=1	Ursus maritimus	803	111	26.7	44.7	0.0066
+685	TR	A0A674PA58	MAP7 domain-containing protein 2 OS=Takifugu rubripes OX=31033 GN=LOC101067565 PE=3 SV=1	Takifugu rubripes	809	111	27.2	40.8	0.0066
+686	TR	A0A674MIT5	MAP7 domain-containing protein 2 OS=Takifugu rubripes OX=31033 GN=LOC101067565 PE=3 SV=1	Takifugu rubripes	815	111	27.2	40.8	0.0066
+687	TR	H2SC44	MAP7 domain-containing protein 2 OS=Takifugu rubripes OX=31033 GN=LOC101067565 PE=3 SV=3	Takifugu rubripes	843	111	27.2	40.8	0.0066
+688	TR	M7AMS4	Leucine-rich repeat and IQ domain-containing protein 1 OS=Chelonia mydas OX=8469 GN=UY3_16398 PE=4 SV=1	Chelonia mydas	854	111	26.8	41.7	0.0066
+689	TR	A0A5J5D860	MAP7 domain-containing protein 3 (Fragment) OS=Etheostoma spectabile OX=54343 GN=FQN60_010110 PE=3 SV=1	Etheostoma spectabile	920	111	28.2	39.8	0.0067
+690	TR	A0A841U197	Cell division protein ZapA OS=Cohnella xylanilytica OX=557555 GN=zapA PE=4 SV=1	Cohnella xylanilytica	1018	111	29.7	56.0	0.0068
+691	TR	A0A1Q5MNJ3	Large Ala/Glu-rich protein OS=Streptomyces sp. CB02488 OX=1703920 GN=AMK09_23280 PE=4 SV=1	Streptomyces sp. CB02488	1260	111	32.0	50.5	0.007
+692	TR	A0A941BSH1	Chromosome segregation ATPase OS=Streptomyces sp. B93 OX=2824875 GN=KBY47_25525 PE=4 SV=1	Streptomyces sp. B93	1281	111	30.2	50.9	0.007
+693	TR	A0A4Z0H6V5	Polarized growth protein Scy OS=Streptomyces palmae OX=1701085 GN=E4099_14355 PE=4 SV=1	Streptomyces palmae	1371	111	34.0	47.6	0.0071
+694	TR	A0A9J8CA93	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	1378	111	33.3	56.3	0.0071
+695	TR	A0A9J7YRF8	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1	Cyprinus carpio carpio	1471	111	33.3	56.3	0.0071
+696	TR	A0A196SC45	Viral A-type inclusion protein OS=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) OX=478820 GN=AV274_4662 PE=4 SV=1	Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII)	1588	111	36.0	56.0	0.0072
+697	TR	A0A445NF33	Large Ala/Glu-rich protein OS=Streptomyces netropsis OX=55404 GN=SNS2_3853 PE=4 SV=1	Streptomyces netropsis	1606	111	29.9	45.5	0.0072
+698	TR	A0A8C9Y7K1	Apoptotic chromatin condensation inducer in the nucleus-like OS=Sander lucioperca OX=283035 GN=LOC116055102 PE=4 SV=1	Sander lucioperca	1779	111	33.6	49.6	0.0072
+699	TR	A0A8X8X3I6	Homeobox-DDT domain protein RLT2 OS=Salvia splendens OX=180675 GN=SASPL_130052 PE=4 SV=1	Salvia splendens	1797	111	25.9	44.9	0.0072
+700	TR	A0A8C4LLM2	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2227	111	29.6	54.8	0.0073
+701	TR	A0A8C4LIK5	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2261	111	29.6	54.8	0.0073
+702	TR	A0A8C4LLP3	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2269	111	29.6	54.8	0.0073
+703	TR	A0A8C4LFW6	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2284	111	29.6	54.8	0.0073
+704	TR	A0A8C4PJL4	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2286	111	29.6	54.8	0.0073
+705	TR	A0A8C4LN46	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2289	111	29.6	54.8	0.0073
+706	TR	A0A8C4LGQ7	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2302	111	29.6	54.8	0.0073
+707	TR	A0A8C4LDP6	Golgin A4 OS=Equus asinus asinus OX=83772 GN=GOLGA4 PE=4 SV=1	Equus asinus asinus	2309	111	29.6	54.8	0.0073
+708	TR	A0A935C8F7	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex OS=Marivirga sp. S37H4 OX=2802615 GN=JKA74_11105 PE=3 SV=1	Marivirga sp. S37H4	478	110	27.5	56.0	0.0078
+709	TR	A0A2T7NU49	Uncharacterized protein OS=Pomacea canaliculata OX=400727 GN=C0Q70_15203 PE=4 SV=1	Pomacea canaliculata	134	105	35.3	52.9	0.0079
+710	TR	A0A7K9P141	MA7D3 protein (Fragment) OS=Edolisoma coerulescens OX=2585810 GN=Map7d3 PE=3 SV=1	Edolisoma coerulescens	292	109	25.8	43.8	0.0081
+711	TR	A0A7K9Q516	MA7D3 protein (Fragment) OS=Irena cyanogastra OX=175120 GN=Map7d3 PE=3 SV=1	Irena cyanogastra	292	109	28.4	41.8	0.0081
+712	TR	A0A7L1V087	MA7D3 protein (Fragment) OS=Sitta europaea OX=50251 GN=Map7d3 PE=3 SV=1	Sitta europaea	293	109	27.9	43.4	0.0082
+713	TR	A0A7K9I697	MA7D3 protein (Fragment) OS=Bucco capensis OX=135168 GN=Map7d3 PE=3 SV=1	Bucco capensis	293	109	24.9	41.5	0.0082
+714	TR	A0A093FWL2	Ensconsin (Fragment) OS=Tyto alba OX=56313 GN=N341_10361 PE=3 SV=1	Tyto alba	573	110	25.6	40.0	0.0082
+715	TR	A0A165R915	Nucleoplasmin-like domain-containing protein OS=Daedalea quercina L-15889 OX=1314783 GN=DAEQUDRAFT_725379 PE=4 SV=1	Daedalea quercina L-15889	636	110	24.7	40.4	0.0084
+716	TR	A0A671M386	MAP7 domain-containing protein 1-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107681622 PE=3 SV=1	Sinocyclocheilus anshuiensis	729	110	26.3	41.0	0.0087
+717	TR	A0A671M5B6	MAP7 domain-containing protein 1-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107681622 PE=3 SV=1	Sinocyclocheilus anshuiensis	730	110	26.3	41.0	0.0087
+718	TR	A0A7J6B0Y1	MAP7 domain-containing protein 1 OS=Ameiurus melas OX=219545 GN=AMELA_G00078130 PE=3 SV=1	Ameiurus melas	734	110	26.1	45.5	0.0087
+719	TR	A0A8C5ZZV9	Microtubule associated protein 7 OS=Marmota marmota marmota OX=9994 GN=MAP7 PE=3 SV=1	Marmota marmota marmota	735	110	26.6	42.9	0.0087
+720	TR	M5G713	p-loop containing nucleoside triphosphate hydrolase protein OS=Dacryopinax primogenitus (strain DJM 731) OX=1858805 GN=DACRYDRAFT_114816 PE=3 SV=1	Dacryopinax primogenitus (strain DJM 731)	740	110	25.4	42.1	0.0087
+721	TR	A0A8M9P7Z0	MAP7 domain-containing protein 1 isoform X6 OS=Danio rerio OX=7955 GN=map7d1a PE=1 SV=1	Danio rerio	743	110	26.0	41.6	0.0087
+722	TR	A0A8M9NZC0	MAP7 domain-containing protein 1 isoform X5 OS=Danio rerio OX=7955 GN=map7d1a PE=1 SV=1	Danio rerio	750	110	26.0	41.6	0.0087
+723	TR	A0A8C7BL79	Microtubule associated protein 7 OS=Neovison vison OX=452646 GN=MAP7 PE=3 SV=1	Neovison vison	775	110	27.5	43.1	0.0088
+724	TR	A0A674D5I3	MAP7 domain-containing protein 1-like OS=Salmo trutta OX=8032 GN=LOC115175604 PE=3 SV=1	Salmo trutta	778	110	26.4	44.0	0.0088
+725	TR	A0A8M9PJJ8	MAP7 domain-containing protein 1 isoform X3 OS=Danio rerio OX=7955 GN=map7d1a PE=1 SV=1	Danio rerio	778	110	26.0	41.6	0.0088
+726	TR	A0A8M9PMI8	MAP7 domain-containing protein 1 isoform X2 OS=Danio rerio OX=7955 GN=map7d1a PE=1 SV=1	Danio rerio	784	110	26.0	41.6	0.0088
+727	TR	A0A8M9PD59	MAP7 domain-containing protein 1 isoform X1 OS=Danio rerio OX=7955 GN=map7d1a PE=1 SV=1	Danio rerio	785	110	26.0	41.6	0.0088
+728	TR	A0A484CPN3	MAP7 domain-containing protein 1 OS=Perca flavescens OX=8167 GN=EPR50_G00146650 PE=3 SV=1	Perca flavescens	796	110	25.3	41.9	0.0088
+729	TR	A0A674D4C9	MAP7 domain-containing protein 1-like OS=Salmo trutta OX=8032 GN=LOC115175604 PE=3 SV=1	Salmo trutta	813	110	26.4	44.0	0.0089
+730	TR	A0A7L2K063	INCE protein (Fragment) OS=Cinclus mexicanus OX=161649 GN=Incenp PE=3 SV=1	Cinclus mexicanus	824	110	28.7	52.5	0.0089
+731	TR	A0A812ZHH0	BTN1 protein OS=Symbiodinium necroappetens OX=1628268 GN=BTN1 PE=4 SV=1	Symbiodinium necroappetens	835	110	29.6	49.3	0.0089
+732	TR	A0A6A4VFM1	E3 ubiquitin-protein ligase CHFR OS=Amphibalanus amphitrite OX=1232801 GN=rnf8-B_1 PE=3 SV=1	Amphibalanus amphitrite	858	110	30.8	53.8	0.0089
+733	TR	A0A8C7ZDF2	MAP7 domain containing 3 OS=Oryzias sinensis OX=183150 PE=3 SV=1	Oryzias sinensis	887	110	27.4	38.2	0.009
+734	TR	A0A2J6K4N5	J domain-containing protein OS=Lactuca sativa OX=4236 GN=LSAT_8X98661 PE=4 SV=1	Lactuca sativa	901	110	32.5	48.4	0.009
+735	TR	A0A0R0M2V0	Uncharacterized protein (Fragment) OS=Pseudoloma neurophilia OX=146866 GN=M153_982000585 PE=4 SV=1	Pseudoloma neurophilia	1025	110	32.4	53.9	0.0092
+736	TR	A0A926L7V8	Large Ala/Glu-rich protein OS=Streptomyces griseicoloratus OX=2752516 GN=H0H10_34715 PE=4 SV=1	Streptomyces griseicoloratus	1314	110	26.4	41.7	0.0094
+737	TR	A0A2W6RIM2	Polarized growth protein Scy OS=Streptomyces sp. SW4 OX=1453555 GN=DN402_11540 PE=4 SV=1	Streptomyces sp. SW4	1326	110	30.2	50.9	0.0095
+738	TR	A0A5P1FXR0	Uncharacterized protein OS=Asparagus officinalis OX=4686 GN=A4U43_C01F34890 PE=4 SV=1	Asparagus officinalis	146	105	32.6	52.8	0.0095
+739	TR	A0A8C9P7R0	Golgin A4 OS=Spermophilus dauricus OX=99837 PE=4 SV=1	Spermophilus dauricus	2171	110	30.0	53.3	0.0098
+740	TR	A0A8C5ZFZ9	Golgin A4 OS=Marmota marmota marmota OX=9994 GN=GOLGA4 PE=4 SV=1	Marmota marmota marmota	2214	110	30.0	53.3	0.0098
+741	TR	A0A452EUR7	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2225	110	30.4	53.0	0.0098
+742	TR	A0A452EUT2	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2227	110	30.4	53.0	0.0098
+743	TR	H2PB66	GOLGA4 isoform 1 OS=Pongo abelii OX=9601 GN=GOLGA4 PE=4 SV=2	Pongo abelii	2230	110	30.4	53.9	0.0098
+744	TR	A0A2J8WYH2	GOLGA4 isoform 4 OS=Pongo abelii OX=9601 GN=GOLGA4 PE=4 SV=1	Pongo abelii	2243	110	30.4	53.9	0.0098
+745	TR	W5NQ51	Golgin A4 OS=Ovis aries OX=9940 GN=GOLGA4 PE=4 SV=1	Ovis aries	2249	110	30.4	53.0	0.0098
+746	TR	A0A8I5YL92	Golgin A4 OS=Pongo abelii OX=9601 GN=GOLGA4 PE=4 SV=1	Pongo abelii	2250	110	30.4	53.9	0.0098
+747	TR	A0A452EUM7	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2251	110	30.4	53.0	0.0098
+748	TR	W5NQ54	Golgin A4 OS=Ovis aries OX=9940 GN=GOLGA4 PE=4 SV=1	Ovis aries	2251	110	30.4	53.0	0.0098
+749	TR	A0A8B7EZH5	Golgin A4 OS=Microcebus murinus OX=30608 GN=GOLGA4 PE=4 SV=1	Microcebus murinus	2251	110	29.7	52.3	0.0098
+750	TR	A0A8I5YQ86	Golgin A4 OS=Pongo abelii OX=9601 GN=GOLGA4 PE=4 SV=1	Pongo abelii	2252	110	30.4	53.9	0.0098
+751	TR	G3SN33	Golgin A4 OS=Loxodonta africana OX=9785 GN=GOLGA4 PE=4 SV=1	Loxodonta africana	2253	110	33.0	55.3	0.0098
+752	TR	A0A452EUP3	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2254	110	30.4	53.0	0.0098
+753	TR	A0A452EUM5	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2259	110	30.4	53.0	0.0098
+754	TR	A0A8C5YI21	Golgin A4 OS=Microcebus murinus OX=30608 GN=GOLGA4 PE=4 SV=1	Microcebus murinus	2260	110	29.7	52.3	0.0098
+755	TR	A0A452EUK5	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2282	110	30.4	53.0	0.0098
+756	TR	A0A8C5YIJ4	Golgin A4 OS=Microcebus murinus OX=30608 GN=GOLGA4 PE=4 SV=1	Microcebus murinus	2282	110	29.7	52.3	0.0098
+757	TR	A0A452EUH7	Golgin A4 OS=Capra hircus OX=9925 GN=GOLGA4 PE=4 SV=1	Capra hircus	2284	110	30.4	53.0	0.0098
+758	TR	A0A8B7F199	Golgin A4 OS=Microcebus murinus OX=30608 GN=GOLGA4 PE=4 SV=1	Microcebus murinus	2284	110	29.7	52.3	0.0098
+759	TR	I3MWV0	Golgin A4 OS=Ictidomys tridecemlineatus OX=43179 GN=GOLGA4 PE=4 SV=2	Ictidomys tridecemlineatus	2285	110	30.0	53.3	0.0098
+760	TR	A0A287D3L6	Golgin A4 OS=Ictidomys tridecemlineatus OX=43179 GN=GOLGA4 PE=4 SV=1	Ictidomys tridecemlineatus	2292	110	30.0	53.3	0.0099
+761	TR	A0A091UH61	Ensconsin (Fragment) OS=Phoenicopterus ruber ruber OX=9218 GN=N337_00926 PE=3 SV=1	Phoenicopterus ruber ruber	469	109	24.9	42.5	0.01
+762	TR	A0A7L0TM92	RBP2A protein (Fragment) OS=Chordeiles acutipennis OX=118183 GN=Pf13 PE=3 SV=1	Chordeiles acutipennis	275	108	27.5	43.9	0.01
+763	TR	A0A853AGU8	Cell wall synthesis protein Wag31 OS=Saccharopolyspora hordei OX=1838 GN=HNR68_001995 PE=3 SV=1	Saccharopolyspora hordei	276	108	28.1	47.1	0.01
+764	TR	A0A1Y2J112	APG6-domain-containing protein OS=Trametes coccinea BRFM310 OX=1353009 GN=PYCCODRAFT_1383157 PE=3 SV=1	Trametes coccinea BRFM310	488	109	25.8	45.6	0.011
+765	TR	A0A931DXW2	DUF6779 domain-containing protein OS=Corynebacterium aquatimens OX=1190508 GN=IW254_001311 PE=4 SV=1	Corynebacterium aquatimens	510	109	31.4	47.3	0.011
+766	TR	A0A6G6XNH1	Autotransporter outer membrane beta-barrel domain-containing protein OS=Dishui Lake phycodnavirus 3 OX=2704074 PE=4 SV=1	Dishui Lake phycodnavirus 3	524	109	27.3	48.2	0.011
+767	TR	A0A6G1GF05	Uncharacterized protein OS=Eremomyces bilateralis CBS 781.70 OX=1392243 GN=P152DRAFT_131136 PE=4 SV=1	Eremomyces bilateralis CBS 781.70	534	109	27.2	39.1	0.011
+768	TR	A0A7L3FSI3	MA7D3 protein (Fragment) OS=Zapornia atra OX=2585822 GN=Map7d3 PE=3 SV=1	Zapornia atra	292	108	25.3	41.5	0.011
+769	TR	A0A7K8Y6N6	MA7D3 protein (Fragment) OS=Sakesphorus luctuosus OX=419690 GN=Map7d3 PE=3 SV=1	Sakesphorus luctuosus	293	108	27.2	41.0	0.011
+770	TR	A0A7L2CP35	MA7D3 protein (Fragment) OS=Catharus fuscescens OX=159581 GN=Map7d3 PE=3 SV=1	Catharus fuscescens	293	108	25.7	38.2	0.011
+771	TR	A0A7L1E0D8	MA7D3 protein (Fragment) OS=Oenanthe oenanthe OX=279966 GN=Map7d3 PE=3 SV=1	Oenanthe oenanthe	293	108	25.7	38.2	0.011
+772	TR	A0A973Y6C6	MA7D3 protein (Fragment) OS=Rhegmatorhina hoffmannsi OX=468512 GN=Map7d3 PE=3 SV=1	Rhegmatorhina hoffmannsi	293	108	24.4	41.5	0.011
+773	TR	A0A2K3K3L7	Uncharacterized protein (Fragment) OS=Trifolium pratense OX=57577 GN=L195_g060380 PE=4 SV=1	Trifolium pratense	157	105	37.1	58.1	0.011
+774	TR	A0A7K8UXS0	MA7D3 protein (Fragment) OS=Ciccaba nigrolineata OX=1118524 GN=Map7d3 PE=3 SV=1	Ciccaba nigrolineata	295	108	27.6	41.7	0.011
+775	TR	A0A7K5ECR6	MA7D3 protein (Fragment) OS=Polioptila caerulea OX=66707 GN=Map7d3 PE=3 SV=1	Polioptila caerulea	295	108	27.1	41.8	0.011
+776	TR	A0A8C6CTA0	Microtubule associated protein 7 OS=Moschus moschiferus OX=68415 GN=MAP7 PE=3 SV=1	Moschus moschiferus	647	109	25.1	43.1	0.011
+777	TR	R7Z0V5	Calponin-homology (CH) domain-containing protein OS=Coniosporium apollinis (strain CBS 100218) OX=1168221 GN=W97_06914 PE=4 SV=1	Coniosporium apollinis (strain CBS 100218)	677	109	28.6	44.3	0.011
+778	TR	I3KHA4	MAP7 domain-containing protein 1 OS=Oreochromis niloticus OX=8128 GN=LOC100703997 PE=3 SV=2	Oreochromis niloticus	682	109	27.8	47.2	0.011
+779	TR	A0A668RB99	MAP7 domain containing 1a OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	698	109	27.8	47.2	0.012
+780	TR	A0A8C6CKT2	Microtubule associated protein 7 OS=Moschus moschiferus OX=68415 GN=MAP7 PE=3 SV=1	Moschus moschiferus	704	109	25.1	43.1	0.012
+781	TR	A0A8C6FF76	Microtubule associated protein 7 OS=Moschus moschiferus OX=68415 GN=MAP7 PE=3 SV=1	Moschus moschiferus	726	109	25.1	43.1	0.012
+782	TR	A0A8C6CKQ8	Microtubule associated protein 7 OS=Moschus moschiferus OX=68415 GN=MAP7 PE=3 SV=1	Moschus moschiferus	741	109	25.1	43.1	0.012
+783	TR	A0A6P7JYE7	MAP7 domain-containing protein 1-like isoform X5 OS=Parambassis ranga OX=210632 GN=LOC114448931 PE=3 SV=1	Parambassis ranga	752	109	28.1	46.2	0.012
+784	TR	A0A669CQA9	MAP7 domain-containing protein 1 OS=Oreochromis niloticus OX=8128 GN=LOC100703997 PE=3 SV=1	Oreochromis niloticus	752	109	27.8	47.2	0.012
+785	TR	A0A6P7JYC8	MAP7 domain-containing protein 1-like isoform X4 OS=Parambassis ranga OX=210632 GN=LOC114448931 PE=3 SV=1	Parambassis ranga	759	109	28.1	46.2	0.012
+786	TR	A0A8U0UEV3	MAP7 domain-containing protein 1-like isoform X6 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	761	109	27.1	42.5	0.012
+787	TR	A0A8U0QY90	MAP7 domain-containing protein 1-like isoform X5 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	771	109	27.1	42.5	0.012
+788	TR	A0A8C6CP73	Microtubule associated protein 7 OS=Moschus moschiferus OX=68415 GN=MAP7 PE=3 SV=1	Moschus moschiferus	771	109	25.1	43.1	0.012
+789	TR	A0A8U0UEV6	MAP7 domain-containing protein 1-like isoform X4 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	772	109	27.1	42.5	0.012
+790	TR	A0A6P7KR40	MAP7 domain-containing protein 1a isoform X8 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	783	109	27.1	44.7	0.012
+791	TR	A0A6P7KQY3	MAP7 domain-containing protein 1a isoform X7 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	784	109	27.1	44.7	0.012
+792	TR	A0A6P7JYD0	MAP7 domain-containing protein 1-like isoform X3 OS=Parambassis ranga OX=210632 GN=LOC114448931 PE=3 SV=1	Parambassis ranga	787	109	28.1	46.2	0.012
+793	TR	A0A6P7KRD5	MAP7 domain-containing protein 1a isoform X6 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	791	109	27.1	44.7	0.012
+794	TR	A0A6P7KTX8	MAP7 domain-containing protein 1a isoform X5 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	791	109	27.1	44.7	0.012
+795	TR	A0A6P7JZA9	MAP7 domain-containing protein 1-like isoform X2 OS=Parambassis ranga OX=210632 GN=LOC114448931 PE=3 SV=1	Parambassis ranga	793	109	28.1	46.2	0.012
+796	TR	A0A6P7K2N8	MAP7 domain-containing protein 1-like isoform X1 OS=Parambassis ranga OX=210632 GN=LOC114448931 PE=3 SV=1	Parambassis ranga	794	109	28.1	46.2	0.012
+797	TR	A0A669D6J6	MAP7 domain-containing protein 1 OS=Oreochromis niloticus OX=8128 GN=LOC100703997 PE=3 SV=1	Oreochromis niloticus	794	109	27.8	47.2	0.012
+798	TR	A0A8U0QV77	MAP7 domain-containing protein 1-like isoform X3 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	800	109	27.1	42.5	0.012
+799	TR	A0A8U0UFQ4	MAP7 domain-containing protein 1-like isoform X2 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	804	109	27.1	42.5	0.012
+800	TR	A0A8U0QVQ0	MAP7 domain-containing protein 1-like isoform X1 OS=Salvelinus namaycush OX=8040 GN=LOC120048326 PE=3 SV=1	Salvelinus namaycush	807	109	27.1	42.5	0.012
+801	TR	A0A7L1VIT9	INCE protein (Fragment) OS=Sitta europaea OX=50251 GN=Incenp_0 PE=3 SV=1	Sitta europaea	817	109	29.6	52.8	0.012
+802	TR	A0A6P7KR35	MAP7 domain-containing protein 1a isoform X3 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	818	109	27.1	44.7	0.012
+803	TR	A0A6P7KQX6	MAP7 domain-containing protein 1a isoform X2 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	819	109	27.1	44.7	0.012
+804	TR	A0A2K5Q809	MAP7 domain containing 1 OS=Cebus imitator OX=2715852 GN=MAP7D1 PE=3 SV=1	Cebus imitator	823	109	27.9	42.4	0.012
+805	TR	A0A6P7KRD0	MAP7 domain-containing protein 1a isoform X1 OS=Betta splendens OX=158456 GN=map7d1a PE=3 SV=1	Betta splendens	826	109	27.1	44.7	0.012
+806	TR	G2Q7W0	Kinetoplast-associated protein KAP OS=Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX=573729 GN=MYCTH_2300662 PE=4 SV=1	Thermothelomyces thermophilus (strain ATCC 42464 / BCRC 31852 / DSM 1799)	834	109	33.0	51.4	0.012
+807	TR	A0A556VUT1	MAP7 domain-containing protein 3 OS=Bagarius yarrelli OX=175774 GN=Baya_16253 PE=3 SV=1	Bagarius yarrelli	872	109	25.1	43.9	0.012
+808	TR	A0A7J6CBS1	Ensconsin-like OS=Onychostoma macrolepis OX=369639 GN=G5714_014088 PE=3 SV=1	Onychostoma macrolepis	875	109	28.0	44.1	0.012
+809	TR	A0A177TVY5	Chromatin assembly factor 1 subunit p150 C-terminal domain-containing protein OS=Tilletia indica OX=43049 GN=A4X13_0g2610 PE=4 SV=1	Tilletia indica	890	109	28.0	44.0	0.012
+810	TR	A0A023D0M0	Translation initiation factor IF-2 OS=Acidomonas methanolica NBRC 104435 OX=1231351 GN=infB PE=3 SV=1	Acidomonas methanolica NBRC 104435	934	109	32.7	50.9	0.012
+811	TR	A0A212CM07	SYNGAP1 OS=Cervus elaphus hippelaphus OX=46360 GN=Celaphus_00018522 PE=4 SV=1	Cervus elaphus hippelaphus	1028	109	25.6	45.7	0.012
+812	TR	A0A813C167	BTN1 protein OS=Symbiodinium sp. KB8 OX=230985 GN=BTN1 PE=3 SV=1	Symbiodinium sp. KB8	1143	109	31.3	51.1	0.012
+813	TR	A0A835QYU5	Uncharacterized protein OS=Vanilla planifolia OX=51239 GN=HPP92_010321 PE=4 SV=1	Vanilla planifolia	76	100	35.4	63.1	0.012
+814	TR	A0A1Q9F1P2	Protein BTN1 OS=Symbiodinium microadriaticum OX=2951 GN=BTN1 PE=3 SV=1	Symbiodinium microadriaticum	1165	109	31.3	51.1	0.013
+815	TR	A0A8S1HLG3	Myosin motor domain-containing protein OS=Caenorhabditis auriculariae OX=2777116 GN=CAUJ_LOCUS10049 PE=3 SV=1	Caenorhabditis auriculariae	1239	109	31.9	51.7	0.013
+816	TR	A0A4X2LXE8	Dynactin subunit 1 OS=Vombatus ursinus OX=29139 GN=DCTN1 PE=3 SV=1	Vombatus ursinus	1250	109	25.3	42.7	0.013
+817	TR	D8UCK2	Uncharacterized protein OS=Volvox carteri f. nagariensis OX=3068 GN=VOLCADRAFT_97367 PE=4 SV=1	Volvox carteri f. nagariensis	144	104	30.0	58.9	0.013
+818	TR	A0A7N4PHM7	Dynactin subunit 1 OS=Sarcophilus harrisii OX=9305 GN=DCTN1 PE=3 SV=1	Sarcophilus harrisii	1265	109	24.0	41.0	0.013
+819	TR	A0A6P7M4U6	Caskin-1-like isoform X3 OS=Betta splendens OX=158456 GN=LOC114852676 PE=4 SV=1	Betta splendens	1284	109	28.1	42.7	0.013
+820	TR	A0A1Q4YIE7	Large Ala/Glu-rich protein OS=Streptomyces sp. TSRI0281 OX=1718998 GN=A6A29_19000 PE=4 SV=1	Streptomyces sp. TSRI0281	1286	109	31.4	51.0	0.013
+821	TR	A0A918UC87	Large Ala/Glu-rich protein OS=Streptomyces poonensis OX=68255 GN=GCM10010365_02570 PE=4 SV=1	Streptomyces poonensis	1292	109	29.1	48.0	0.013
+822	TR	A0A918BRM4	Large Ala/Glu-rich protein OS=Streptomyces pilosus OX=28893 GN=GCM10010280_38220 PE=4 SV=1	Streptomyces pilosus	1293	109	34.6	50.5	0.013
+823	TR	A0A6P7M3B4	Caskin-1-like isoform X2 OS=Betta splendens OX=158456 GN=LOC114852676 PE=4 SV=1	Betta splendens	1311	109	28.1	42.7	0.013
+824	TR	A0A317ST02	Uncharacterized protein OS=Tuber magnatum OX=42249 GN=C7212DRAFT_363638 PE=4 SV=1	Tuber magnatum	1319	109	29.9	46.0	0.013
+825	TR	A0A6P7M4D9	Caskin-1-like isoform X1 OS=Betta splendens OX=158456 GN=LOC114852676 PE=4 SV=1	Betta splendens	1320	109	28.1	42.7	0.013
+826	TR	A0A089XHC3	Large Ala/Glu-rich protein OS=Streptomyces glaucescens OX=1907 GN=SGLAU_23180 PE=4 SV=1	Streptomyces glaucescens	1326	109	29.9	46.0	0.013
+827	TR	A0A8K0HZ71	Uncharacterized protein OS=Cocos nucifera OX=13894 GN=COCNU_02G009840 PE=4 SV=1	Cocos nucifera	248	107	31.5	51.7	0.013
+828	TR	A0A5N5WM44	MIF4G domain-containing protein OS=Aspergillus leporis OX=41062 GN=BDV29DRAFT_161239 PE=4 SV=1	Aspergillus leporis	1551	109	27.1	45.8	0.013
+829	TR	A0A804NFI0	Uncharacterized protein OS=Zea mays OX=4577 PE=4 SV=1	Zea mays	386	108	25.7	43.2	0.013
+830	TR	A0A212C910	GOLGA4 (Fragment) OS=Cervus elaphus hippelaphus OX=46360 GN=Celaphus_00010240 PE=4 SV=1	Cervus elaphus hippelaphus	1653	109	30.6	51.9	0.013
+831	TR	A8PC91	Uncharacterized protein OS=Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) OX=240176 GN=CC1G_05230 PE=4 SV=1	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003)	1898	109	36.1	55.4	0.013
+832	TR	A0A3Q1N365	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=1	Bos taurus	2136	109	30.4	53.0	0.013
+833	TR	A0A3Q1LVV6	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=1	Bos taurus	2164	109	30.4	53.0	0.013
+834	TR	A0A6P5DNZ2	Golgin subfamily A member 4 isoform X6 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2229	109	30.4	53.0	0.013
+835	TR	E1B7E3	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=2	Bos taurus	2229	109	30.4	53.0	0.013
+836	TR	A0A8C6G2D2	Golgin A4 OS=Moschus moschiferus OX=68415 GN=GOLGA4 PE=4 SV=1	Moschus moschiferus	2249	109	30.4	53.0	0.013
+837	TR	A0A6P5DS13	Golgin subfamily A member 4 isoform X5 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2251	109	30.4	53.0	0.013
+838	TR	F7ALF1	Golgin A4 OS=Equus caballus OX=9796 GN=GOLGA4 PE=4 SV=1	Equus caballus	2251	109	29.8	57.4	0.013
+839	TR	A0A4W2BTR5	Golgin A4 OS=Bos indicus x Bos taurus OX=30522 GN=GOLGA4 PE=4 SV=1	Bos indicus x Bos taurus	2251	109	30.4	53.0	0.013
+840	TR	A0A8C6G1T4	Golgin A4 OS=Moschus moschiferus OX=68415 GN=GOLGA4 PE=4 SV=1	Moschus moschiferus	2254	109	30.4	53.0	0.013
+841	TR	A0A3Q2I7V5	Golgin A4 OS=Equus caballus OX=9796 GN=GOLGA4 PE=4 SV=1	Equus caballus	2254	109	29.8	57.4	0.013
+842	TR	A0A4W2DNQ3	Golgin A4 OS=Bos indicus x Bos taurus OX=30522 GN=GOLGA4 PE=4 SV=1	Bos indicus x Bos taurus	2254	109	30.4	53.0	0.013
+843	TR	A0A3Q1MBQ3	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=1	Bos taurus	2254	109	30.4	53.0	0.013
+844	TR	A0A6P5DPT5	Golgin subfamily A member 4 isoform X4 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2256	109	30.4	53.0	0.013
+845	TR	A0A6P5DND4	Golgin subfamily A member 4 isoform X3 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2274	109	30.4	53.0	0.013
+846	TR	A0A6P5DNY8	Golgin subfamily A member 4 isoform X2 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2282	109	30.4	53.0	0.013
+847	TR	A0A8C6MMJ5	Golgin A4 OS=Moschus moschiferus OX=68415 GN=GOLGA4 PE=4 SV=1	Moschus moschiferus	2282	109	30.4	53.0	0.013
+848	TR	A0A3Q2H2G2	Golgin A4 OS=Equus caballus OX=9796 GN=GOLGA4 PE=4 SV=1	Equus caballus	2282	109	29.8	57.4	0.013
+849	TR	A0A4W2E8Q9	Golgin A4 OS=Bos indicus x Bos taurus OX=30522 GN=GOLGA4 PE=4 SV=1	Bos indicus x Bos taurus	2282	109	30.4	53.0	0.013
+850	TR	A0A3Q1MRJ5	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=1	Bos taurus	2282	109	30.4	53.0	0.013
+851	TR	A0A6P5DS06	Golgin subfamily A member 4 isoform X1 OS=Bos indicus OX=9915 GN=GOLGA4 PE=4 SV=1	Bos indicus	2284	109	30.4	53.0	0.013
+852	TR	A0A3Q2HL88	Golgin A4 OS=Equus caballus OX=9796 GN=GOLGA4 PE=4 SV=1	Equus caballus	2284	109	29.8	57.4	0.013
+853	TR	A0A8C6MNB2	Golgin A4 OS=Moschus moschiferus OX=68415 GN=GOLGA4 PE=4 SV=1	Moschus moschiferus	2284	109	30.4	53.0	0.013
+854	TR	A0A4W2E8Q4	Golgin A4 OS=Bos indicus x Bos taurus OX=30522 GN=GOLGA4 PE=4 SV=1	Bos indicus x Bos taurus	2284	109	30.4	53.0	0.013
+855	TR	A0A3Q1MPM7	Golgin A4 OS=Bos taurus OX=9913 GN=GOLGA4 PE=4 SV=1	Bos taurus	2303	109	30.4	53.0	0.013
+856	TR	A0A286YB49	Zinc finger protein 821 OS=Danio rerio OX=7955 GN=znf821 PE=4 SV=1	Danio rerio	408	108	26.5	43.1	0.013
+857	TR	A0A7N4PLU9	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1	Sarcophilus harrisii	3755	109	25.8	52.8	0.014
+858	TR	A0A7N4NVD8	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1	Sarcophilus harrisii	4151	109	25.8	52.8	0.014
+859	TR	A0A7N4NST3	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1	Sarcophilus harrisii	4158	109	25.8	52.8	0.014
+860	TR	A0A7N4P2W1	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1	Sarcophilus harrisii	4166	109	25.8	52.8	0.014
+861	TR	A0A7N4NKE2	Pericentrin/AKAP-450 centrosomal targeting domain-containing protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1	Sarcophilus harrisii	4216	109	25.8	52.8	0.014
+862	TR	A0A8N7TFU8	Zinc finger protein 821 isoform X1 OS=Danio rerio OX=7955 GN=znf821 PE=4 SV=1	Danio rerio	437	108	26.5	43.1	0.014
+863	TR	A0A3R7NAC9	Uncharacterized protein OS=Methylarcula marina OX=72022 GN=A7A09_017730 PE=4 SV=1	Methylarcula marina	217	106	29.8	57.4	0.015
+864	TR	A0A7K6T0C4	MA7D3 protein (Fragment) OS=Caloenas nicobarica OX=187106 GN=Map7d3 PE=3 SV=1	Caloenas nicobarica	292	107	24.9	42.5	0.015
+865	TR	A0A7L2ZBG5	MA7D3 protein (Fragment) OS=Prunella fulvescens OX=670355 GN=Map7d3 PE=3 SV=1	Prunella fulvescens	293	107	27.0	40.1	0.015
+866	TR	A0A7L2H806	MA7D3 protein (Fragment) OS=Sagittarius serpentarius OX=56258 GN=Map7d3 PE=3 SV=1	Sagittarius serpentarius	293	107	28.5	40.9	0.015
+867	TR	A0A7K9PWT9	MA7D3 protein (Fragment) OS=Pachycephala philippinensis OX=449367 GN=Map7d3 PE=3 SV=1	Pachycephala philippinensis	293	107	25.7	38.2	0.015
+868	TR	A0A7K8CVB2	MA7D3 protein (Fragment) OS=Eulacestoma nigropectus OX=461239 GN=Map7d3 PE=3 SV=1	Eulacestoma nigropectus	293	107	26.1	38.2	0.015
+869	TR	A0A7L0X3P2	MA7D3 protein (Fragment) OS=Tyrannus savana OX=137541 GN=Map7d3 PE=3 SV=1	Tyrannus savana	293	107	27.6	40.6	0.015
+870	TR	A0A7K5BLR4	MA7D3 protein (Fragment) OS=Motacilla alba OX=45807 GN=Map7d3 PE=3 SV=1	Motacilla alba	293	107	26.0	40.8	0.015
+871	TR	A0A091TNJ8	Ensconsin (Fragment) OS=Phaethon lepturus OX=97097 GN=N335_01901 PE=3 SV=1	Phaethon lepturus	575	108	24.8	40.6	0.015
+872	TR	A0A0P7V3F7	Caldesmon-like OS=Scleropages formosus OX=113540 GN=Z043_105115 PE=4 SV=1	Scleropages formosus	295	107	30.5	52.3	0.015
+873	TR	B6ILU3	Protein CBG26198 OS=Caenorhabditis briggsae OX=6238 GN=CBG26198 PE=4 SV=1	Caenorhabditis briggsae	298	107	24.6	50.9	0.015
+874	TR	A0A3P9P2B2	Ensconsin-like OS=Poecilia reticulata OX=8081 PE=3 SV=1	Poecilia reticulata	622	108	26.5	41.7	0.015
+875	TR	A0A4S3JWC4	M protein, serotype 2.1 OS=Aspergillus tanneri OX=1220188 GN=ATNIH1004_003139 PE=4 SV=1	Aspergillus tanneri	647	108	29.0	44.3	0.015
+876	TR	A0A843VNF5	Ubiquitin-like protease family profile domain-containing protein OS=Colocasia esculenta OX=4460 GN=Taro_025487 PE=3 SV=1	Colocasia esculenta	660	108	28.6	43.5	0.015
+877	TR	A0A096M1F7	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	664	108	27.9	40.1	0.015
+878	TR	A0A8U0UNL2	Ensconsin isoform X12 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	689	108	26.0	40.9	0.015
+879	TR	A0A3P9BIC2	MAP7 domain-containing protein 1 OS=Maylandia zebra OX=106582 PE=3 SV=1	Maylandia zebra	693	108	27.8	47.2	0.015
+880	TR	A0A3Q3CNJ0	MAP7 domain-containing protein 1-like OS=Haplochromis burtoni OX=8153 PE=3 SV=1	Haplochromis burtoni	707	108	27.8	47.2	0.016
+881	TR	A0A667X3X6	TBC1 domain family member 10B OS=Myripristis murdjan OX=586833 GN=tbc1d10b PE=4 SV=1	Myripristis murdjan	732	108	25.1	46.2	0.016
+882	TR	A0A8U0SPW7	Ensconsin isoform X11 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	734	108	26.0	40.9	0.016
+883	TR	A0A8M9Q1I3	MAP7 domain-containing protein 3 OS=Danio rerio OX=7955 GN=map7d3 PE=1 SV=1	Danio rerio	742	108	26.7	44.9	0.016
+884	TR	A0A8M1QLL1	MAP7 domain-containing protein 3 OS=Danio rerio OX=7955 GN=map7d3 PE=1 SV=1	Danio rerio	742	108	26.7	44.9	0.016
+885	TR	A0A8U0RGK0	Ensconsin isoform X10 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	742	108	26.0	40.9	0.016
+886	TR	A0A8U0MFQ3	Ensconsin isoform X9 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	757	108	26.0	40.9	0.016
+887	TR	A0A8U0UP21	Ensconsin isoform X8 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	764	108	26.0	40.9	0.016
+888	TR	A0A8U0MDH4	Ensconsin isoform X7 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	771	108	26.0	40.9	0.016
+889	TR	A0A8U0RDR5	Ensconsin isoform X6 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	772	108	26.0	40.9	0.016
+890	TR	A0A8U0THN0	Ensconsin isoform X5 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	779	108	26.0	40.9	0.016
+891	TR	A0A8U0NYH6	Ensconsin isoform X4 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	787	108	26.0	40.9	0.016
+892	TR	A0A087Y6L1	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=2	Poecilia formosa	792	108	27.9	40.1	0.016
+893	TR	A0A8U0RDC4	Ensconsin isoform X3 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	801	108	26.0	40.9	0.016
+894	TR	A0A8U0SPY8	Ensconsin isoform X2 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	806	108	26.0	40.9	0.016
+895	TR	A0A096M4I9	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	807	108	27.9	40.1	0.016
+896	TR	A0A8U0MGK7	Ensconsin isoform X1 OS=Mustela putorius furo OX=9669 GN=MAP7 PE=3 SV=1	Mustela putorius furo	809	108	26.0	40.9	0.016
+897	TR	A0A8C7Y1G4	C2 domain-containing protein OS=Oryzias sinensis OX=183150 PE=4 SV=1	Oryzias sinensis	816	108	30.7	55.7	0.016
+898	TR	A0A096M3T9	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	831	108	27.9	40.1	0.016
+899	TR	A0A5A9NYH9	Leucine-, glutamate-and lysine-rich protein 1 OS=Triplophysa tibetana OX=1572043 GN=E1301_Tti016074 PE=4 SV=1	Triplophysa tibetana	850	108	26.4	47.3	0.016
+900	TR	A0A3P9P289	Ensconsin-like OS=Poecilia reticulata OX=8081 PE=3 SV=1	Poecilia reticulata	857	108	26.5	41.7	0.016
+901	TR	A0A3P9P254	Ensconsin-like OS=Poecilia reticulata OX=8081 PE=3 SV=1	Poecilia reticulata	860	108	26.5	41.7	0.016
+902	TR	A0A1S3H1P0	BSD domain-containing protein 1 OS=Lingula unguis OX=7574 GN=LOC106151359 PE=4 SV=1	Lingula unguis	862	108	31.2	53.8	0.016
+903	TR	A0A096MBA3	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	864	108	27.9	40.1	0.016
+904	TR	A0A7K6WQL3	CE164 protein (Fragment) OS=Steatornis caripensis OX=48435 GN=Cep164_0 PE=4 SV=1	Steatornis caripensis	877	108	26.8	44.4	0.016
+905	TR	A0A667XBB9	TBC1 domain family member 10B OS=Myripristis murdjan OX=586833 GN=tbc1d10b PE=4 SV=1	Myripristis murdjan	933	108	25.1	46.2	0.016
+906	TR	A0A315VB46	MAP7 domain-containing protein 1 OS=Gambusia affinis OX=33528 GN=CCH79_00011526 PE=3 SV=1	Gambusia affinis	948	108	28.5	47.0	0.016
+907	TR	A0A369J6U3	Reticulocyte-binding protein 2 a OS=Hypsizygus marmoreus OX=39966 GN=Hypma_001095 PE=4 SV=1	Hypsizygus marmoreus	954	108	29.2	51.5	0.016
+908	TR	A2D7K4	Viral A-type inclusion protein OS=Trichomonas vaginalis (strain ATCC PRA-98 / G3) OX=412133 GN=TVAG_120590 PE=4 SV=1	Trichomonas vaginalis (strain ATCC PRA-98 / G3)	994	108	32.5	61.0	0.016
+909	TR	K8EKC4	C2H2-type domain-containing protein OS=Bathycoccus prasinos OX=41875 GN=Bathy11g03340 PE=4 SV=1	Bathycoccus prasinos	1040	108	26.8	45.8	0.017
+910	TR	A0A8C7Y2C0	C2 domain-containing protein OS=Oryzias sinensis OX=183150 PE=4 SV=1	Oryzias sinensis	1046	108	30.7	55.7	0.017
+911	TR	A0A0F4YPD5	Eukaryotic translation initiation factor 5B OS=Rasamsonia emersonii CBS 393.64 OX=1408163 GN=T310_6510 PE=4 SV=1	Rasamsonia emersonii CBS 393.64	1109	108	27.0	43.6	0.017
+912	TR	A0A1E7JGZ0	Large Ala/Glu-rich protein OS=Streptomyces abyssalis OX=933944 GN=AN215_25175 PE=4 SV=1	Streptomyces abyssalis	1117	108	30.1	51.5	0.017
+913	TR	A0A8C7XZQ2	Rab11 family-interacting protein 1 OS=Oryzias sinensis OX=183150 PE=4 SV=1	Oryzias sinensis	1122	108	30.7	55.7	0.017
+914	TR	A0A1D2MZJ8	Bromodomain-containing protein 2 OS=Orchesella cincta OX=48709 GN=Ocin01_08243 PE=4 SV=1	Orchesella cincta	1161	108	28.0	44.1	0.017
+915	TR	M5G301	RING-type domain-containing protein OS=Dacryopinax primogenitus (strain DJM 731) OX=1858805 GN=DACRYDRAFT_115341 PE=4 SV=1	Dacryopinax primogenitus (strain DJM 731)	1176	108	29.9	44.2	0.017
+916	TR	A0A8B7N8B7	Trichohyalin OS=Hyalella azteca OX=294128 GN=LOC108667556 PE=4 SV=1	Hyalella azteca	1177	108	34.1	54.1	0.017
+917	TR	A0A8C7Y1W0	Rab11 family-interacting protein 1 OS=Oryzias sinensis OX=183150 PE=4 SV=1	Oryzias sinensis	1177	108	30.7	55.7	0.017
+918	TR	A0A5F8HJQ8	Dynactin subunit 1 OS=Monodelphis domestica OX=13616 GN=DCTN1 PE=3 SV=1	Monodelphis domestica	1243	108	26.0	43.8	0.017
+919	TR	F7EQF1	Dynactin subunit 1 OS=Monodelphis domestica OX=13616 GN=DCTN1 PE=3 SV=3	Monodelphis domestica	1265	108	26.0	43.8	0.017
+920	TR	A0A5F8GV11	Dynactin subunit 1 OS=Monodelphis domestica OX=13616 GN=DCTN1 PE=3 SV=1	Monodelphis domestica	1270	108	26.0	43.8	0.017
+921	TR	A0A4S8MMH4	Uncharacterized protein OS=Dendrothele bispora (strain CBS 962.96) OX=1314807 GN=K435DRAFT_791673 PE=4 SV=1	Dendrothele bispora (strain CBS 962.96)	1285	108	26.8	52.0	0.017
+922	TR	A0A101QTZ4	Large Ala/Glu-rich protein OS=Streptomyces longwoodensis OX=68231 GN=AQJ30_22980 PE=4 SV=1	Streptomyces longwoodensis	1293	108	30.2	50.0	0.017
+923	TR	D7CFW8	M protein OS=Streptomyces bingchenggensis (strain BCW-1) OX=749414 GN=SBI_03755 PE=4 SV=1	Streptomyces bingchenggensis (strain BCW-1)	1337	108	28.4	50.0	0.017
+924	TR	A0A7L0W4W1	CE164 protein (Fragment) OS=Alectura lathami OX=81907 GN=Cep164 PE=4 SV=1	Alectura lathami	1359	108	28.4	44.5	0.017
+925	TR	A0A7L1HY24	CE164 protein (Fragment) OS=Nycticryphes semicollaris OX=227226 GN=Cep164 PE=4 SV=1	Nycticryphes semicollaris	1366	108	29.2	51.9	0.017
+926	TR	A0A7K9MUS4	CE164 protein (Fragment) OS=Oceanodroma tethys OX=79633 GN=Cep164 PE=4 SV=1	Oceanodroma tethys	1379	108	32.6	53.5	0.017
+927	TR	A0A2C5XHI7	Reticulocyte-binding protein 2-like protein a OS=Ceratocystis fimbriata CBS 114723 OX=1035309 GN=CFIMG_007289RA00001 PE=4 SV=1	Ceratocystis fimbriata CBS 114723	1413	108	24.6	43.3	0.017
+928	TR	A0A067PAK8	MI domain-containing protein OS=Jaapia argillacea MUCL 33604 OX=933084 GN=JAAARDRAFT_41657 PE=3 SV=1	Jaapia argillacea MUCL 33604	1627	108	26.7	43.1	0.017
+929	TR	A0A8C4WRL5	Pericentrin OS=Eptatretus burgeri OX=7764 PE=4 SV=1	Eptatretus burgeri	1928	108	28.7	52.1	0.018
+930	TR	A0A8C4WRI8	Pericentrin OS=Eptatretus burgeri OX=7764 PE=4 SV=1	Eptatretus burgeri	1964	108	28.7	52.1	0.018
+931	TR	A0A3Q7SAE9	Golgin subfamily A member 4 isoform X5 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2110	108	33.0	55.3	0.018
+932	TR	A0A7J8HQS8	Golgin A4 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_005770 PE=4 SV=1	Rousettus aegyptiacus	2227	108	29.6	53.9	0.018
+933	TR	A0A7J7UCB0	Golgin A4 OS=Myotis myotis OX=51298 GN=mMyoMyo1_005817 PE=4 SV=1	Myotis myotis	2229	108	27.9	54.1	0.018
+934	TR	A0A7J8HQ90	Golgin A4 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_005770 PE=4 SV=1	Rousettus aegyptiacus	2240	108	29.6	53.9	0.018
+935	TR	A0A7J8HQQ0	Golgin A4 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_005770 PE=4 SV=1	Rousettus aegyptiacus	2247	108	29.6	53.9	0.018
+936	TR	A0A3Q7TNS7	Golgin subfamily A member 4 isoform X6 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2248	108	33.0	55.3	0.018
+937	TR	A0A7J7UCH8	Golgin A4 OS=Myotis myotis OX=51298 GN=mMyoMyo1_005817 PE=4 SV=1	Myotis myotis	2249	108	27.9	54.1	0.018
+938	TR	A0A3Q7SK47	Golgin subfamily A member 4 isoform X4 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2250	108	33.0	55.3	0.018
+939	TR	A0A7J7UC54	Golgin A4 OS=Myotis myotis OX=51298 GN=mMyoMyo1_005817 PE=4 SV=1	Myotis myotis	2254	108	27.9	54.1	0.018
+940	TR	A0A3Q7T858	Golgin subfamily A member 4 isoform X3 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2255	108	33.0	55.3	0.018
+941	TR	A0A7J8HPG3	Golgin A4 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_005770 PE=4 SV=1	Rousettus aegyptiacus	2280	108	29.6	53.9	0.018
+942	TR	A0A3Q7SMP9	Golgin subfamily A member 4 isoform X2 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2281	108	33.0	55.3	0.018
+943	TR	A0A811YFV6	(raccoon dog) hypothetical protein OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS6067 PE=4 SV=1	Nyctereutes procyonoides	2283	108	33.0	55.3	0.018
+944	TR	A0A3Q7TNS2	Golgin subfamily A member 4 isoform X1 OS=Vulpes vulpes OX=9627 GN=GOLGA4 PE=4 SV=1	Vulpes vulpes	2283	108	33.0	55.3	0.018
+945	TR	A0A671K9L5	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2327	108	29.5	50.9	0.018
+946	TR	A0A671K8P5	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2356	108	29.5	50.9	0.018
+947	TR	A0A671K8N9	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2356	108	29.5	50.9	0.018
+948	TR	A0A671KCT9	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2383	108	29.5	50.9	0.018
+949	TR	A0A671K8R4	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2387	108	29.5	50.9	0.018
+950	TR	A0A671K8Q8	Golgin subfamily A member 4-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107688375 PE=4 SV=1	Sinocyclocheilus anshuiensis	2388	108	29.5	50.9	0.018
+951	TR	A0A670IN56	Zinc finger protein 821 OS=Podarcis muralis OX=64176 GN=ZNF821 PE=4 SV=1	Podarcis muralis	428	107	28.2	46.3	0.018
+952	TR	A0A6G0UXP2	Uncharacterized protein (Fragment) OS=Halicephalobus sp. NKZ332 OX=2598192 GN=FO519_002968 PE=4 SV=1	Halicephalobus sp. NKZ332	4949	108	32.1	58.0	0.018
+953	TR	D8M796	Trichohyalin-plectin-homology domain-containing protein OS=Blastocystis hominis OX=12968 GN=GSBLH_T00003742001 PE=4 SV=1	Blastocystis hominis	477	107	29.8	44.7	0.019
+954	TR	A0A3N0Y582	Zinc finger protein 821 OS=Anabarilius grahami OX=495550 GN=DPX16_10393 PE=4 SV=1	Anabarilius grahami	482	107	28.8	43.9	0.019
+955	TR	A0A851DZY6	MA7D3 protein (Fragment) OS=Dryoscopus gambensis OX=85069 GN=Map7d3 PE=3 SV=1	Dryoscopus gambensis	278	106	25.6	40.8	0.019
+956	TR	A0A096LSU2	MAP7 domain-containing protein 2-like OS=Poecilia formosa OX=48698 PE=3 SV=1	Poecilia formosa	555	107	27.4	39.3	0.02
+957	TR	A0A7L0VR20	MA7D3 protein (Fragment) OS=Leptocoma aspasia OX=2585812 GN=Map7d3 PE=3 SV=1	Leptocoma aspasia	293	106	25.4	40.6	0.02
+958	TR	A0A7K9YJE0	MA7D3 protein (Fragment) OS=Odontophorus gujanensis OX=886794 GN=Map7d3 PE=3 SV=1	Odontophorus gujanensis	293	106	24.9	40.8	0.02
+959	TR	A0A7K9VQD0	MA7D3 protein (Fragment) OS=Anseranas semipalmata OX=8851 GN=Map7d3 PE=3 SV=1	Anseranas semipalmata	293	106	24.9	42.0	0.02
+960	TR	A0A7K8Y5F6	MA7D3 protein (Fragment) OS=Eubucco bourcierii OX=91767 GN=Map7d3 PE=3 SV=1	Eubucco bourcierii	293	106	25.4	42.3	0.02
+961	TR	A0A7L1IB14	MA7D3 protein (Fragment) OS=Smutsornis africanus OX=240209 GN=Map7d3 PE=3 SV=1	Smutsornis africanus	293	106	27.2	41.0	0.02
+962	TR	A0A7K9U5Z3	MA7D3 protein (Fragment) OS=Chloroceryle aenea OX=176938 GN=Map7d3 PE=3 SV=1	Chloroceryle aenea	293	106	24.9	41.5	0.02
+963	TR	A0A7K9KGT3	MA7D3 protein (Fragment) OS=Dicaeum eximium OX=667154 GN=Map7d3 PE=3 SV=1	Dicaeum eximium	293	106	25.4	40.6	0.02
+964	TR	A0A7K8WVB6	MA7D3 protein (Fragment) OS=Sclerurus mexicanus OX=265632 GN=Map7d3 PE=3 SV=1	Sclerurus mexicanus	293	106	27.5	43.1	0.02
+965	TR	A0A452QPN4	Microtubule associated protein 7 OS=Ursus americanus OX=9643 GN=MAP7 PE=3 SV=1	Ursus americanus	642	107	26.0	44.7	0.02
+966	TR	A0A0F8URG8	M protein, serotype 2.1 OS=Aspergillus rambellii OX=308745 GN=ARAM_000897 PE=4 SV=1	Aspergillus rambellii	642	107	26.6	45.2	0.02
+967	TR	W5K286	Rho/rac guanine nucleotide exchange factor (GEF) 18a OS=Astyanax mexicanus OX=7994 PE=4 SV=2	Astyanax mexicanus	657	107	26.3	44.4	0.021
+968	TR	A0A6J0NUS1	Vicilin-like seed storage protein At2g18540 OS=Raphanus sativus OX=3726 GN=LOC108858798 PE=4 SV=1	Raphanus sativus	662	107	31.5	52.8	0.021
+969	TR	A0A4Q4ZGY5	Calponin-homology (CH) domain-containing protein OS=Monosporascus sp. CRB-8-3 OX=2211644 GN=DL769_000672 PE=4 SV=1	Monosporascus sp. CRB-8-3	670	107	30.0	52.2	0.021
+970	TR	A0A452QPK0	Microtubule associated protein 7 OS=Ursus americanus OX=9643 GN=MAP7 PE=3 SV=1	Ursus americanus	679	107	26.0	44.7	0.021
+971	TR	A0A4Q4ZSL6	Calponin-homology (CH) domain-containing protein OS=Monosporascus sp. CRB-9-2 OX=2211643 GN=DL770_002296 PE=4 SV=1	Monosporascus sp. CRB-9-2	682	107	30.0	52.2	0.021
+972	TR	A0A4Q4UZ00	Calponin-homology (CH) domain-containing protein OS=Monosporascus sp. MG133 OX=2211645 GN=DL767_008210 PE=4 SV=1	Monosporascus sp. MG133	682	107	30.0	51.1	0.021
+973	TR	A0A4V1XEW4	Calponin-homology (CH) domain-containing protein OS=Monosporascus sp. GIB2 OX=2211647 GN=DL765_004085 PE=4 SV=1	Monosporascus sp. GIB2	682	107	30.0	52.2	0.021
+974	TR	A0A0K0XTB4	Protein TolA OS=Wenzhouxiangella marina OX=1579979 GN=WM2015_518 PE=4 SV=1	Wenzhouxiangella marina	311	106	29.4	53.2	0.021
+975	TR	A0A2N7VR44	Histidine kinase OS=Trinickia soli OX=380675 GN=C0Z19_21385 PE=4 SV=1	Trinickia soli	727	107	33.7	57.6	0.021
+976	TR	A0A7G2C5R2	Uncharacterized protein OS=Angomonas deanei OX=59799 GN=ADEAN_000253300 PE=4 SV=1	Angomonas deanei	760	107	25.1	41.1	0.021
+977	TR	A0A5N5NUU9	MAP7 domain-containing protein 3 OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00222970 PE=3 SV=1	Pangasianodon hypophthalmus	786	107	25.2	43.7	0.021
+978	TR	A0A667XLM8	Coiled-coil domain containing 144A OS=Myripristis murdjan OX=586833 GN=ccdc144a PE=4 SV=1	Myripristis murdjan	791	107	26.7	45.6	0.021
+979	TR	A0A1S3KGE1	BSD domain-containing protein 1 OS=Lingula unguis OX=7574 GN=LOC106181775 PE=4 SV=1	Lingula unguis	803	107	32.6	55.8	0.021
+980	TR	A0A6P8UIW3	Coiled-coil domain-containing protein 34 OS=Gymnodraco acuticeps OX=8218 GN=zgc:153293 PE=4 SV=1	Gymnodraco acuticeps	329	106	30.6	50.5	0.022
+981	TR	A0A851KFX0	INCE protein (Fragment) OS=Vidua chalybeata OX=81927 GN=Incenp PE=3 SV=1	Vidua chalybeata	835	107	28.0	50.4	0.022
+982	TR	A0A7J6B8B6	MAP7 domain-containing protein 3 OS=Ameiurus melas OX=219545 GN=AMELA_G00035730 PE=3 SV=1	Ameiurus melas	850	107	25.7	42.8	0.022
+983	TR	Q0TYI2	PH domain-containing protein OS=Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) OX=321614 GN=SNOG_15521 PE=4 SV=2	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173)	884	107	25.8	41.9	0.022
+984	TR	A0A222FQP2	Uncharacterized protein OS=Bacterioplanes sanyensis OX=1249553 GN=CHH28_19505 PE=4 SV=1	Bacterioplanes sanyensis	336	106	36.5	56.8	0.022
+985	TR	A0A5N6K427	Uncharacterized protein OS=Monilinia laxa OX=61186 GN=EYC80_002303 PE=3 SV=1	Monilinia laxa	904	107	26.9	38.0	0.022
+986	TR	A0A8P4KFX1	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	949	107	32.0	53.0	0.022
+987	TR	A0A850YK72	MA7D3 protein (Fragment) OS=Aegithalos caudatus OX=73327 GN=Map7d3 PE=3 SV=1	Aegithalos caudatus	237	105	26.4	41.4	0.022
+988	TR	A0A8P4GAH7	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1181	107	32.0	53.0	0.023
+989	TR	A0A8P4GJ49	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1185	107	32.0	53.0	0.023
+990	TR	A0A8C4DYR0	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=2	Dicentrarchus labrax	1197	107	32.0	53.0	0.023
+991	TR	A0A8P4KCU8	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1199	107	32.0	53.0	0.023
+992	TR	A0A8P4KQ13	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1201	107	32.0	53.0	0.023
+993	TR	A0A8P4FYQ7	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1202	107	32.0	53.0	0.023
+994	TR	A0A8P4G7Y2	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1203	107	32.0	53.0	0.023
+995	TR	A0A8P4GE20	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1203	107	32.0	53.0	0.023
+996	TR	A0A8P4K4A3	AIG1-type G domain-containing protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	1205	107	32.0	53.0	0.023
+997	TR	A0A0M8VBK7	Large Ala/Glu-rich protein OS=Streptomyces sp. NRRL WC-3618 OX=1519490 GN=ADL01_30470 PE=4 SV=1	Streptomyces sp. NRRL WC-3618	1258	107	30.2	51.7	0.023
+998	TR	L1L173	M protein repeat protein OS=Streptomyces ipomoeae 91-03 OX=698759 GN=STRIP9103_06796 PE=4 SV=1	Streptomyces ipomoeae 91-03	1282	107	30.2	49.1	0.023
+999	TR	A0A494V507	Large Ala/Glu-rich protein OS=Streptomyces fungicidicus OX=68203 GN=CNQ36_24595 PE=4 SV=1	Streptomyces fungicidicus	1293	107	30.8	51.4	0.023
+1000	TR	A0A919BA18	DUF2637 domain-containing protein OS=Streptomyces mashuensis OX=33904 GN=GCM10010218_65660 PE=4 SV=1	Streptomyces mashuensis	368	106	31.1	48.4	0.023
