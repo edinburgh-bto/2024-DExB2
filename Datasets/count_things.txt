@@ -1,0 +1,10 @@
+Waun_fach	45	44	103	521
+Ffos_fawr		2	233	324
+Aberheidol	67	23	432	734
+Hen_cae	8	6	612	123
+Glynan	23		332	243
+Derwen	4	9	12	734
+Llanwenant	55			128
+Heol-y-bryn	1	11	543	223
+Lan-y-mor	2	34	723	316
+Pen-y-garn	67	3		

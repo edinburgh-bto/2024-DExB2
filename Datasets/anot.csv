@@ -1,0 +1,13 @@
+﻿Gene,Name,Locus,Function,Pathway
+AG,AGAMOUS,AT4G18960,MADS domain transcription factor.,Flowering
+AP1,APETALA1,AT1G69120,MADS domain transcription factor.,Flowering
+LFY,LEAFY,AT5G61850,LFY domain TF,Flowering
+UFO,UNUSUAL FLORAL ORGANS,AT1G30950,F-box family protein,Flowering
+AGO1,ARGONAUTE 1,AT1G48410,RNA Slicer,Epigenetic
+CLF,CURLY LEAF,AT2G23380,Polycomb-group gene ,Epigenetic
+HEN3,HUA ENHANCER 3,AT5G63610,Cyclin-dependent protein kinases,Epigenetic
+RDR2,RNA-DEPENDENT RNA POLYMERASE 2,AT4G11130,RNA-dependent RNA polymerase,Epigenetic
+TTG,TRANSPARENT TEST G>ABRA,AT5G24520,WD40 repeat TF,Trichome
+GL2,GLABRA2,AT1G79840,homeodomain protein ,Trichome
+WER,WEREWOLF,AT5G14750,MyB domain TF,Trichome
+CPC,CAPRICE,AT2G46410,MyB domain TF,Trichome
