@@ -140,7 +140,7 @@ class CI_demo:
             ax.plot(xr, r, color='Yellow', lw=1)
             ax.set_ylim(-1, 1)
             ax.set_xlabel('Sample size $n$')
-            ax.set_ylabel('95% CI')
+            ax.set_ylabel('95% CI for ρ')
             # a vertical line showing the 95% CI for the current sample size
             x = self.n
             y1 = lower[self.n-10]
