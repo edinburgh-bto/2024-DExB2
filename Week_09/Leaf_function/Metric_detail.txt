@@ -1,0 +1,63 @@
+Observation	Detail
+A_1	Leaf_Area_1(mm2)
+P_1	Leaf_perimeter_1(mm)
+SP_1/A_1	Perimeter squared over area
+C	Circularity
+width	Leaf Width (mm)
+Length	Leaf Length (mm)
+l:W	Length to width ratio
+H. Symm	Leaf symmetry_horizontal
+ver.symm 	Leaf symmetry_vertical
+N._I	Number of indnets in leaf
+I_w_m	Mean leaf indent width
+I_d_m	mean leaf indent depth
+Fw (g)	Leaf fresh weight
+Dw 1 (gm)	Leaf dry wieght
+A_2	Leaf_Area_2 (mm2)
+SLA	Speciofic leaf area
+Ldmc	Ldmc ( mgg-1)
+LMA	LMA (gm-2)
+Chlorophyll	Chlorophyll content (Spad)
+%N	Percent nitrogen
+%C	percent carbon
+peaked_epidermis	Adaxial epidermis cell type
+leaf_depth	Leaf_thickness
+Ad_epi	Thickness  of adaxial epidermis
+Ad_hyp	Thickness  of adaxial hypodermis
+Ad_cell	Adaxial cell depth
+Ndhc	Adaxial  hypodermis cell layers
+Ab_epi	Thickness  of abaxial epidermis
+Ab_hyp	Thickness  of abaxial hypodermis
+Ab_cell	Abaxial cell depth
+Nbhc	Abaxial  hypodermis cell layers
+meso	Depth of mesophyll
+dpm	Dpeth of palisade mesophyll
+dsm	Depth of spongy mesophyll
+NscF	Number of stomatal clusters per mm2 of leaf 
+Av	Average distance between stomatal clusters
+sscw	Substomatal chamber width
+sscl	Substomatal chamber length
+Nsc	Number of stomata in each cluster
+blt1	Abaxial length of trichomes type 1
+bNt1	Abaxial number of trichomes type 1
+bNt2	Abaxial number of trichome type 2
+dNt1	Adaxial number of trichomes type 1
+dNt2	Adaxial number of trichome type 2
+wp	Width of petiole
+Ncvb	Number of central vascular bundles
+Nivb	Number of inner vascular bundles
+Novb	Number of outer vascular bundles
+Livb	Length of inner vascular bundle in cross section
+wivb	Width of inner vascular bundle in cross section
+Lovb	Length of outer vascular bundle in cross section
+wovb	Width of outer vascular bundle in cross section
+PetL	Petiole Length
+PetW	Petiole Width
+LL1	Length_Leaf_1
+LL2	Length_Leaf_2
+LW	Leaf_width
+StipL	Stipule_lengthRhizome count
+rhiz	
+N0L	Number of leaves
+Lrhiz	Length of rhizome
+wrhiz	Width of rhizome
